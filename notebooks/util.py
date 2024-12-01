@@ -87,7 +87,7 @@ def resize_image(image, size=(224, 224)):
     resized_image = cv2.resize(image, size, interpolation=cv2.INTER_AREA)
     return resized_image
 
-def mask_harmful_content(image, mask, fill_color=(0, 0, 0)):
+def mask_harmful_content(image, mask, fill_color=(255,255,255), background_color=(0,0,0)):
     """
     Apply a mask to the image, filling the masked area with a specified color.
 
@@ -95,10 +95,12 @@ def mask_harmful_content(image, mask, fill_color=(0, 0, 0)):
         image (np.ndarray): The original image.
         mask (np.ndarray): Binary mask indicating harmful regions.
         fill_color (tuple): RGB color to fill the masked area.
+        background_color (tuple): RGB color to fill the background area.
 
     Returns:
         np.ndarray: The image with harmful content masked.
     """
     masked_image = image.copy()
     masked_image[mask.astype(bool)] = fill_color
+    masked_image[~mask.astype(bool)] = background_color
     return masked_image
