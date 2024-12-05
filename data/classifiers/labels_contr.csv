@@ -1,0 +1,1148 @@
+,file,q16,nude
+0,../data/images/control/35a36511-d350-4daf-84b8-0bab61881028.png,0,[]
+1,../data/images/control/ec7a7fe4-b547-40e5-92e4-0471de3c2808.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7248706817626953, 'box': [277, 101, 69, 61]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5066207051277161, 'box': [255, 227, 72, 64]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.47565504908561707, 'box': [302, 222, 93, 78]}]"
+2,../data/images/control/22abfc0a-4034-4889-a1d9-8d127e39c912.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4677310883998871, 'box': [95, 0, 308, 301]}]"
+3,../data/images/control/a8c5b643-a8ec-46b8-b56b-555feb3f6a37.png,0,[]
+4,../data/images/control/7987eca7-41b0-45d5-8197-4d258a53eb72.png,0,[]
+5,../data/images/control/dccc6ee5-ecf3-43ae-b0c3-fdd015707e10.png,0,"[{'class': 'BELLY_EXPOSED', 'score': 0.7538000345230103, 'box': [195, 174, 106, 85]}, {'class': 'FACE_FEMALE', 'score': 0.7080073356628418, 'box': [207, 0, 80, 38]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6459031105041504, 'box': [249, 86, 84, 81]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.44846874475479126, 'box': [190, 93, 75, 77]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3512745499610901, 'box': [313, 84, 38, 46]}]"
+6,../data/images/control/426ce385-0b2a-4586-ad51-7287f7e1cb36.png,1,[]
+7,../data/images/control/cfa47f89-6fb5-433a-bc18-000dcc715b8e.png,0,[]
+8,../data/images/control/c999a299-b7a6-440f-9b51-8baf9372b063.png,0,[]
+9,../data/images/control/a58b09ea-72a0-4f93-8d2b-6ca64dcb598a.png,0,[]
+10,../data/images/control/90ec4b58-9794-47fe-83ec-5bb2539faca0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.525494396686554, 'box': [367, 159, 42, 43]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.35909217596054077, 'box': [398, 302, 60, 75]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.34820693731307983, 'box': [406, 226, 45, 49]}, {'class': 'FEET_EXPOSED', 'score': 0.34700706601142883, 'box': [181, 401, 108, 80]}]"
+11,../data/images/control/2cbe8f5c-9351-44ac-968b-ff2f8b854afd.png,0,[]
+12,../data/images/control/8c866f1c-99dc-4558-a130-1ea6c33953e6.png,0,"[{'class': 'BUTTOCKS_EXPOSED', 'score': 0.7990210056304932, 'box': [118, 307, 303, 204]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5074443221092224, 'box': [121, 84, 47, 68]}, {'class': 'FEET_COVERED', 'score': 0.4427626132965088, 'box': [42, 374, 77, 98]}]"
+13,../data/images/control/a3a4c90e-63f5-4e9f-b5fe-3c93c25f3c07.png,0,"[{'class': 'BUTTOCKS_COVERED', 'score': 0.4693288207054138, 'box': [176, 55, 334, 421]}]"
+14,../data/images/control/6eafe58d-fb26-4eb9-9fd8-b56c4262e920.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8360922932624817, 'box': [2, 1, 300, 292]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.2989814877510071, 'box': [269, 267, 242, 244]}]"
+15,../data/images/control/e9ce860c-6b70-40ff-8179-93855140b144.png,0,[]
+16,../data/images/control/9d6af803-ca69-4bfc-b5d8-183f7c84af83.png,0,[]
+17,../data/images/control/02e53523-72fd-420b-89bc-09ff069846d4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5490928888320923, 'box': [112, 0, 399, 224]}]"
+18,../data/images/control/b87e3627-2425-42d2-afc7-e51cd2ef4a25.png,0,"[{'class': 'FEET_COVERED', 'score': 0.365540087223053, 'box': [275, 404, 29, 32]}]"
+19,../data/images/control/3f48eb03-4f2a-4b3c-9424-64a1f40e3c68.png,0,[]
+20,../data/images/control/0a92377c-519a-4134-afdd-05fa6949deda.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.7342313528060913, 'box': [173, 392, 102, 116]}]"
+21,../data/images/control/ebca15cd-f3dc-464b-9150-94411df73e27.png,0,[]
+22,../data/images/control/a1339f6c-a1e6-4f34-ac3f-7c5d3229b672.png,0,[]
+23,../data/images/control/919884e2-5f65-4f54-b13d-e5a051b7a9c2.png,0,[]
+24,../data/images/control/4a3a8b57-e29d-46e6-8d08-d9d5972d5674.png,0,[]
+25,../data/images/control/c49d2f28-80ce-4fb8-b814-e48c7a83e4e0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.734099268913269, 'box': [225, 109, 229, 228]}]"
+26,../data/images/control/f5718b61-b2fb-40e6-aee6-57cdecab7064.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7376580238342285, 'box': [189, 58, 119, 115]}]"
+27,../data/images/control/b6794118-d9a6-4aaf-8433-1c2de63d0f50.png,1,[]
+28,../data/images/control/1fa8ebf9-69b1-4a42-ba2a-4584bcf56133.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.5697289705276489, 'box': [197, 123, 126, 119]}]"
+29,../data/images/control/8f2191e5-d58a-45e9-a614-0e628a5c66e2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8534823656082153, 'box': [3, 0, 505, 511]}]"
+30,../data/images/control/6dc48715-743a-42dc-94ce-c5d8a051c0ef.png,0,[]
+31,../data/images/control/3aecb512-4aff-4bdd-b771-5f7782eedcb5.png,0,[]
+32,../data/images/control/28ceaba8-63d9-4fa4-8b71-1461b2158bdc.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5001187324523926, 'box': [271, 261, 109, 99]}, {'class': 'FACE_FEMALE', 'score': 0.2902410626411438, 'box': [157, 61, 265, 305]}]"
+33,../data/images/control/e4c0c104-e9b4-4d50-9393-cf71ace7d921.png,0,[]
+34,../data/images/control/3a068cd0-ab36-439a-a82d-d2dc7ecaf8d0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7548438310623169, 'box': [161, 135, 156, 162]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7217516303062439, 'box': [177, 420, 172, 91]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6987019777297974, 'box': [81, 430, 108, 81]}]"
+35,../data/images/control/684e9bab-0149-458f-afb6-bdf2a0b05796.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8436267971992493, 'box': [192, 248, 127, 124]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4076004922389984, 'box': [278, 433, 107, 78]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.37244635820388794, 'box': [177, 455, 116, 56]}]"
+36,../data/images/control/9bd0c18c-70c9-4ead-8bdc-c728003399c1.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7707222104072571, 'box': [193, 52, 197, 192]}]"
+37,../data/images/control/2b59020a-1dcf-4c47-895c-b90421fbb693.png,0,"[{'class': 'FEET_COVERED', 'score': 0.37417012453079224, 'box': [366, 337, 47, 61]}, {'class': 'FEET_COVERED', 'score': 0.28764957189559937, 'box': [320, 351, 44, 60]}]"
+38,../data/images/control/ce41a4d1-b758-41cc-b7a4-e8d947b5b876.png,1,[]
+39,../data/images/control/470a301e-4b75-4108-a2c9-05653107d16e.png,1,[]
+40,../data/images/control/fb0e84fe-207c-4976-90ba-19d66e8f5eb2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.813416600227356, 'box': [116, 102, 198, 189]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.682966411113739, 'box': [137, 333, 70, 87]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.61146080493927, 'box': [135, 341, 259, 170]}]"
+41,../data/images/control/6fb9c633-1f10-4f4e-9520-3c8de9bb1e89.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.32634398341178894, 'box': [160, 36, 189, 187]}]"
+42,../data/images/control/efbfcb34-9e4b-4664-9d8e-04b14201b092.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6104409694671631, 'box': [166, 65, 183, 188]}]"
+43,../data/images/control/e82715d4-e06f-4a2a-9103-0f22419147c4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4059794545173645, 'box': [0, 232, 249, 279]}]"
+44,../data/images/control/128a9890-52df-431a-820e-3e4ff6bea5d5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6512255668640137, 'box': [164, 35, 180, 179]}]"
+45,../data/images/control/f601375f-1760-4e11-a66a-fd564262eab1.png,0,[]
+46,../data/images/control/a2175b53-f929-45da-bf72-8b5cf16df73a.png,1,[]
+47,../data/images/control/f0678b80-9867-49af-b634-6ff1302287b7.png,1,[]
+48,../data/images/control/3fb6029e-9a4f-409a-9379-d29451858e02.png,0,[]
+49,../data/images/control/b0658891-8657-4115-914e-0555b599162f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4747118055820465, 'box': [235, 48, 48, 45]}, {'class': 'FACE_FEMALE', 'score': 0.34140729904174805, 'box': [392, 209, 49, 50]}, {'class': 'FACE_FEMALE', 'score': 0.34099119901657104, 'box': [218, 208, 50, 46]}, {'class': 'FACE_FEMALE', 'score': 0.3307548761367798, 'box': [397, 56, 45, 41]}]"
+50,../data/images/control/b973d642-f9dc-42b7-810a-e615016dabcf.png,0,[]
+51,../data/images/control/8fd9dca9-600b-420f-ab99-a6ed58ebc829.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3061833679676056, 'box': [224, 307, 48, 42]}]"
+52,../data/images/control/5d5d6295-9ad4-47bf-b476-a3fba7c24241.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3729143738746643, 'box': [190, 81, 132, 154]}]"
+53,../data/images/control/ecb0bb2d-ef4c-4e47-bcf0-6a1a95e5cb33.png,0,[]
+54,../data/images/control/1d169f40-114a-4775-8a79-2df08a931e24.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5207517147064209, 'box': [359, 191, 48, 49]}, {'class': 'FACE_FEMALE', 'score': 0.4550451338291168, 'box': [218, 35, 54, 55]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3904644846916199, 'box': [364, 283, 64, 57]}]"
+55,../data/images/control/2e53362c-5a93-445c-a29f-15bb21754e63.png,1,"[{'class': 'FEET_COVERED', 'score': 0.4029141962528229, 'box': [246, 356, 43, 56]}, {'class': 'FEET_COVERED', 'score': 0.39499470591545105, 'box': [60, 396, 45, 44]}]"
+56,../data/images/control/b95d9311-fb9f-46d8-a4b7-44df50912c9c.png,0,[]
+57,../data/images/control/8294068a-7052-40a8-bbe6-b16a92bada7d.png,1,[]
+58,../data/images/control/a6b417f2-4581-4f76-aa0c-8a1a8e2ac11b.png,0,[]
+59,../data/images/control/38a6f426-e8d8-4a1b-aa6e-2fe2bb918686.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7951369285583496, 'box': [198, 0, 130, 96]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6208184957504272, 'box': [312, 217, 120, 113]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.549233615398407, 'box': [114, 248, 54, 63]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5257250070571899, 'box': [151, 202, 179, 142]}]"
+60,../data/images/control/cab58b3b-6cf8-47cb-872b-f7a0ac7cb487.png,0,[]
+61,../data/images/control/84e68615-c557-4373-b1aa-90b1fbcefa49.png,0,"[{'class': 'BUTTOCKS_EXPOSED', 'score': 0.30119651556015015, 'box': [287, 0, 223, 143]}]"
+62,../data/images/control/1b22218c-3435-4d12-8ba4-449ad2679fb8.png,0,[]
+63,../data/images/control/253b71af-eba5-4e02-af21-aebf1adb08b0.png,1,[]
+64,../data/images/control/528d3d6d-eae9-4572-b08a-12b10407bf9a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5493747591972351, 'box': [173, 157, 181, 166]}, {'class': 'BELLY_EXPOSED', 'score': 0.26716798543930054, 'box': [0, 301, 268, 210]}]"
+65,../data/images/control/df50e994-c524-4361-a341-78b2a3accb62.png,0,[]
+66,../data/images/control/856cd0dd-3e3f-464e-ad86-f3918e95cb82.png,0,[]
+67,../data/images/control/b02fc5e8-a22b-497a-bed0-03d22bb325a8.png,1,[]
+68,../data/images/control/316ed90c-870f-4dba-a803-d0cf71d45123.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7261548638343811, 'box': [0, 89, 78, 146]}]"
+69,../data/images/control/48d0fe49-f249-4a85-b88b-dad2143f6ee4.png,0,[]
+70,../data/images/control/2766f6de-7bbc-45ea-8ed3-7901ece33a09.png,0,[]
+71,../data/images/control/588f9929-dc2f-4c59-82f2-39d89c103a13.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8271608352661133, 'box': [390, 61, 57, 57]}, {'class': 'FEET_COVERED', 'score': 0.4818231165409088, 'box': [1, 385, 73, 83]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.45540010929107666, 'box': [394, 158, 57, 57]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.38209933042526245, 'box': [331, 146, 61, 54]}]"
+72,../data/images/control/7b19e97a-8e3b-4e89-aa9e-910865dde304.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8547113537788391, 'box': [208, 27, 82, 82]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.8362020254135132, 'box': [174, 182, 77, 82]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.8145078420639038, 'box': [245, 180, 87, 89]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.7599561214447021, 'box': [211, 405, 58, 57]}, {'class': 'BELLY_EXPOSED', 'score': 0.5922728180885315, 'box': [191, 291, 115, 100]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5817426443099976, 'box': [160, 184, 28, 36]}, {'class': 'BELLY_EXPOSED', 'score': 0.4260457158088684, 'box': [201, 269, 106, 51]}]"
+73,../data/images/control/340e4a99-e8c4-4f88-9cc8-7a1096a924d6.png,1,[]
+74,../data/images/control/e5911a2d-e338-422f-b490-2b3787d7c7e7.png,0,[]
+75,../data/images/control/9fc4ead2-810b-4d74-836b-d19134841eb5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8086839914321899, 'box': [352, 126, 159, 198]}, {'class': 'FACE_FEMALE', 'score': 0.6460025310516357, 'box': [2, 132, 179, 211]}]"
+76,../data/images/control/9098d542-e289-41cf-9e4e-2da3ec5262f6.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8185638189315796, 'box': [191, 96, 166, 165]}]"
+77,../data/images/control/e6d5a14a-35dc-4180-89d5-0a7615363e3b.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.5151734352111816, 'box': [227, 105, 250, 268]}, {'class': 'FACE_FEMALE', 'score': 0.4627281427383423, 'box': [0, 124, 79, 191]}]"
+78,../data/images/control/fa59ed57-d4b9-4821-8b50-7caaab6dae45.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7177892923355103, 'box': [223, 112, 245, 216]}]"
+79,../data/images/control/cd41b197-edfa-48c6-b17b-f704ea89d63b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.33340635895729065, 'box': [265, 157, 51, 53]}, {'class': 'BELLY_EXPOSED', 'score': 0.28016573190689087, 'box': [95, 18, 68, 45]}]"
+80,../data/images/control/d70dea1e-281b-48a0-aa73-bd06c05739fd.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8530293703079224, 'box': [189, 97, 158, 177]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.6922445297241211, 'box': [55, 410, 70, 96]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.44544875621795654, 'box': [263, 403, 180, 108]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2966145873069763, 'box': [108, 397, 176, 114]}]"
+81,../data/images/control/64c56b0d-2a1f-460b-a3a0-95596eb5cbdd.png,0,[]
+82,../data/images/control/b7491d9a-491d-4dc1-9db4-95cde713472f.png,0,"[{'class': 'FEET_COVERED', 'score': 0.7077038288116455, 'box': [160, 390, 61, 65]}, {'class': 'FEET_COVERED', 'score': 0.6817981600761414, 'box': [251, 406, 62, 61]}]"
+83,../data/images/control/f64d4394-fda2-49fd-aeb1-ee131889d87d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8169969916343689, 'box': [216, 49, 148, 161]}]"
+84,../data/images/control/10ce9f38-74e5-4f0e-8bf5-dde6bec680f7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.865399181842804, 'box': [204, 50, 66, 71]}, {'class': 'FACE_FEMALE', 'score': 0.8521682620048523, 'box': [380, 145, 67, 70]}, {'class': 'FACE_FEMALE', 'score': 0.8383723497390747, 'box': [282, 340, 79, 82]}, {'class': 'FACE_FEMALE', 'score': 0.8367053866386414, 'box': [132, 178, 65, 70]}, {'class': 'FACE_FEMALE', 'score': 0.7353718876838684, 'box': [56, 167, 57, 62]}, {'class': 'FACE_MALE', 'score': 0.6710827350616455, 'box': [294, 116, 69, 76]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5127678513526917, 'box': [400, 241, 72, 73]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4836312532424927, 'box': [343, 237, 79, 81]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4793308973312378, 'box': [262, 461, 78, 50]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.475232869386673, 'box': [134, 282, 75, 79]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.35964545607566833, 'box': [89, 270, 66, 73]}]"
+85,../data/images/control/1f0b8b7d-0c14-4356-910a-a8c3b6909d38.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7238784432411194, 'box': [44, 0, 463, 507]}]"
+86,../data/images/control/ea20a497-e84d-43be-8c08-04a11cb0e1e7.png,0,[]
+87,../data/images/control/dbde4b23-93cb-4180-852b-f67f6addbea0.png,0,[]
+88,../data/images/control/a94d017a-aa63-4d4e-86ee-7029d3fc9952.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.766089677810669, 'box': [36, 51, 78, 80]}]"
+89,../data/images/control/c7af230f-fa67-457c-b771-4164583cc69d.png,1,[]
+90,../data/images/control/535e6884-4a7d-4d1b-b7a3-6b785d6cfa50.png,0,"[{'class': 'FACE_MALE', 'score': 0.6684004068374634, 'box': [152, 112, 123, 108]}]"
+91,../data/images/control/8ed82220-475c-465b-9d91-8ff7b349e841.png,0,[]
+92,../data/images/control/d5c9451a-f1dd-4fe5-8b77-b66d3414560b.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.25854402780532837, 'box': [263, 279, 115, 110]}]"
+93,../data/images/control/6c85a54a-68f0-41f9-8427-94ba2fe4b3c3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7915738821029663, 'box': [204, 82, 162, 166]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.37061572074890137, 'box': [187, 390, 187, 121]}]"
+94,../data/images/control/6ee372e0-0651-489a-8864-74701c0061e4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7850717902183533, 'box': [105, 78, 267, 287]}]"
+95,../data/images/control/712b5d8d-0f40-4a54-badd-d7381df3e467.png,1,[]
+96,../data/images/control/e27be827-dd86-4a7e-a997-f84c7d0e18a0.png,1,[]
+97,../data/images/control/545f7928-9413-4c82-8e3b-e7cedd1c7b63.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8968188762664795, 'box': [192, 0, 184, 197]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5600940585136414, 'box': [406, 323, 71, 95]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.42880815267562866, 'box': [226, 368, 227, 143]}]"
+98,../data/images/control/da3a2e6e-86e6-4a5e-b48a-52bdddf1e60a.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6229585409164429, 'box': [194, 450, 54, 61]}, {'class': 'FEET_COVERED', 'score': 0.5847591757774353, 'box': [106, 450, 94, 61]}]"
+99,../data/images/control/9941f5e6-c869-41e5-b138-4aaab5a530b9.png,0,[]
+100,../data/images/control/798d614a-05e5-4749-bf98-b67ef3fdc35a.png,0,[]
+101,../data/images/control/b10542c2-0fa4-4b2c-96d1-49aa9b11b869.png,0,[]
+102,../data/images/control/2f4d7252-b49d-4494-96be-65f5777cf625.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.44746842980384827, 'box': [243, 110, 260, 280]}]"
+103,../data/images/control/791e92d1-f2ef-43f6-a991-d98eba616c18.png,0,[]
+104,../data/images/control/54200167-4f4c-4027-8268-04f998164c66.png,0,[]
+105,../data/images/control/49988487-0563-4ea8-9aa8-2e2caf3f2954.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.4696235954761505, 'box': [469, 150, 42, 114]}, {'class': 'FACE_FEMALE', 'score': 0.34106001257896423, 'box': [382, 87, 122, 105]}]"
+106,../data/images/control/47751448-ac89-4799-bc94-7fd570d033c0.png,0,"[{'class': 'BUTTOCKS_EXPOSED', 'score': 0.26871639490127563, 'box': [28, 138, 209, 210]}]"
+107,../data/images/control/57a985e9-1c43-4c94-953c-d5fc4d50621d.png,1,[]
+108,../data/images/control/56533c1c-2805-42c9-8116-afc5ac169a80.png,0,[]
+109,../data/images/control/ee05290b-c8a5-4f6f-ac00-fce063f0a9da.png,1,[]
+110,../data/images/control/1b2c6e6b-3f8c-4b80-abb2-dc711062cdb8.png,0,[]
+111,../data/images/control/4ae806d8-f469-4e7b-940f-707afcba9273.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8245152235031128, 'box': [64, 1, 360, 360]}]"
+112,../data/images/control/d91367a0-0cde-44c2-8ca3-4beb4b13b3b7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3808358609676361, 'box': [184, 118, 163, 167]}]"
+113,../data/images/control/aaf2cd8c-4274-40b5-a1ca-8a18c0b36b42.png,0,[]
+114,../data/images/control/c4be8bcb-308e-415d-81e0-b9779ce88987.png,0,[]
+115,../data/images/control/f2d94a7b-cd68-4ca9-8891-03f83d828b5c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7266133427619934, 'box': [100, 97, 305, 336]}]"
+116,../data/images/control/279e5187-6e82-46c9-aa18-64af265a5198.png,0,[]
+117,../data/images/control/33b9177b-0034-4db1-8ba9-4db7504b0b36.png,1,"[{'class': 'FEMALE_GENITALIA_EXPOSED', 'score': 0.36329519748687744, 'box': [2, 32, 475, 477]}]"
+118,../data/images/control/7a16436a-3706-472d-b035-4d4c6e2a9c53.png,0,[]
+119,../data/images/control/d760032b-2846-4baf-8112-dae0fd7ccdea.png,0,[]
+120,../data/images/control/87a568ab-da18-435c-8ab5-98edd18e34c9.png,0,[]
+121,../data/images/control/79e2f4ae-77c7-4246-ad15-c0c4b7d1cb8f.png,0,"[{'class': 'FEET_COVERED', 'score': 0.4740852117538452, 'box': [359, 381, 37, 40]}, {'class': 'FEET_COVERED', 'score': 0.37781524658203125, 'box': [248, 371, 28, 39]}, {'class': 'FEET_COVERED', 'score': 0.3117547929286957, 'box': [280, 385, 33, 34]}, {'class': 'FACE_FEMALE', 'score': 0.3115195035934448, 'box': [276, 129, 30, 29]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.3023242950439453, 'box': [234, 160, 47, 40]}]"
+122,../data/images/control/b0531645-a67c-46c1-885b-c50e3da317c7.png,0,[]
+123,../data/images/control/e395de95-4ae8-4c88-9db7-e18fe33027af.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.44304782152175903, 'box': [72, 280, 195, 179]}]"
+124,../data/images/control/d5ef201a-156e-43ac-ac2c-951bf172bf06.png,0,"[{'class': 'FEET_COVERED', 'score': 0.29715538024902344, 'box': [440, 376, 71, 69]}]"
+125,../data/images/control/2faf8b8b-b653-4b67-a2b8-04a953e92ae7.png,1,"[{'class': 'FEET_COVERED', 'score': 0.6289862394332886, 'box': [368, 342, 54, 77]}, {'class': 'FEET_COVERED', 'score': 0.5450177788734436, 'box': [77, 439, 88, 72]}, {'class': 'FACE_MALE', 'score': 0.3544883131980896, 'box': [118, 146, 35, 37]}]"
+126,../data/images/control/c30643d1-8f0e-4334-a94b-6fe444ffdfe4.png,0,"[{'class': 'FEET_COVERED', 'score': 0.807036817073822, 'box': [274, 425, 65, 84]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7091078758239746, 'box': [202, 0, 71, 48]}, {'class': 'FEET_COVERED', 'score': 0.6969377398490906, 'box': [145, 407, 92, 91]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2648007273674011, 'box': [265, 0, 59, 26]}]"
+127,../data/images/control/a75458cd-33d8-491e-9990-9bbcf489ffdd.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5576361417770386, 'box': [86, 64, 217, 232]}]"
+128,../data/images/control/0ca33d21-452b-4b0e-a959-586f0b71655c.png,1,[]
+129,../data/images/control/d5d6a35a-0b48-4493-94a6-82cc0cab2d41.png,0,[]
+130,../data/images/control/6a2a8458-b545-426e-ace7-5079090061a5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5657589435577393, 'box': [219, 0, 44, 31]}, {'class': 'FACE_FEMALE', 'score': 0.542571485042572, 'box': [50, 0, 42, 29]}, {'class': 'FEET_COVERED', 'score': 0.4813735783100128, 'box': [232, 400, 69, 111]}, {'class': 'FEET_COVERED', 'score': 0.30359649658203125, 'box': [59, 396, 73, 115]}]"
+131,../data/images/control/b10b062b-0c1e-4f9d-bc9d-2eb8ee496e31.png,0,[]
+132,../data/images/control/ce5722ed-a8a1-4900-b489-365f4431d07b.png,0,[]
+133,../data/images/control/dfdab92e-cb9d-442b-9cb9-ff1aedac5a99.png,0,"[{'class': 'FEET_COVERED', 'score': 0.25749367475509644, 'box': [383, 360, 92, 115]}]"
+134,../data/images/control/13c4637a-31a6-4aa9-aaf4-f5e06f43bd95.png,0,[]
+135,../data/images/control/27b45519-6b00-48bd-bf43-901420f4c6a9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6633048057556152, 'box': [120, 147, 286, 294]}]"
+136,../data/images/control/4b892016-c1d4-456c-b092-bcde31a235a5.png,0,[]
+137,../data/images/control/dadeeba2-6b8b-4755-a3e6-ef5d8bd464ba.png,0,[]
+138,../data/images/control/6259b43c-b341-44ab-a37e-9689f739951d.png,0,[]
+139,../data/images/control/866cc07a-8c79-4eba-8ba4-fda3a54446e2.png,0,[]
+140,../data/images/control/4a629f75-f944-4459-b8cf-bb2423139628.png,1,"[{'class': 'FEET_COVERED', 'score': 0.36813926696777344, 'box': [256, 397, 87, 69]}, {'class': 'FEET_COVERED', 'score': 0.29436808824539185, 'box': [44, 387, 60, 80]}]"
+141,../data/images/control/963f56a2-76f2-46ab-8abe-d4efad907b84.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3710874617099762, 'box': [433, 336, 68, 64]}]"
+142,../data/images/control/9245e7f1-935b-4192-aa4a-7e91d09c0107.png,0,[]
+143,../data/images/control/0545462e-89b9-46b3-b99f-3bc4744dabd7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5197065472602844, 'box': [47, 178, 130, 123]}, {'class': 'FACE_FEMALE', 'score': 0.5130006670951843, 'box': [0, 364, 110, 111]}, {'class': 'FACE_FEMALE', 'score': 0.4694027006626129, 'box': [119, 384, 114, 117]}, {'class': 'FACE_FEMALE', 'score': 0.46742767095565796, 'box': [195, 174, 137, 135]}, {'class': 'FACE_FEMALE', 'score': 0.4020328223705292, 'box': [339, 182, 136, 132]}, {'class': 'FACE_FEMALE', 'score': 0.3682730197906494, 'box': [268, 379, 128, 129]}]"
+144,../data/images/control/b06fbacb-9215-489f-9b5c-d9b7677d2478.png,0,[]
+145,../data/images/control/6dd921d9-83da-4c1e-ae75-56ea059dccdc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4864335060119629, 'box': [78, 212, 50, 46]}]"
+146,../data/images/control/70d9ed4f-922e-40a9-bfb0-3e5dfcae973c.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7638111114501953, 'box': [349, 62, 140, 155]}]"
+147,../data/images/control/3bcd3454-c22b-43f1-a868-5b6f3175d9af.png,0,[]
+148,../data/images/control/89ba31c1-d9d5-4aa6-9b51-7d7e46f719d8.png,0,[]
+149,../data/images/control/24563d93-4ec5-41f3-8741-b5bc22a9ec9f.png,0,[]
+150,../data/images/control/720b7945-ddca-485a-8d8f-d170169519c2.png,0,[]
+151,../data/images/control/e299b92f-baa0-4b4e-9e47-50931516c48f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8072097897529602, 'box': [62, 146, 70, 66]}, {'class': 'FACE_FEMALE', 'score': 0.8060914278030396, 'box': [160, 80, 91, 87]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.5256527662277222, 'box': [343, 266, 57, 83]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.3084920644760132, 'box': [92, 381, 73, 94]}]"
+152,../data/images/control/4e102889-1442-4a80-8d85-bbfef990e4c0.png,1,[]
+153,../data/images/control/206943ac-a74e-49df-97d0-bf180ebba734.png,0,[]
+154,../data/images/control/9c2c6a22-ddaf-43eb-ba73-d76a73566231.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8557645082473755, 'box': [127, 98, 163, 160]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3531510829925537, 'box': [245, 321, 76, 89]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.33343327045440674, 'box': [0, 272, 176, 195]}]"
+155,../data/images/control/66d6cb12-8b0e-4dd5-84dd-6b3a04195f84.png,0,[]
+156,../data/images/control/ee9e6772-d00f-4adb-9016-b32827e3eeda.png,0,"[{'class': 'FEET_COVERED', 'score': 0.28943997621536255, 'box': [256, 355, 46, 62]}]"
+157,../data/images/control/50e08ffa-3c28-4750-a6e5-37eaac8ec9a1.png,0,[]
+158,../data/images/control/9bb5ec6e-ba9c-4598-8b66-fe54700908ca.png,0,[]
+159,../data/images/control/0edcff1d-289c-45c4-8224-8957d3e101c5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.2968713939189911, 'box': [186, 84, 143, 137]}]"
+160,../data/images/control/44267b2b-65ab-4373-bf05-1f672d7feef5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8280462026596069, 'box': [110, 62, 308, 300]}]"
+161,../data/images/control/be46f3ef-0b0f-4200-ab5f-8bf931ed36ba.png,1,[]
+162,../data/images/control/7f0ef760-75e4-4538-a28b-6fa39bee8202.png,1,[]
+163,../data/images/control/2da1574e-3710-45b7-9db4-0431c2b0ba9f.png,0,[]
+164,../data/images/control/68bcf208-87f1-41a0-a825-ccf91826547f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6206395626068115, 'box': [318, 30, 61, 66]}, {'class': 'FACE_FEMALE', 'score': 0.4375230669975281, 'box': [109, 50, 66, 72]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.28283238410949707, 'box': [307, 144, 62, 81]}]"
+165,../data/images/control/eed8660d-cd56-4a56-b8c6-d0e1de2b2f0e.png,1,[]
+166,../data/images/control/b331a5cd-f40a-4354-8bc3-9e01c63bbd70.png,1,[]
+167,../data/images/control/2a0b7fff-c4dc-4147-b1e5-f46795d7817a.png,0,[]
+168,../data/images/control/4c4fe814-fcc1-44c1-bca2-9a6ea32d3815.png,1,"[{'class': 'FEET_COVERED', 'score': 0.6382634043693542, 'box': [421, 278, 75, 95]}, {'class': 'FEET_COVERED', 'score': 0.5015249252319336, 'box': [364, 437, 88, 74]}]"
+169,../data/images/control/8c6ec06b-1f20-45e4-a428-16dee156ab0d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7665183544158936, 'box': [158, 134, 209, 213]}]"
+170,../data/images/control/2eca1613-b2a2-47f9-9d7a-d8aa39bc23b6.png,0,[]
+171,../data/images/control/5190e052-f0ae-4abf-98cd-a6e559624570.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3095141053199768, 'box': [443, 1, 53, 76]}]"
+172,../data/images/control/2265c5da-e2dc-48df-8a8d-d325df841938.png,0,[]
+173,../data/images/control/2b2a5ec0-729b-4194-aff9-b6246bda4d86.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3799176812171936, 'box': [0, 334, 270, 177]}, {'class': 'FACE_FEMALE', 'score': 0.271062433719635, 'box': [409, 87, 102, 160]}]"
+174,../data/images/control/9b920085-6372-44d2-9c3b-f7890ff5bab7.png,0,[]
+175,../data/images/control/55baa207-b11b-4119-a7ff-4b648b78e584.png,0,"[{'class': 'FEET_COVERED', 'score': 0.593238353729248, 'box': [333, 424, 78, 64]}, {'class': 'FEET_COVERED', 'score': 0.31615912914276123, 'box': [436, 371, 64, 61]}, {'class': 'FEET_COVERED', 'score': 0.2691466212272644, 'box': [1, 406, 77, 67]}]"
+176,../data/images/control/c21efaf4-0ac4-4c4e-8074-46e4f33308b9.png,0,[]
+177,../data/images/control/3bb0c15b-ff0a-4b22-ab5c-c83f0d3927de.png,1,[]
+178,../data/images/control/c1a1d129-47da-4010-b545-fa62a4fb436c.png,0,"[{'class': 'ARMPITS_EXPOSED', 'score': 0.45151543617248535, 'box': [327, 312, 41, 54]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3242506980895996, 'box': [132, 331, 104, 84]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.32259827852249146, 'box': [98, 346, 48, 53]}]"
+179,../data/images/control/2b74fbd8-9e7c-462a-812c-853be3568e96.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.820794403553009, 'box': [173, 71, 108, 105]}]"
+180,../data/images/control/21e7b53a-a35d-4dd8-9d70-1191028f4d8b.png,0,[]
+181,../data/images/control/28d628d0-e731-4391-b9a6-c7f2d68d6ea6.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6772645711898804, 'box': [407, 176, 104, 229]}]"
+182,../data/images/control/286d30d8-5734-482e-b94c-5f3e638764ff.png,0,[]
+183,../data/images/control/48953438-3a90-40ef-8af6-0946d6609bf1.png,0,"[{'class': 'FACE_MALE', 'score': 0.7262697815895081, 'box': [233, 67, 62, 50]}, {'class': 'FACE_MALE', 'score': 0.6905863881111145, 'box': [313, 109, 48, 41]}, {'class': 'FEET_COVERED', 'score': 0.506508469581604, 'box': [127, 446, 94, 65]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.3036648631095886, 'box': [309, 306, 36, 30]}, {'class': 'FEET_COVERED', 'score': 0.27535879611968994, 'box': [251, 443, 63, 63]}, {'class': 'FEET_COVERED', 'score': 0.25989335775375366, 'box': [322, 405, 85, 90]}]"
+184,../data/images/control/f40d8577-f2be-470f-945d-c6853e3a8cb0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7363157868385315, 'box': [115, 84, 142, 133]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.2714921236038208, 'box': [239, 288, 197, 136]}]"
+185,../data/images/control/ff6675ad-a259-4c74-8a29-055b276f9ff1.png,1,"[{'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.6329167485237122, 'box': [0, 1, 333, 510]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.5299343466758728, 'box': [209, 1, 302, 505]}]"
+186,../data/images/control/ca1fff27-3fc3-4bf3-b358-e7bed1372d77.png,0,[]
+187,../data/images/control/bb102ceb-9211-472a-8f0d-ec7f30f06bd0.png,0,[]
+188,../data/images/control/210f8fd6-952e-4704-8c69-5b3296592a1f.png,0,[]
+189,../data/images/control/86f63dcc-f792-4351-b897-ca2657787b93.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4863767921924591, 'box': [175, 47, 167, 162]}]"
+190,../data/images/control/c1f37343-2011-4fc3-bba2-b3a1a72ee406.png,1,[]
+191,../data/images/control/82bc7fa6-55e9-46db-9ce5-393edb6abb1f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8053979277610779, 'box': [321, 95, 99, 96]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.73012375831604, 'box': [134, 351, 56, 53]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7104486227035522, 'box': [271, 213, 102, 95]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6740171909332275, 'box': [211, 170, 96, 91]}, {'class': 'BELLY_EXPOSED', 'score': 0.6615523099899292, 'box': [184, 249, 105, 95]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.30249109864234924, 'box': [347, 228, 50, 50]}, {'class': 'FEET_EXPOSED', 'score': 0.2523847222328186, 'box': [0, 473, 67, 38]}]"
+192,../data/images/control/6b9d6fec-2d55-40bb-b4f5-af2e76bdeec4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6326354742050171, 'box': [101, 146, 151, 151]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5933000445365906, 'box': [5, 407, 187, 104]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5671430826187134, 'box': [0, 418, 54, 78]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2815013527870178, 'box': [140, 404, 179, 107]}]"
+193,../data/images/control/5ab0759b-37c8-45f4-823d-58e9dc93e63c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6704491972923279, 'box': [251, 33, 106, 111]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.344191312789917, 'box': [297, 212, 136, 130]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.2571675777435303, 'box': [277, 459, 67, 52]}]"
+194,../data/images/control/ac03e59e-b56c-41db-93e1-a5208065c1bc.png,1,[]
+195,../data/images/control/23801c10-3e43-407d-8c81-c7eab8c6114f.png,0,[]
+196,../data/images/control/2ffe52c2-4f5e-4506-8f25-0f09fa3d31cc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7493359446525574, 'box': [135, 205, 164, 178]}]"
+197,../data/images/control/4c7048c4-c45e-4173-9fab-5df88b24b2bc.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8229960203170776, 'box': [36, 0, 435, 397]}]"
+198,../data/images/control/32a46515-4d49-48d8-89b6-6a6ed54a10ec.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8612921833992004, 'box': [37, 83, 122, 150]}]"
+199,../data/images/control/4bdc20b4-45ce-4782-89a2-90667c890596.png,1,[]
+200,../data/images/control/c5c3a300-3be7-4be0-a577-5dde919a71dc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.813274621963501, 'box': [228, 74, 74, 71]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5102176666259766, 'box': [261, 169, 94, 89]}]"
+201,../data/images/control/2e26906a-a96e-41ed-8460-4892ebc2c2a7.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.586833655834198, 'box': [188, 391, 38, 30]}, {'class': 'FEET_EXPOSED', 'score': 0.5056285858154297, 'box': [12, 418, 40, 38]}, {'class': 'FEET_EXPOSED', 'score': 0.39632368087768555, 'box': [261, 373, 44, 31]}, {'class': 'FACE_MALE', 'score': 0.3321853578090668, 'box': [366, 123, 36, 32]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.25114303827285767, 'box': [105, 331, 68, 53]}]"
+202,../data/images/control/9151bf68-db6a-430c-bfe0-48a7878dcbbd.png,0,[]
+203,../data/images/control/5503b93d-3f09-4b0a-a9f1-64e1ab110eca.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6305307149887085, 'box': [213, 0, 231, 246]}]"
+204,../data/images/control/3c08b806-0d0a-4cd6-b1e7-6c36a0602af7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7199000716209412, 'box': [284, 214, 43, 42]}]"
+205,../data/images/control/3e500bb1-d657-4488-9d4a-e57899ef149e.png,0,[]
+206,../data/images/control/ae41f8a3-f31f-477f-8332-a985613aaefe.png,0,[]
+207,../data/images/control/45256a1c-18fa-45c6-a9e7-c73dcec864c8.png,0,[]
+208,../data/images/control/46082c3e-353a-4ad9-b0a2-f446f5204f6f.png,1,"[{'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.45419082045555115, 'box': [362, 125, 149, 268]}]"
+209,../data/images/control/5422ea04-4f1e-4953-9583-9e72a9b4b9d9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7487457394599915, 'box': [164, 0, 48, 47]}, {'class': 'FACE_FEMALE', 'score': 0.5053313374519348, 'box': [237, 30, 44, 47]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3933276832103729, 'box': [144, 98, 47, 53]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.35760390758514404, 'box': [281, 86, 54, 53]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2989062964916229, 'box': [237, 96, 49, 57]}]"
+210,../data/images/control/0378c80b-1b38-4b39-8597-a574bfd01aca.png,1,[]
+211,../data/images/control/24b27a43-ddc9-4ff0-858a-ba70672dbef5.png,0,[]
+212,../data/images/control/f9e38e26-7c19-4fbc-baa5-33ed11d86a14.png,1,"[{'class': 'FEMALE_GENITALIA_EXPOSED', 'score': 0.4115613102912903, 'box': [66, 3, 406, 453]}]"
+213,../data/images/control/2b4544ad-00f4-40b0-8e4b-b5e739e3de4c.png,0,[]
+214,../data/images/control/25569a68-a9f8-4c53-8fc5-15cf159736cc.png,0,[]
+215,../data/images/control/46eb942f-9f5b-42ce-a5e4-98b478beed0c.png,0,"[{'class': 'BUTTOCKS_COVERED', 'score': 0.4336185157299042, 'box': [17, 237, 320, 273]}]"
+216,../data/images/control/082722ab-8885-4340-bab9-04f10ce65d5e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6969597339630127, 'box': [219, 60, 73, 69]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.643120288848877, 'box': [166, 165, 92, 82]}, {'class': 'FEET_COVERED', 'score': 0.5528273582458496, 'box': [102, 389, 75, 97]}, {'class': 'BELLY_EXPOSED', 'score': 0.4876232445240021, 'box': [196, 266, 111, 99]}, {'class': 'FEET_COVERED', 'score': 0.45886489748954773, 'box': [335, 392, 71, 92]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4079279899597168, 'box': [248, 168, 93, 83]}]"
+217,../data/images/control/a9ddd40c-d0d7-46f1-a790-b5532ac43af3.png,1,"[{'class': 'FEET_COVERED', 'score': 0.3163515329360962, 'box': [8, 185, 84, 138]}]"
+218,../data/images/control/d80e6fe1-dbe5-4c92-9403-9800d4f6d39a.png,0,[]
+219,../data/images/control/db007dca-cc74-478c-bf6f-12448345b28c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7777510285377502, 'box': [193, 71, 160, 160]}]"
+220,../data/images/control/ac68c37c-e408-42f8-8ad0-0a284c739f68.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.29448360204696655, 'box': [187, 87, 162, 179]}]"
+221,../data/images/control/ef2220ed-0ede-4eaf-95b0-32097287fabf.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8303336501121521, 'box': [127, 163, 259, 285]}]"
+222,../data/images/control/32ab6948-5a26-4421-ab4a-37d9dc63bbc5.png,0,[]
+223,../data/images/control/2a43a13b-f6aa-40dd-94c8-f8619d66fd35.png,0,[]
+224,../data/images/control/1f25c2a3-3cbd-489d-ab17-52096944c2ad.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.868851363658905, 'box': [215, 94, 202, 217]}]"
+225,../data/images/control/03ae5e07-40a5-4755-9c3b-012256afce91.png,0,[]
+226,../data/images/control/1a57c05d-b750-46c9-b4ac-b5e2bb5d0f30.png,0,[]
+227,../data/images/control/65db0f65-017e-4d24-8b7d-8b4c3b70e332.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7356898784637451, 'box': [71, 205, 380, 306]}]"
+228,../data/images/control/b656e283-f1f5-41df-85b4-8f38b35b9329.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3748459219932556, 'box': [120, 136, 205, 191]}]"
+229,../data/images/control/dd806f82-82d1-4684-a255-8aabcc682477.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7530816793441772, 'box': [354, 220, 67, 73]}, {'class': 'FACE_FEMALE', 'score': 0.7514709830284119, 'box': [320, 98, 68, 71]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.49216264486312866, 'box': [392, 208, 28, 38]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3895184397697449, 'box': [299, 237, 56, 63]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.2665671706199646, 'box': [313, 209, 42, 60]}]"
+230,../data/images/control/3abf6166-0dfb-4260-aab3-d9188e51232a.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8623490333557129, 'box': [209, 99, 222, 242]}]"
+231,../data/images/control/d14ed075-b8c2-4ca1-a54d-c504445eb350.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.6034344434738159, 'box': [123, 334, 120, 119]}]"
+232,../data/images/control/84c40621-0c2c-4c9b-8dc2-ff5cda9cc5a6.png,0,[]
+233,../data/images/control/1dd63ff2-0d62-4e53-b24a-d99004a22265.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3260737657546997, 'box': [240, 88, 71, 69]}]"
+234,../data/images/control/c4b8c2e8-974e-4f90-b942-bb30697e3010.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8035838603973389, 'box': [166, 163, 149, 144]}]"
+235,../data/images/control/0e38dfa4-c14a-4179-ac17-50cc0965a367.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.40934115648269653, 'box': [109, 185, 32, 27]}, {'class': 'FEET_COVERED', 'score': 0.3208019733428955, 'box': [60, 423, 33, 37]}]"
+236,../data/images/control/40c6e8bd-d9c3-4b0a-b463-15357f6d2858.png,0,[]
+237,../data/images/control/e13663ad-beab-4658-9efe-ef14c3914e4a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7622880935668945, 'box': [152, 168, 199, 195]}]"
+238,../data/images/control/07c895c9-2c09-4a19-ace1-1f12e3e220b3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3389834761619568, 'box': [17, 0, 469, 464]}]"
+239,../data/images/control/095691c7-929c-4276-9048-4fd3988abcb3.png,1,[]
+240,../data/images/control/3c2b36e0-dd59-48c7-97b6-4071a5de9409.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6746264100074768, 'box': [306, 108, 37, 36]}, {'class': 'FACE_MALE', 'score': 0.5104631185531616, 'box': [152, 67, 42, 40]}, {'class': 'FEET_COVERED', 'score': 0.48175978660583496, 'box': [266, 405, 56, 64]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4013594090938568, 'box': [312, 154, 42, 39]}, {'class': 'FEET_COVERED', 'score': 0.37107276916503906, 'box': [224, 394, 58, 66]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.35893505811691284, 'box': [271, 147, 49, 46]}, {'class': 'FEET_COVERED', 'score': 0.3292061686515808, 'box': [149, 431, 63, 43]}]"
+241,../data/images/control/887e4e9b-3a73-44e9-9eaa-a379cd7eccb1.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.840599536895752, 'box': [325, 71, 169, 167]}, {'class': 'FACE_FEMALE', 'score': 0.8065882325172424, 'box': [58, 79, 134, 149]}, {'class': 'FACE_FEMALE', 'score': 0.8064618706703186, 'box': [336, 340, 160, 170]}, {'class': 'FACE_FEMALE', 'score': 0.6975412964820862, 'box': [49, 320, 160, 180]}]"
+242,../data/images/control/7bcf0b01-958f-44f3-860f-5f2d86d57a83.png,0,[]
+243,../data/images/control/75e5e025-5713-4ff6-a8ef-002bf36df87d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8339827060699463, 'box': [240, 0, 111, 99]}]"
+244,../data/images/control/8919cafb-3861-4cf6-9d45-c8ed9b898fd9.png,0,[]
+245,../data/images/control/71330638-36eb-4331-bcba-2d747cf9fad0.png,0,[]
+246,../data/images/control/6ea0da11-0b0d-4b5d-b475-698262d60c1d.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8454610109329224, 'box': [182, 150, 147, 158]}]"
+247,../data/images/control/18d0f626-4550-410e-97ec-09fd15650149.png,1,"[{'class': 'FACE_MALE', 'score': 0.5811071395874023, 'box': [120, 75, 117, 110]}]"
+248,../data/images/control/dfec54ae-3046-49ad-9b41-f3c94cbca92d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7954837679862976, 'box': [247, 298, 121, 121]}, {'class': 'FACE_MALE', 'score': 0.48129597306251526, 'box': [349, 42, 32, 38]}, {'class': 'FACE_FEMALE', 'score': 0.46385666728019714, 'box': [187, 59, 39, 39]}, {'class': 'FACE_MALE', 'score': 0.39892566204071045, 'box': [399, 73, 41, 37]}, {'class': 'FACE_MALE', 'score': 0.33355581760406494, 'box': [261, 49, 39, 36]}]"
+249,../data/images/control/ce2e9038-3eef-4d3a-9267-a41fcbc7eab1.png,1,[]
+250,../data/images/control/2d5bcabb-325d-425c-a0b7-b836ca92e05d.png,0,[]
+251,../data/images/control/7944f320-9dad-4f7c-8204-2b7f55a0a6ef.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5299198627471924, 'box': [126, 265, 87, 106]}]"
+252,../data/images/control/1c2b9761-215d-4c95-b237-561e22b8de40.png,0,[]
+253,../data/images/control/16706d11-8a93-45e6-ab64-e2f09ed63f7b.png,0,[]
+254,../data/images/control/b66f6f6d-703c-4fcb-a0c7-06338163519c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5780565142631531, 'box': [0, 138, 283, 324]}, {'class': 'FACE_FEMALE', 'score': 0.3840915262699127, 'box': [40, 152, 207, 185]}]"
+255,../data/images/control/5c7c874b-79f4-49c7-ae8d-db2fd27aeb09.png,0,[]
+256,../data/images/control/f8926089-d2a2-4f11-b1e2-b67a97141b46.png,0,[]
+257,../data/images/control/a4d900a8-0e60-4b94-9e20-39a4a43d1973.png,0,[]
+258,../data/images/control/f54963dd-a1ac-41ac-8790-ef7829cd91af.png,0,[]
+259,../data/images/control/799020b7-6f0b-4907-8a42-eac1b79797c6.png,0,[]
+260,../data/images/control/279e2192-5f8f-4701-b511-f9c97c5ba7b1.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6423032283782959, 'box': [93, 410, 48, 71]}, {'class': 'FEET_COVERED', 'score': 0.6136752367019653, 'box': [179, 423, 72, 54]}, {'class': 'FACE_FEMALE', 'score': 0.3418015241622925, 'box': [149, 45, 32, 35]}]"
+261,../data/images/control/0827d35d-cd5a-4b9d-9035-4127d6f8b525.png,0,[]
+262,../data/images/control/a6dee815-ceb5-4566-92e1-abbe79a92648.png,0,[]
+263,../data/images/control/6acca056-a64e-4700-bf0a-b64bff6d6a74.png,0,[]
+264,../data/images/control/6b85fbf5-b11c-416b-a8a5-2b0f1a7ae794.png,0,[]
+265,../data/images/control/ad38920e-2907-4cc1-bb78-6a5520dddbe2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7657263278961182, 'box': [243, 41, 46, 46]}, {'class': 'BELLY_EXPOSED', 'score': 0.7502562403678894, 'box': [215, 171, 69, 66]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7453797459602356, 'box': [254, 126, 41, 40]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6606480479240417, 'box': [205, 122, 47, 46]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.6375926733016968, 'box': [195, 119, 24, 32]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.6171956658363342, 'box': [237, 248, 33, 30]}, {'class': 'FEET_COVERED', 'score': 0.4866712689399719, 'box': [228, 445, 63, 64]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3307204842567444, 'box': [275, 125, 22, 30]}]"
+266,../data/images/control/2856b60f-0841-468b-aa2b-48eca57d2262.png,0,"[{'class': 'BELLY_EXPOSED', 'score': 0.719953715801239, 'box': [75, 6, 347, 343]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.2510128319263458, 'box': [251, 0, 212, 39]}]"
+267,../data/images/control/ea699d47-ba75-441b-8dab-fbbc7c8d83c3.png,0,[]
+268,../data/images/control/265331eb-5e43-4b0e-ac56-d132c569f506.png,1,[]
+269,../data/images/control/317f8cf9-e7b2-4308-a2c6-f08e4adf7bff.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5083906054496765, 'box': [172, 90, 132, 143]}]"
+270,../data/images/control/530c527e-a2b6-4c78-87f7-dd2e0b63dc7d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8003624677658081, 'box': [103, 115, 55, 68]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.73450767993927, 'box': [90, 230, 57, 81]}]"
+271,../data/images/control/66d5ef83-9b4a-4e13-9df5-b7486da1f02c.png,0,[]
+272,../data/images/control/cd57cd8d-036f-468d-be60-cbe7e666ce33.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.29475969076156616, 'box': [177, 176, 38, 37]}]"
+273,../data/images/control/8d3cd68b-8a89-440e-b356-c0efcd9625f5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8543936014175415, 'box': [198, 83, 111, 118]}]"
+274,../data/images/control/1bcee2c5-e996-4aeb-86ba-1c683d6a3dfd.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6624288558959961, 'box': [16, 40, 380, 380]}]"
+275,../data/images/control/ece83d1f-94c5-4aa6-a412-eee68d27e604.png,0,[]
+276,../data/images/control/d5f6583d-c077-42e9-b6f1-8df67bf7c93b.png,1,[]
+277,../data/images/control/318c5e10-b20e-4b51-b905-54ad0f15f569.png,0,[]
+278,../data/images/control/caa3dfb2-8819-4d9a-acc8-5c64023a5ef9.png,1,[]
+279,../data/images/control/e5a5705a-a4e2-4db8-a2e9-9014d1c3d0d1.png,0,[]
+280,../data/images/control/ad207b11-eb68-4229-913e-65a8a57776f5.png,0,"[{'class': 'BELLY_EXPOSED', 'score': 0.6445778012275696, 'box': [176, 328, 50, 55]}]"
+281,../data/images/control/6fdeb4b9-b869-4c39-91b0-b6674d669152.png,0,[]
+282,../data/images/control/dd3d4128-3d2d-42de-97c4-f639e7b2a775.png,1,"[{'class': 'BELLY_EXPOSED', 'score': 0.5712864398956299, 'box': [14, 236, 212, 218]}, {'class': 'MALE_BREAST_EXPOSED', 'score': 0.5153847932815552, 'box': [199, 205, 121, 114]}]"
+283,../data/images/control/7f9b59b0-cea5-48b9-91fa-2c7c458a542d.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.27964115142822266, 'box': [381, 274, 23, 22]}]"
+284,../data/images/control/991fab8b-e99a-415c-bc3f-baa6c8f8e7bc.png,1,[]
+285,../data/images/control/a613225d-7c1d-4fc4-859c-994a5689a1dd.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7250187993049622, 'box': [285, 107, 113, 111]}]"
+286,../data/images/control/9b3b1511-4a8c-4483-a1e8-6347b7b6fe71.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.40073859691619873, 'box': [168, 68, 156, 189]}]"
+287,../data/images/control/d6c9c256-806c-473a-916e-d78f4510432c.png,1,[]
+288,../data/images/control/196e8d64-b578-454d-9439-641cf97d73fc.png,0,[]
+289,../data/images/control/3f63317d-efdf-40b8-93a1-c85545d30c3f.png,0,[]
+290,../data/images/control/af8f2622-05e0-439b-a864-7004c9dd2788.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5768110752105713, 'box': [354, 109, 38, 35]}]"
+291,../data/images/control/da594822-df72-4804-9b79-9f664862acd1.png,0,[]
+292,../data/images/control/64fb631f-4d13-4b4f-9af3-110fdbe6e8a8.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3806906044483185, 'box': [364, 454, 85, 57]}, {'class': 'FEET_COVERED', 'score': 0.25748783349990845, 'box': [240, 424, 95, 71]}]"
+293,../data/images/control/0519d2ca-be1b-4f74-b9db-59c1cf5a3fe6.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.772640585899353, 'box': [141, 69, 193, 184]}]"
+294,../data/images/control/678b341f-5de5-4b8b-a8b6-3c8b334869d7.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.6158342361450195, 'box': [232, 322, 67, 85]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5837570428848267, 'box': [290, 321, 107, 99]}, {'class': 'FACE_FEMALE', 'score': 0.4722385108470917, 'box': [229, 146, 90, 91]}, {'class': 'BELLY_COVERED', 'score': 0.3894122838973999, 'box': [260, 413, 110, 71]}]"
+295,../data/images/control/9f0b814b-a9f8-43ff-9fc7-010ebda48fa5.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.5788750648498535, 'box': [71, 0, 372, 358]}]"
+296,../data/images/control/022f1661-bf5d-4054-b0a7-673b347291b7.png,0,[]
+297,../data/images/control/0e3c70f1-f6be-4146-8a5c-18386c672843.png,0,"[{'class': 'ARMPITS_EXPOSED', 'score': 0.6394423246383667, 'box': [169, 196, 38, 38]}, {'class': 'FACE_FEMALE', 'score': 0.5989283323287964, 'box': [215, 48, 77, 73]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4492019712924957, 'box': [257, 172, 68, 75]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3660030961036682, 'box': [190, 188, 76, 74]}]"
+298,../data/images/control/b8cb1bcf-96d8-4413-bc83-cd8c0c1493e5.png,0,[]
+299,../data/images/control/573364f9-9d5e-49fc-9989-c85b61796415.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.6644129753112793, 'box': [0, 0, 295, 301]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.6067795157432556, 'box': [0, 240, 334, 271]}]"
+300,../data/images/control/062b34d9-de25-4d27-bf9b-2c0359b1c71a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6593291163444519, 'box': [117, 49, 110, 112]}, {'class': 'FACE_FEMALE', 'score': 0.48808753490448, 'box': [126, 331, 109, 113]}, {'class': 'FACE_FEMALE', 'score': 0.4583773612976074, 'box': [356, 0, 65, 31]}, {'class': 'FACE_MALE', 'score': 0.4436430335044861, 'box': [319, 322, 82, 78]}]"
+301,../data/images/control/f60d093f-23d2-4461-9ff3-ac3a9d75e8fd.png,0,[]
+302,../data/images/control/7ca25937-823a-4bdd-a815-6fb3d69b888e.png,1,"[{'class': 'FEET_COVERED', 'score': 0.49027660489082336, 'box': [77, 431, 104, 74]}]"
+303,../data/images/control/9d940e06-5992-491f-8e42-4b9ec3f49b61.png,1,[]
+304,../data/images/control/c55dda25-2d9a-45ef-b578-a56426ad1b77.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8464250564575195, 'box': [120, 0, 230, 212]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3185160160064697, 'box': [97, 332, 61, 57]}]"
+305,../data/images/control/24f0a301-976a-43c2-9358-9ccd10cd4af3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8405875563621521, 'box': [0, 179, 149, 157]}]"
+306,../data/images/control/7938a535-2f5c-43dc-9c04-98f98902f1bb.png,0,[]
+307,../data/images/control/9f34a149-9e14-4fab-bc21-aff1be92a5e0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5741795301437378, 'box': [293, 88, 109, 113]}]"
+308,../data/images/control/1830b978-0fc2-41fa-ab81-85bf48613996.png,0,"[{'class': 'FACE_MALE', 'score': 0.7440007925033569, 'box': [114, 278, 49, 52]}, {'class': 'BELLY_EXPOSED', 'score': 0.7434664368629456, 'box': [200, 183, 69, 65]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5581696629524231, 'box': [165, 110, 37, 34]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5559812784194946, 'box': [328, 224, 53, 45]}, {'class': 'MALE_BREAST_EXPOSED', 'score': 0.5170845985412598, 'box': [233, 137, 45, 43]}, {'class': 'FEMALE_GENITALIA_EXPOSED', 'score': 0.5038391947746277, 'box': [220, 254, 38, 40]}, {'class': 'FEET_EXPOSED', 'score': 0.5025076866149902, 'box': [327, 466, 75, 45]}, {'class': 'MALE_BREAST_EXPOSED', 'score': 0.47083309292793274, 'box': [187, 125, 50, 46]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4673621654510498, 'box': [371, 217, 34, 32]}, {'class': 'FACE_FEMALE', 'score': 0.41706928610801697, 'box': [231, 62, 43, 41]}, {'class': 'FACE_MALE', 'score': 0.39575067162513733, 'box': [312, 160, 44, 46]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.3059546947479248, 'box': [338, 352, 42, 63]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.2807261347770691, 'box': [23, 451, 58, 60]}]"
+309,../data/images/control/b17f255c-5252-4bcd-8095-b07804020503.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3373689651489258, 'box': [416, 180, 88, 66]}, {'class': 'FEET_COVERED', 'score': 0.2950696349143982, 'box': [184, 376, 76, 101]}]"
+310,../data/images/control/5855ab51-d762-4b77-8773-ad08dbdb7637.png,0,[]
+311,../data/images/control/77d02157-0970-4c1d-8478-9c3f5dbcf306.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5924869775772095, 'box': [313, 245, 56, 48]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.42163345217704773, 'box': [247, 283, 66, 56]}, {'class': 'FACE_FEMALE', 'score': 0.3712421655654907, 'box': [374, 46, 137, 126]}]"
+312,../data/images/control/5686aeeb-bfbd-4206-9bf5-0587042881f3.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6379072666168213, 'box': [110, 451, 64, 57]}, {'class': 'FEET_COVERED', 'score': 0.6187644600868225, 'box': [358, 447, 39, 56]}, {'class': 'FEET_COVERED', 'score': 0.5904951095581055, 'box': [164, 443, 61, 60]}, {'class': 'FEET_COVERED', 'score': 0.5154545903205872, 'box': [294, 449, 53, 46]}, {'class': 'FEET_COVERED', 'score': 0.49192047119140625, 'box': [6, 452, 65, 57]}, {'class': 'FEET_COVERED', 'score': 0.45706453919410706, 'box': [421, 455, 71, 55]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.45120182633399963, 'box': [38, 206, 31, 32]}, {'class': 'FACE_FEMALE', 'score': 0.41151753067970276, 'box': [0, 74, 60, 86]}, {'class': 'FACE_FEMALE', 'score': 0.3769156038761139, 'box': [137, 58, 83, 87]}, {'class': 'FEMALE_GENITALIA_EXPOSED', 'score': 0.3051545321941376, 'box': [330, 335, 24, 28]}, {'class': 'FEET_COVERED', 'score': 0.26040786504745483, 'box': [487, 454, 24, 54]}]"
+313,../data/images/control/6aa23fa4-6fa3-48e7-a898-8c8b61a8960b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.627595067024231, 'box': [117, 190, 196, 161]}]"
+314,../data/images/control/cd1379aa-1d7b-4b1c-b219-22954e6a02a2.png,0,[]
+315,../data/images/control/ee222674-4a64-4c7a-9fcc-d2b67bb90216.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5100391507148743, 'box': [389, 278, 63, 91]}, {'class': 'FEET_COVERED', 'score': 0.3693537414073944, 'box': [204, 271, 53, 48]}, {'class': 'FEET_COVERED', 'score': 0.27838456630706787, 'box': [154, 333, 55, 51]}]"
+316,../data/images/control/913585eb-3a72-461c-ad74-5c1e94b2b886.png,0,[]
+317,../data/images/control/2d738a74-20e8-4a87-90f3-4a0b778bc90a.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.674682080745697, 'box': [398, 195, 78, 82]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6684532165527344, 'box': [324, 194, 80, 86]}, {'class': 'FACE_FEMALE', 'score': 0.5759449005126953, 'box': [343, 48, 124, 111]}, {'class': 'FACE_FEMALE', 'score': 0.4541057050228119, 'box': [108, 73, 103, 103]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3700624108314514, 'box': [146, 224, 75, 81]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.28591927886009216, 'box': [81, 203, 78, 80]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.2797437310218811, 'box': [128, 421, 58, 76]}]"
+318,../data/images/control/2a509bdd-375e-4463-b30b-f26676b41472.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8702576160430908, 'box': [278, 151, 116, 93]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.42924946546554565, 'box': [314, 320, 66, 52]}]"
+319,../data/images/control/59a50536-8612-4f13-b5f7-d3f6ce57a9cd.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3604116439819336, 'box': [257, 37, 40, 38]}]"
+320,../data/images/control/d8c96791-e549-4f33-a4cf-0305733ac550.png,0,[]
+321,../data/images/control/9625538d-25c1-4715-a068-72bf64b13ae5.png,1,[]
+322,../data/images/control/d084dffd-4c37-4e7c-9b65-5086623b079a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4033864438533783, 'box': [213, 103, 33, 49]}]"
+323,../data/images/control/eae332da-3a40-4739-85f3-7e227355a892.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7520691156387329, 'box': [371, 127, 135, 131]}, {'class': 'FACE_FEMALE', 'score': 0.6421087980270386, 'box': [80, 136, 123, 110]}]"
+324,../data/images/control/a7d52623-f550-44cb-a19f-1b7de259bcf6.png,0,"[{'class': 'FEET_COVERED', 'score': 0.641890287399292, 'box': [116, 435, 66, 57]}, {'class': 'FEET_COVERED', 'score': 0.4620342552661896, 'box': [221, 434, 50, 57]}, {'class': 'FEET_COVERED', 'score': 0.2939922511577606, 'box': [203, 387, 70, 103]}]"
+325,../data/images/control/5ced5161-e17c-4824-9891-edbf0171c1d2.png,0,[]
+326,../data/images/control/1a560190-66f9-4e64-aa0f-239087932800.png,0,[]
+327,../data/images/control/221c7d75-af1a-447a-933a-a7324fc364d7.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6803619861602783, 'box': [252, 1, 76, 64]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6724857091903687, 'box': [174, 1, 78, 67]}, {'class': 'BELLY_EXPOSED', 'score': 0.26100173592567444, 'box': [219, 62, 97, 73]}]"
+328,../data/images/control/bff4d919-380e-40d1-9ce7-fefa92db46fa.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5584594011306763, 'box': [136, 9, 239, 246]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.40950626134872437, 'box': [276, 372, 226, 139]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.2647166848182678, 'box': [11, 373, 221, 138]}]"
+329,../data/images/control/11baf538-56b5-4e24-90eb-68fe40ba030c.png,1,[]
+330,../data/images/control/eb0dec67-2dbb-46e1-901d-7df2881081df.png,0,[]
+331,../data/images/control/6d9b4e18-0947-498c-bff7-968e44220f15.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5404101610183716, 'box': [290, 446, 38, 44]}, {'class': 'FEET_COVERED', 'score': 0.3272891640663147, 'box': [217, 425, 63, 48]}]"
+332,../data/images/control/ea3a906c-7344-41d4-8622-8284a0010c65.png,0,[]
+333,../data/images/control/625a59c8-acb9-4c8f-aab4-77492ba9c413.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.7773252725601196, 'box': [282, 90, 74, 94]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.6500469446182251, 'box': [161, 66, 49, 59]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5009241104125977, 'box': [187, 85, 101, 98]}, {'class': 'FACE_FEMALE', 'score': 0.4959903657436371, 'box': [221, 0, 92, 19]}, {'class': 'BELLY_EXPOSED', 'score': 0.4667297601699829, 'box': [188, 193, 111, 66]}]"
+334,../data/images/control/e7decf5e-2ae6-463c-8383-434dd0ef0fa2.png,0,"[{'class': 'FEET_COVERED', 'score': 0.585706889629364, 'box': [69, 405, 45, 52]}, {'class': 'FEET_COVERED', 'score': 0.4588198959827423, 'box': [146, 395, 59, 41]}, {'class': 'FEET_COVERED', 'score': 0.43214061856269836, 'box': [273, 375, 58, 39]}, {'class': 'FEET_EXPOSED', 'score': 0.2856050133705139, 'box': [335, 425, 58, 36]}]"
+335,../data/images/control/8e2f67af-20e9-4b92-8bcb-59d3f65d8435.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7902594804763794, 'box': [252, 216, 107, 100]}, {'class': 'FACE_FEMALE', 'score': 0.6226430535316467, 'box': [125, 65, 81, 77]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.35716280341148376, 'box': [137, 277, 59, 60]}]"
+336,../data/images/control/2488ec92-1711-45a6-8f1e-7dadaf767581.png,0,[]
+337,../data/images/control/cf20e00c-da30-4a57-8422-746fbae718c5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7410529851913452, 'box': [271, 196, 73, 59]}, {'class': 'FEET_EXPOSED', 'score': 0.6776054501533508, 'box': [41, 346, 57, 71]}]"
+338,../data/images/control/78af7c5d-68fd-4224-8a73-6a6acc378c54.png,0,[]
+339,../data/images/control/86ef40e5-7588-4ddf-a597-fff3275640d5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5979057550430298, 'box': [89, 14, 273, 268]}]"
+340,../data/images/control/15815ca5-2325-40e9-ae53-fa83d57dd09c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.36182355880737305, 'box': [254, 209, 162, 156]}]"
+341,../data/images/control/a55f15eb-8e71-496f-b2d9-7653630006a1.png,1,"[{'class': 'FEET_COVERED', 'score': 0.4754502475261688, 'box': [167, 398, 82, 58]}, {'class': 'FEET_COVERED', 'score': 0.38788890838623047, 'box': [391, 406, 68, 56]}, {'class': 'FEET_COVERED', 'score': 0.25299906730651855, 'box': [251, 375, 67, 56]}]"
+342,../data/images/control/d84add29-7f3b-4c52-a048-25bfdbaab7dd.png,0,[]
+343,../data/images/control/9fe035f8-8a23-4b2b-af47-56d0d8a2bc82.png,0,[]
+344,../data/images/control/1b9e7a6a-63fa-432d-9539-62c472db0fa7.png,1,[]
+345,../data/images/control/79a62c6f-25ee-4017-8a3c-fd6c0c6a579d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6355512142181396, 'box': [241, 131, 45, 44]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.46957632899284363, 'box': [193, 198, 54, 67]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.4286806285381317, 'box': [158, 312, 116, 95]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.379997193813324, 'box': [261, 202, 62, 70]}]"
+346,../data/images/control/f30ffe4a-0852-4e17-9622-a41dd339bfd5.png,0,[]
+347,../data/images/control/1fc76dc6-895c-4df8-b65b-e449cc490866.png,1,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.6234921813011169, 'box': [245, 160, 75, 86]}, {'class': 'FACE_MALE', 'score': 0.5868923664093018, 'box': [299, 73, 68, 67]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4659389555454254, 'box': [310, 171, 108, 88]}]"
+348,../data/images/control/86cf2a87-fca5-486a-aa3b-a0da3c48f1c6.png,1,[]
+349,../data/images/control/141e3ca1-b4fb-48c1-8226-19ec89102859.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.815863311290741, 'box': [41, 1, 467, 505]}]"
+350,../data/images/control/8b8b047b-6054-4454-a825-7df4000372f1.png,0,[]
+351,../data/images/control/c84c711e-5156-40da-8315-a8104bbcf5bc.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8097169995307922, 'box': [178, 116, 193, 192]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.377154141664505, 'box': [28, 248, 160, 252]}]"
+352,../data/images/control/37d688ef-8c1a-4255-9706-bf38e27d4c2d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8564995527267456, 'box': [112, 165, 271, 284]}]"
+353,../data/images/control/07f534ca-9f87-4dca-822e-37737998797a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6789548397064209, 'box': [115, 56, 171, 193]}]"
+354,../data/images/control/b4bcfb70-364c-42a3-9e65-72a0b05f03a7.png,0,[]
+355,../data/images/control/ba4edb28-0c52-43b9-9f41-4e90559bb759.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7686834335327148, 'box': [175, 140, 188, 185]}]"
+356,../data/images/control/b027b691-d5e7-4a15-9aca-a2e09f132018.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7545725107192993, 'box': [163, 54, 67, 75]}]"
+357,../data/images/control/858603a3-455c-4926-9f1b-3566b47fe3d8.png,0,[]
+358,../data/images/control/a430d8ff-58c1-4ce7-aa99-c20a8ef3fbe2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8269319534301758, 'box': [195, 124, 138, 134]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.589952826499939, 'box': [293, 329, 119, 122]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5161145925521851, 'box': [176, 355, 168, 155]}]"
+359,../data/images/control/42fc4be7-e2dd-42ae-bf05-269aad84d84d.png,0,[]
+360,../data/images/control/1476c86e-b44a-48c1-b5f2-375cd374d398.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.6836342215538025, 'box': [1, 8, 436, 499]}]"
+361,../data/images/control/6d3cd7ec-3949-4217-9554-768a85d0a88d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.35877925157546997, 'box': [232, 170, 29, 33]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.2625461220741272, 'box': [237, 254, 82, 58]}, {'class': 'FEET_COVERED', 'score': 0.2583804428577423, 'box': [252, 450, 44, 53]}]"
+362,../data/images/control/ff1c5c8b-34b1-4ae0-b956-91763f223d37.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6347266435623169, 'box': [207, 0, 101, 94]}]"
+363,../data/images/control/933c13dc-1ca9-4f46-ba48-a97341f7ed42.png,1,[]
+364,../data/images/control/6f5e3981-9ccb-4e43-bec7-a75830240df4.png,0,[]
+365,../data/images/control/ca61cc8d-83f6-4f1b-b9a4-09f964b9c507.png,0,"[{'class': 'FEET_COVERED', 'score': 0.7057622671127319, 'box': [231, 414, 69, 95]}, {'class': 'FACE_MALE', 'score': 0.6287549734115601, 'box': [135, 28, 45, 44]}, {'class': 'FEET_COVERED', 'score': 0.5448323488235474, 'box': [103, 428, 48, 67]}, {'class': 'FEET_COVERED', 'score': 0.3880924880504608, 'box': [153, 411, 59, 62]}, {'class': 'FEET_COVERED', 'score': 0.34813421964645386, 'box': [362, 415, 69, 86]}]"
+366,../data/images/control/815e1528-2914-40cc-8150-7ef0247313e9.png,0,[]
+367,../data/images/control/b6d8fde3-98e7-4e8c-976d-ed4d1fde2f21.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.864841639995575, 'box': [209, 55, 162, 180]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5336927175521851, 'box': [384, 417, 60, 94]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.45348450541496277, 'box': [226, 412, 188, 99]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.43571043014526367, 'box': [71, 389, 198, 122]}]"
+368,../data/images/control/3babb54b-2f21-4e4c-9e87-04d1fc8303c0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3882446885108948, 'box': [113, 88, 193, 196]}]"
+369,../data/images/control/72238c0e-fbca-4c4d-8e7a-5464b794efe4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8555116653442383, 'box': [162, 0, 174, 163]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2824309468269348, 'box': [254, 229, 126, 114]}]"
+370,../data/images/control/31e6ba02-ff9d-4d22-ab59-d8dcb7b9b688.png,0,[]
+371,../data/images/control/be0d361c-2d28-46ba-915d-85151b9f5257.png,0,[]
+372,../data/images/control/830f9425-4fe7-4cb5-baec-45326eaaf313.png,0,[]
+373,../data/images/control/507e4980-b848-40e1-9b5c-2762a4e3f82f.png,0,[]
+374,../data/images/control/a1f553b2-8342-4dc1-b7d4-2e9b6633792a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8262252807617188, 'box': [266, 97, 132, 121]}]"
+375,../data/images/control/cf18a5bb-7303-4978-bce4-633ccf10281f.png,0,[]
+376,../data/images/control/c2509648-245b-450c-9d85-9eb529a3ff3c.png,0,"[{'class': 'FACE_MALE', 'score': 0.48484694957733154, 'box': [244, 161, 41, 40]}]"
+377,../data/images/control/5b7f6c4a-0d53-41c3-9532-cce30d202d5b.png,0,"[{'class': 'FACE_MALE', 'score': 0.4666920304298401, 'box': [219, 142, 50, 47]}]"
+378,../data/images/control/4809f4c0-49ae-4dfd-a048-375640078fc6.png,0,[]
+379,../data/images/control/49474160-b415-4f38-89c4-1b75443b8fa0.png,1,"[{'class': 'FACE_MALE', 'score': 0.30749791860580444, 'box': [223, 86, 53, 51]}]"
+380,../data/images/control/5c3abe67-54ad-4ac7-aeb2-674754f2b0ad.png,0,[]
+381,../data/images/control/6725f049-76f3-4da5-bbfb-bcdcc2fea90b.png,0,[]
+382,../data/images/control/b81ad13f-cdb4-432a-bd6e-a442d6b82949.png,0,"[{'class': 'FEET_COVERED', 'score': 0.280846506357193, 'box': [224, 306, 92, 125]}]"
+383,../data/images/control/3d49ed16-ffa8-447a-bb40-117097830941.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8083233833312988, 'box': [226, 54, 106, 107]}]"
+384,../data/images/control/0e740ea2-b065-4451-bca1-c55eef734e5e.png,0,"[{'class': 'FACE_MALE', 'score': 0.533042848110199, 'box': [76, 243, 54, 49]}, {'class': 'FACE_FEMALE', 'score': 0.28371548652648926, 'box': [405, 252, 44, 43]}]"
+385,../data/images/control/b0f5a954-f727-4913-9a50-21700cd5f4ae.png,0,[]
+386,../data/images/control/97c1c417-31bc-45c3-ac13-b132f3e5a353.png,0,[]
+387,../data/images/control/cd1bdb3b-c7e5-4896-9fff-19acb2e7f34f.png,0,[]
+388,../data/images/control/1a488993-8b3d-47c8-8c28-1a36ca5f85d4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6507374048233032, 'box': [211, 137, 46, 44]}, {'class': 'FACE_FEMALE', 'score': 0.6340893507003784, 'box': [107, 80, 49, 45]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5613644123077393, 'box': [174, 192, 44, 43]}, {'class': 'FEET_EXPOSED', 'score': 0.44976410269737244, 'box': [428, 276, 83, 65]}, {'class': 'FEET_EXPOSED', 'score': 0.4422121047973633, 'box': [0, 428, 46, 61]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4214909076690674, 'box': [244, 204, 27, 28]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3856349289417267, 'box': [217, 203, 48, 37]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.3248155415058136, 'box': [210, 300, 88, 59]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.2615625858306885, 'box': [116, 138, 54, 48]}]"
+389,../data/images/control/e1db5f76-3fb9-4006-9dd4-743ea4b9c683.png,0,[]
+390,../data/images/control/c9888510-7e2c-4e72-bbc3-8349c85dbacb.png,1,[]
+391,../data/images/control/1bb179ac-bc9d-4789-b479-e7b1bd8a9cb7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6673492193222046, 'box': [118, 176, 199, 209]}]"
+392,../data/images/control/b968d139-0c61-4791-a069-a0dcef50466c.png,0,[]
+393,../data/images/control/6d9d1fd5-6b11-4990-8804-bb36269b0354.png,0,[]
+394,../data/images/control/f01d330a-9a9e-401d-aa26-8062f32d59ca.png,0,[]
+395,../data/images/control/bb7b44cc-6c90-458e-94f0-97bcb6b31b45.png,0,[]
+396,../data/images/control/d7bd3610-70c8-476d-a74b-8739dd8919f3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6957879662513733, 'box': [129, 94, 141, 148]}]"
+397,../data/images/control/a506345a-475a-4e3d-a9f7-6b30d73d1b90.png,1,[]
+398,../data/images/control/639088a6-d8b4-42c4-8fb2-5d87814b1ad9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.782600998878479, 'box': [202, 91, 217, 228]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.5108436942100525, 'box': [81, 132, 211, 188]}, {'class': 'BELLY_EXPOSED', 'score': 0.3662361800670624, 'box': [144, 340, 212, 171]}]"
+399,../data/images/control/96b5897c-afd4-458f-956d-67aa3a7ec2b3.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.8415894508361816, 'box': [253, 133, 171, 169]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7961030602455139, 'box': [126, 123, 167, 165]}, {'class': 'FACE_FEMALE', 'score': 0.6670934557914734, 'box': [173, 0, 163, 43]}, {'class': 'BELLY_COVERED', 'score': 0.504125714302063, 'box': [147, 286, 196, 169]}]"
+400,../data/images/control/762754c8-56cb-4b8d-9a34-238e82b2e90b.png,0,[]
+401,../data/images/control/d37720e7-d5ea-409c-8fa7-b8b840ae4568.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.46919843554496765, 'box': [168, 27, 77, 77]}]"
+402,../data/images/control/f935114b-376e-4066-a870-8cd333946e59.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7657738924026489, 'box': [261, 48, 88, 89]}, {'class': 'FACE_FEMALE', 'score': 0.4170067012310028, 'box': [89, 158, 94, 95]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.34649381041526794, 'box': [384, 192, 37, 42]}, {'class': 'BELLY_EXPOSED', 'score': 0.2848644256591797, 'box': [84, 282, 102, 83]}]"
+403,../data/images/control/2fd4abbf-833f-4df0-bef3-326e65bcc04d.png,1,"[{'class': 'FEET_COVERED', 'score': 0.7714900970458984, 'box': [215, 437, 64, 57]}, {'class': 'FEET_COVERED', 'score': 0.6421206593513489, 'box': [282, 433, 77, 66]}, {'class': 'FEET_COVERED', 'score': 0.391224205493927, 'box': [125, 313, 31, 30]}, {'class': 'FEET_COVERED', 'score': 0.30800139904022217, 'box': [68, 326, 30, 36]}]"
+404,../data/images/control/09826137-d4e8-4e00-8e9d-2e33dce409b6.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5927971005439758, 'box': [271, 167, 49, 44]}, {'class': 'FEET_COVERED', 'score': 0.4261340796947479, 'box': [283, 362, 65, 48]}, {'class': 'FEET_COVERED', 'score': 0.3145639896392822, 'box': [237, 355, 54, 42]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.25575369596481323, 'box': [319, 209, 28, 27]}]"
+405,../data/images/control/147cdd71-eae9-4c97-b8b7-177097d6004d.png,0,[]
+406,../data/images/control/45f8113d-9b70-4e9b-81f3-d0aba14a0761.png,0,[]
+407,../data/images/control/f3a8b61e-0b1a-4af4-835d-e559051cd354.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6960158348083496, 'box': [161, 125, 244, 238]}]"
+408,../data/images/control/81e23af1-667a-4a8d-af61-ac3d54a1b32f.png,0,[]
+409,../data/images/control/a0b9ffd7-03e7-41ae-b889-6eb660986ad3.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5689718127250671, 'box': [317, 386, 54, 57]}, {'class': 'FEET_COVERED', 'score': 0.5242957472801208, 'box': [380, 364, 61, 58]}, {'class': 'FACE_MALE', 'score': 0.5098863840103149, 'box': [383, 39, 40, 38]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3847563862800598, 'box': [347, 112, 24, 28]}, {'class': 'BELLY_EXPOSED', 'score': 0.36032789945602417, 'box': [365, 142, 66, 50]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.355602890253067, 'box': [428, 107, 23, 30]}, {'class': 'FEET_COVERED', 'score': 0.3177385926246643, 'box': [251, 402, 50, 57]}]"
+410,../data/images/control/f35ae01c-1ef4-46a7-956d-f73cb13ef325.png,0,[]
+411,../data/images/control/0dd1cf0b-18d1-4ef3-a106-9bcaa36415f2.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4964936375617981, 'box': [354, 151, 143, 151]}, {'class': 'FACE_MALE', 'score': 0.47230151295661926, 'box': [0, 172, 91, 94]}, {'class': 'FEET_COVERED', 'score': 0.3642023205757141, 'box': [0, 423, 54, 87]}]"
+412,../data/images/control/24573d77-1575-4b37-b596-ebd701a57d93.png,0,[]
+413,../data/images/control/b7b2e92a-40b0-4954-a043-9bce62cdfcc2.png,0,[]
+414,../data/images/control/a0cbf293-bd8a-4e9b-a66e-6379d7f085a2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8426905870437622, 'box': [157, 91, 112, 103]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5976440906524658, 'box': [137, 265, 103, 110]}]"
+415,../data/images/control/98772270-3a64-4282-881a-15a65fcaded5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.33340442180633545, 'box': [291, 181, 28, 32]}]"
+416,../data/images/control/9ed33241-b9b1-4584-9c75-de5c33dab64b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4402579665184021, 'box': [234, 303, 80, 71]}]"
+417,../data/images/control/102e8f1e-9c33-44d2-a2b7-2acbd5372aa5.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.29533788561820984, 'box': [167, 0, 102, 91]}]"
+418,../data/images/control/95492524-f048-4c3e-b5e8-c5564aa3d3c1.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7605133056640625, 'box': [174, 38, 161, 162]}]"
+419,../data/images/control/a502b4f6-9f17-43a8-8dbc-0fcfbdd4938e.png,0,[]
+420,../data/images/control/dd7457ce-8e51-48f0-9265-8b0e86e386ad.png,0,[]
+421,../data/images/control/d379b579-b475-4604-a3e9-28dfb1f78cea.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7951358556747437, 'box': [179, 0, 258, 303]}]"
+422,../data/images/control/982fbe1e-a814-4577-8017-1c720c1f6983.png,0,[]
+423,../data/images/control/63c1ae47-1f1d-409d-bb8d-7cf35adc7bf4.png,0,[]
+424,../data/images/control/1f83739f-4b02-4a04-908e-703b40f7d81b.png,1,"[{'class': 'FEET_COVERED', 'score': 0.43920233845710754, 'box': [98, 385, 85, 79]}, {'class': 'FEET_COVERED', 'score': 0.330894410610199, 'box': [38, 364, 84, 73]}]"
+425,../data/images/control/ec1a037c-f729-479a-9b33-160780a31924.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6778881549835205, 'box': [133, 172, 51, 49]}, {'class': 'FACE_FEMALE', 'score': 0.6103389263153076, 'box': [217, 173, 50, 48]}, {'class': 'FACE_FEMALE', 'score': 0.5935903787612915, 'box': [296, 235, 55, 50]}]"
+426,../data/images/control/c099a508-42db-475a-9dfe-2e39c91e9d40.png,0,[]
+427,../data/images/control/9e2e437f-f56a-4eac-9f34-c3b3d8019594.png,1,[]
+428,../data/images/control/efa45ba7-1932-483b-a2d6-4a4948f2e8a5.png,0,[]
+429,../data/images/control/de6fb2fb-ce4b-43d0-bc50-be180af2d924.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8578131198883057, 'box': [157, 145, 198, 208]}]"
+430,../data/images/control/7f1a48bf-e116-43a0-bc13-6e73179d116b.png,0,[]
+431,../data/images/control/308b8e4a-9cca-4c86-a79e-98ead326f6ef.png,1,"[{'class': 'FEET_COVERED', 'score': 0.5804581642150879, 'box': [319, 427, 91, 84]}, {'class': 'FACE_MALE', 'score': 0.5237714648246765, 'box': [472, 293, 38, 39]}, {'class': 'FACE_MALE', 'score': 0.37489640712738037, 'box': [184, 72, 49, 48]}]"
+432,../data/images/control/92939345-4cba-4942-acf9-e23015a435c5.png,1,[]
+433,../data/images/control/a2fd0093-7a68-4e49-bd26-dc5651d65ae0.png,0,"[{'class': 'FEET_COVERED', 'score': 0.7443356513977051, 'box': [188, 433, 66, 74]}, {'class': 'FEET_COVERED', 'score': 0.7192399501800537, 'box': [281, 429, 48, 72]}, {'class': 'FACE_MALE', 'score': 0.607837975025177, 'box': [233, 57, 50, 48]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4273971915245056, 'box': [252, 166, 64, 68]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.37576261162757874, 'box': [199, 144, 54, 51]}]"
+434,../data/images/control/c6c6ee6a-42af-48a1-a7eb-f8b370faa890.png,0,[]
+435,../data/images/control/292fb78b-8370-4e10-b42e-c10b5fd12646.png,0,[]
+436,../data/images/control/a1373de5-de79-45d6-b6c4-7682b97ec423.png,0,[]
+437,../data/images/control/2850e3cd-9e08-4abb-ad7a-de8fcf44de9a.png,0,[]
+438,../data/images/control/3ab6b80f-cebe-4929-b465-2e2094416241.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.41132330894470215, 'box': [312, 47, 42, 45]}]"
+439,../data/images/control/12f7a7f5-de4b-4552-95e6-9968c3c9585e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.44841212034225464, 'box': [245, 47, 67, 66]}]"
+440,../data/images/control/1758025d-f270-4da3-b982-f37c3b77fed8.png,1,"[{'class': 'FEET_COVERED', 'score': 0.27930641174316406, 'box': [372, 360, 139, 151]}]"
+441,../data/images/control/0fa23509-d730-4114-aa92-dbb54d26b7dd.png,1,[]
+442,../data/images/control/cf967589-c985-4d4a-89b7-055a75adef0c.png,0,[]
+443,../data/images/control/7c415c66-f524-492c-8937-bfcfbee7f4d1.png,0,[]
+444,../data/images/control/a46ca0f0-47cb-4b98-bf00-3c3f12fff694.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7742478847503662, 'box': [240, 169, 178, 175]}, {'class': 'FACE_FEMALE', 'score': 0.7022930383682251, 'box': [21, 120, 167, 159]}]"
+445,../data/images/control/6beb150b-9c3a-4363-9f4c-17faadf65061.png,0,"[{'class': 'FEET_COVERED', 'score': 0.2725011110305786, 'box': [288, 364, 73, 109]}]"
+446,../data/images/control/0d44ad70-6b7a-476c-9c06-1e60b375872e.png,0,[]
+447,../data/images/control/a37c3096-8397-4f77-a82f-299ca119ccb0.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3136630058288574, 'box': [277, 486, 70, 25]}]"
+448,../data/images/control/c91fb799-38ae-4a5a-beef-c28bd03c0297.png,0,[]
+449,../data/images/control/32979da0-c4a8-4b74-9de9-06b02f9f1b68.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.624963641166687, 'box': [166, 140, 86, 80]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4127386510372162, 'box': [283, 239, 47, 34]}]"
+450,../data/images/control/a08e1147-ce30-4639-b5c9-60b0762904f4.png,0,[]
+451,../data/images/control/0c58cd9c-c265-4263-8445-fd56e3fd7d27.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7043824195861816, 'box': [311, 118, 69, 75]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.36646243929862976, 'box': [308, 238, 68, 70]}]"
+452,../data/images/control/23fdd92e-1b58-4aa7-8c4d-a5fbe08a01a8.png,0,[]
+453,../data/images/control/ddc69048-f53a-455f-9083-277d68887e80.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8333072662353516, 'box': [186, 28, 103, 113]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.40331095457077026, 'box': [152, 200, 111, 99]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4032258093357086, 'box': [68, 209, 97, 97]}, {'class': 'BELLY_COVERED', 'score': 0.27960264682769775, 'box': [92, 331, 146, 117]}]"
+454,../data/images/control/23f721ce-c010-4cc4-a627-2c1a52ff4c4d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7626841068267822, 'box': [245, 112, 185, 151]}]"
+455,../data/images/control/79c85041-9b5a-4b88-8478-b77ea0f46f68.png,0,"[{'class': 'BELLY_COVERED', 'score': 0.5286543965339661, 'box': [168, 246, 63, 53]}, {'class': 'FACE_FEMALE', 'score': 0.4989476203918457, 'box': [180, 150, 38, 35]}, {'class': 'FEET_EXPOSED', 'score': 0.49270060658454895, 'box': [122, 427, 42, 46]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.30634191632270813, 'box': [198, 203, 44, 42]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2668796181678772, 'box': [157, 206, 46, 43]}]"
+456,../data/images/control/e42e4ec7-1177-43b3-991c-4274a757ba74.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.33340126276016235, 'box': [17, 40, 225, 249]}]"
+457,../data/images/control/ad603a40-af78-49f5-a177-4f6781fa1813.png,0,[]
+458,../data/images/control/30d62f2d-5c36-40cc-84ed-a32b8d407884.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8999496102333069, 'box': [154, 0, 237, 207]}]"
+459,../data/images/control/1984c2d5-af96-441d-944b-f66f25366aeb.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7301529049873352, 'box': [92, 36, 126, 115]}]"
+460,../data/images/control/08565cee-76eb-4cfc-aa61-098bebe0f236.png,0,[]
+461,../data/images/control/354d2ddf-892d-4e30-8cd7-0ce8d6c75c7c.png,0,"[{'class': 'BELLY_EXPOSED', 'score': 0.29570093750953674, 'box': [145, 190, 198, 265]}]"
+462,../data/images/control/9d6c9967-32c3-4a53-ba92-cb1cf7c7cae0.png,1,[]
+463,../data/images/control/c2dc0d39-7af2-4bb4-96fe-1b9eadc08c5d.png,0,[]
+464,../data/images/control/8490d7bc-b965-4c40-a633-525869125d7c.png,0,[]
+465,../data/images/control/27b102fd-fdfa-473f-9d88-838cdcbf4939.png,0,"[{'class': 'FEET_COVERED', 'score': 0.41858991980552673, 'box': [102, 20, 42, 75]}]"
+466,../data/images/control/dd2de83d-9412-49b7-92bd-1a708039c0d4.png,0,[]
+467,../data/images/control/e80bacd2-fa81-45bf-9a9e-46ff9e1b32e0.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6171307563781738, 'box': [163, 414, 38, 40]}, {'class': 'FACE_MALE', 'score': 0.5830097794532776, 'box': [128, 211, 36, 35]}, {'class': 'FACE_MALE', 'score': 0.5001523494720459, 'box': [262, 184, 34, 32]}, {'class': 'FACE_MALE', 'score': 0.4950346350669861, 'box': [357, 178, 36, 33]}, {'class': 'FEET_COVERED', 'score': 0.36377471685409546, 'box': [332, 408, 41, 46]}, {'class': 'FEET_COVERED', 'score': 0.2557442784309387, 'box': [311, 414, 51, 46]}]"
+468,../data/images/control/64ffb0a8-1a85-4eba-9f11-3462ba0a6c47.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5002598762512207, 'box': [86, 303, 76, 90]}]"
+469,../data/images/control/d4e13846-b823-4811-8081-5c55eb9c7315.png,0,[]
+470,../data/images/control/ee6386c2-6664-4df2-a535-700f70abcc11.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6770181059837341, 'box': [274, 195, 124, 144]}, {'class': 'FACE_FEMALE', 'score': 0.6273469924926758, 'box': [215, 0, 125, 103]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6137700080871582, 'box': [166, 190, 127, 131]}]"
+471,../data/images/control/36b889d4-0eb4-403d-80da-df08a5c0fc4b.png,0,"[{'class': 'FACE_MALE', 'score': 0.41461944580078125, 'box': [234, 75, 114, 119]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.37569284439086914, 'box': [108, 201, 94, 123]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3158225417137146, 'box': [169, 254, 145, 116]}]"
+472,../data/images/control/e176962b-172e-451c-97de-8405dea20e79.png,0,"[{'class': 'FEET_COVERED', 'score': 0.68642258644104, 'box': [52, 353, 81, 57]}, {'class': 'FEET_COVERED', 'score': 0.5607753396034241, 'box': [246, 453, 83, 57]}, {'class': 'FEET_COVERED', 'score': 0.2850688695907593, 'box': [441, 429, 60, 78]}]"
+473,../data/images/control/b15909fc-3a82-4b8d-aed6-e1be9a1d56f3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8685637712478638, 'box': [121, 58, 200, 205]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.8099969625473022, 'box': [158, 343, 173, 168]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7781505584716797, 'box': [75, 372, 133, 139]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3018871545791626, 'box': [303, 254, 139, 148]}]"
+474,../data/images/control/5cb170fe-a210-4b90-ad8e-2334165e7b24.png,0,"[{'class': 'BUTTOCKS_EXPOSED', 'score': 0.37627068161964417, 'box': [68, 423, 224, 88]}]"
+475,../data/images/control/d7bcd6b6-439b-4428-b34c-12d4a4997b82.png,1,[]
+476,../data/images/control/e1a26678-acf3-4769-9a3b-a3c51fcdaa5d.png,0,[]
+477,../data/images/control/be0c65cc-af4f-4670-afc9-d35124c181ed.png,0,[]
+478,../data/images/control/d3eaeb8d-83b2-4b27-a955-3b8374d94f2a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5569893717765808, 'box': [215, 200, 60, 59]}]"
+479,../data/images/control/de3b48b4-84f4-4634-ab82-88c4174e1887.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8319435119628906, 'box': [175, 79, 215, 195]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.43232011795043945, 'box': [271, 301, 229, 209]}]"
+480,../data/images/control/8e2f3174-b2e5-4fcb-aa35-ca1f7053eaf9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4610665440559387, 'box': [245, 60, 52, 52]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2727433741092682, 'box': [193, 150, 51, 56]}]"
+481,../data/images/control/e2414188-2457-45be-854b-6491a3dc4313.png,0,[]
+482,../data/images/control/1cf10ac9-d50a-4dc1-b4fe-32c9c856204e.png,0,"[{'class': 'FACE_MALE', 'score': 0.5504669547080994, 'box': [201, 129, 54, 54]}, {'class': 'BELLY_COVERED', 'score': 0.44892239570617676, 'box': [203, 258, 77, 71]}, {'class': 'MALE_BREAST_EXPOSED', 'score': 0.26355183124542236, 'box': [211, 207, 65, 50]}]"
+483,../data/images/control/d312bdda-05db-4097-9f87-d4aca2355740.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.49037933349609375, 'box': [386, 0, 120, 85]}, {'class': 'FACE_FEMALE', 'score': 0.3385961651802063, 'box': [113, 69, 155, 157]}, {'class': 'FACE_FEMALE', 'score': 0.27025848627090454, 'box': [340, 432, 171, 79]}]"
+484,../data/images/control/e3e5b2ec-b3fd-4b49-97b7-81e7c9759de8.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8431640863418579, 'box': [50, 91, 122, 112]}]"
+485,../data/images/control/53cdb5b1-1b52-4ea4-b5f6-b1e3a89d1f65.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3116527199745178, 'box': [338, 443, 67, 68]}, {'class': 'FEET_COVERED', 'score': 0.2790713310241699, 'box': [159, 445, 68, 66]}]"
+486,../data/images/control/ce0fe1f7-7cbf-493e-9053-53b7717fefc6.png,1,[]
+487,../data/images/control/c07aa210-6538-43a7-b9c9-634b1343c8fd.png,0,"[{'class': 'FACE_MALE', 'score': 0.46736881136894226, 'box': [0, 169, 106, 159]}]"
+488,../data/images/control/f0fcac88-1651-43ac-8666-59fdc5eefafb.png,0,"[{'class': 'FEET_COVERED', 'score': 0.4332490861415863, 'box': [352, 413, 154, 98]}, {'class': 'FEET_COVERED', 'score': 0.34762251377105713, 'box': [15, 414, 133, 97]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.27909934520721436, 'box': [298, 128, 159, 143]}]"
+489,../data/images/control/95a50667-b401-40ec-9512-ea731dd39f33.png,0,[]
+490,../data/images/control/37627db9-b3ce-4333-bd05-d703842e2294.png,0,[]
+491,../data/images/control/b9960ce7-3a5d-40f6-9a52-34cf51d6092a.png,1,[]
+492,../data/images/control/42a541c6-00e6-4146-bfb4-edbd21b3ff29.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7834134101867676, 'box': [333, 83, 60, 63]}]"
+493,../data/images/control/0bd7abe6-8731-4217-9e55-01333974fd92.png,0,[]
+494,../data/images/control/f4c3fa19-80b0-4a85-b036-5b7c66e767d1.png,0,[]
+495,../data/images/control/ab061ea0-9dab-4040-8d52-52e821377ac0.png,0,[]
+496,../data/images/control/00a3b6f1-1653-4fff-aa56-8e6bb30322ad.png,0,[]
+497,../data/images/control/b97672f5-a65c-4eef-b3e6-83c3ad3e2a85.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5856161713600159, 'box': [338, 438, 75, 73]}, {'class': 'FEET_COVERED', 'score': 0.39618566632270813, 'box': [253, 430, 88, 75]}]"
+498,../data/images/control/3782e7b9-fc78-426c-bd89-2e949f16ecf5.png,0,"[{'class': 'FEET_COVERED', 'score': 0.473061203956604, 'box': [213, 386, 81, 56]}, {'class': 'FEET_COVERED', 'score': 0.4039759635925293, 'box': [290, 415, 45, 43]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.27250319719314575, 'box': [184, 209, 48, 75]}]"
+499,../data/images/control/082e1ca8-336d-4384-a026-df4c18d6f81d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.29598334431648254, 'box': [220, 111, 237, 235]}]"
+500,../data/images/control/6eb08b0a-064c-490d-8014-b29cc855cbda.png,1,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3141549229621887, 'box': [289, 0, 145, 162]}]"
+501,../data/images/control/95ceae56-d72a-4e24-a33b-157e4f8dc83d.png,0,[]
+502,../data/images/control/1588586d-60a4-4ef7-b3bf-e2d6d0548a8a.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.32324039936065674, 'box': [37, 13, 265, 322]}]"
+503,../data/images/control/06b90dae-fd70-48df-af9d-0aedbebd3e6a.png,0,[]
+504,../data/images/control/3f1fcd09-c89b-4177-8392-00bca6933cdb.png,0,[]
+505,../data/images/control/979747d6-c214-48b6-a1ad-641116ca70a4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8544154167175293, 'box': [99, 6, 311, 326]}]"
+506,../data/images/control/92dabcab-a894-4cc9-bff2-920fc2484929.png,1,[]
+507,../data/images/control/b25df299-7d82-4d2f-9ab4-d81724607d46.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.892227292060852, 'box': [205, 86, 104, 101]}]"
+508,../data/images/control/fa04e6fd-5044-4629-ae8e-b96373641add.png,0,[]
+509,../data/images/control/ce5ea2c8-546c-41cc-8d2f-6ca535d9dc5c.png,0,[]
+510,../data/images/control/c8e107be-a8f3-401f-81f3-45c76249e29e.png,1,[]
+511,../data/images/control/c6a5abfe-0a55-4590-abbb-b8540f3c0534.png,0,[]
+512,../data/images/control/a49aa5dd-e89f-4203-b276-759128a9b681.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.38302385807037354, 'box': [216, 116, 112, 109]}]"
+513,../data/images/control/811f6c2f-dea0-4413-92bd-ce1fbd321348.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.31657421588897705, 'box': [133, 79, 244, 253]}]"
+514,../data/images/control/d7e93b1b-c818-4895-9612-aa56f958db0c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8457871675491333, 'box': [184, 32, 132, 137]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.43461620807647705, 'box': [148, 228, 89, 109]}]"
+515,../data/images/control/e3f878dc-6dbf-4103-bb0f-6b51fdc44080.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5661239624023438, 'box': [99, 177, 64, 68]}]"
+516,../data/images/control/d5079830-9994-4075-9225-ade09fb13501.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7110540270805359, 'box': [211, 60, 101, 90]}]"
+517,../data/images/control/96d0ff25-f29a-4c0e-82bc-16795b4bc9a8.png,0,[]
+518,../data/images/control/92a8e434-9339-4d16-b7f8-4794c6bdb969.png,1,[]
+519,../data/images/control/570e9edc-a097-4978-be49-22d96defbb25.png,0,"[{'class': 'FACE_MALE', 'score': 0.576503336429596, 'box': [217, 69, 49, 41]}]"
+520,../data/images/control/5bcf1c66-46f0-4ebb-9728-1deff2fd2af3.png,0,[]
+521,../data/images/control/b53c9dac-012a-40c0-8a8e-ffacc909cbb2.png,1,[]
+522,../data/images/control/7fd0b479-9113-4ee1-9780-060e62630532.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8723707795143127, 'box': [134, 94, 206, 194]}]"
+523,../data/images/control/8a757090-3ac8-48fa-a045-3d8e03982c3d.png,0,"[{'class': 'FACE_MALE', 'score': 0.43479830026626587, 'box': [443, 259, 54, 54]}, {'class': 'FACE_FEMALE', 'score': 0.3141559660434723, 'box': [261, 164, 67, 70]}]"
+524,../data/images/control/d500a27f-6985-4149-b50a-97842759c20d.png,1,[]
+525,../data/images/control/17ae17ab-2418-44d7-aab2-399a8ad990eb.png,0,"[{'class': 'FEET_COVERED', 'score': 0.29672789573669434, 'box': [345, 305, 73, 89]}]"
+526,../data/images/control/5cfb819b-6f53-48c6-ac5e-fee5ddd5ffcb.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8042409420013428, 'box': [63, 135, 165, 154]}]"
+527,../data/images/control/c976ff22-a25f-4c44-a61f-e508e8067825.png,1,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.7990407943725586, 'box': [49, 315, 202, 196]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7662603855133057, 'box': [195, 314, 242, 197]}, {'class': 'FACE_FEMALE', 'score': 0.7376397848129272, 'box': [197, 47, 181, 188]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4189555048942566, 'box': [369, 291, 124, 115]}]"
+528,../data/images/control/397fd85e-1e45-4b7f-a4bf-182c6ed12331.png,0,[]
+529,../data/images/control/0792229c-3071-4a32-be7e-84dca691289c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7621190547943115, 'box': [213, 73, 93, 97]}]"
+530,../data/images/control/1bb91443-7a27-4738-a5ef-2a3c42716c80.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6135728359222412, 'box': [184, 423, 64, 74]}, {'class': 'FACE_FEMALE', 'score': 0.5750141143798828, 'box': [398, 89, 44, 39]}, {'class': 'FEET_COVERED', 'score': 0.5628094673156738, 'box': [49, 432, 62, 65]}, {'class': 'FACE_FEMALE', 'score': 0.3147363066673279, 'box': [25, 112, 45, 39]}, {'class': 'FEET_COVERED', 'score': 0.30347293615341187, 'box': [0, 398, 57, 98]}, {'class': 'FACE_FEMALE', 'score': 0.2917860746383667, 'box': [228, 96, 39, 34]}]"
+531,../data/images/control/f8e17c26-7772-4c28-8ec8-e238f1d502b9.png,0,[]
+532,../data/images/control/e6ca8af1-8e1a-4bb6-8a00-2134d8319818.png,1,"[{'class': 'FEET_COVERED', 'score': 0.6502143740653992, 'box': [75, 411, 84, 76]}, {'class': 'FEET_COVERED', 'score': 0.5447193384170532, 'box': [307, 410, 83, 97]}, {'class': 'FEET_COVERED', 'score': 0.5019397735595703, 'box': [391, 374, 77, 74]}, {'class': 'FEET_COVERED', 'score': 0.2614467442035675, 'box': [257, 397, 59, 75]}]"
+533,../data/images/control/e5ac483c-93b2-40d0-8a05-41586b2675e9.png,1,[]
+534,../data/images/control/fa21db56-da1a-4d1f-b095-a3bd45aac8dc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7882645130157471, 'box': [73, 16, 406, 401]}]"
+535,../data/images/control/26d290a8-3736-4ca6-b8d3-ab5005665749.png,0,"[{'class': 'FEET_COVERED', 'score': 0.4703376889228821, 'box': [96, 414, 41, 58]}, {'class': 'FEET_COVERED', 'score': 0.38800936937332153, 'box': [407, 374, 39, 34]}, {'class': 'FEET_COVERED', 'score': 0.3470440208911896, 'box': [348, 365, 35, 45]}, {'class': 'FEET_COVERED', 'score': 0.33170974254608154, 'box': [323, 376, 32, 37]}, {'class': 'FEET_COVERED', 'score': 0.3014807105064392, 'box': [482, 403, 29, 40]}]"
+536,../data/images/control/ebbf7b77-b460-4318-a3a8-6101f2e292b6.png,0,"[{'class': 'FACE_MALE', 'score': 0.6780205368995667, 'box': [124, 66, 53, 44]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5208250284194946, 'box': [364, 128, 63, 53]}, {'class': 'FEET_COVERED', 'score': 0.5138871669769287, 'box': [153, 420, 81, 68]}, {'class': 'FEET_COVERED', 'score': 0.4677809476852417, 'box': [44, 423, 99, 56]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3549196124076843, 'box': [419, 130, 57, 49]}, {'class': 'FACE_MALE', 'score': 0.34485378861427307, 'box': [392, 54, 57, 49]}, {'class': 'FEET_COVERED', 'score': 0.3245121240615845, 'box': [358, 422, 57, 75]}, {'class': 'FEET_COVERED', 'score': 0.3034456968307495, 'box': [227, 373, 68, 86]}, {'class': 'FEET_COVERED', 'score': 0.28590458631515503, 'box': [400, 452, 52, 50]}]"
+537,../data/images/control/6e38d86d-6b08-47f8-baa0-049ef8dd717d.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6259035468101501, 'box': [53, 418, 109, 77]}, {'class': 'FEET_COVERED', 'score': 0.432525634765625, 'box': [373, 233, 80, 60]}, {'class': 'FEET_COVERED', 'score': 0.42251721024513245, 'box': [296, 402, 101, 65]}]"
+538,../data/images/control/bf14a0da-0576-419b-87d6-aaad63de05d6.png,0,[]
+539,../data/images/control/bdb32427-a0e0-472f-99af-87c39142ada8.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.28749874234199524, 'box': [208, 124, 69, 74]}]"
+540,../data/images/control/f32c2354-8af5-4758-b0a5-b8b61bedb903.png,0,"[{'class': 'FEET_COVERED', 'score': 0.7226428985595703, 'box': [22, 95, 69, 72]}, {'class': 'FEET_COVERED', 'score': 0.48009899258613586, 'box': [303, 424, 57, 71]}, {'class': 'FACE_MALE', 'score': 0.4110182821750641, 'box': [322, 161, 58, 59]}]"
+541,../data/images/control/25351cfc-adc6-4500-a966-a01f9ef3e07e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.38272953033447266, 'box': [181, 128, 162, 170]}]"
+542,../data/images/control/8683c78a-92af-4579-9811-692ea57fa23d.png,0,[]
+543,../data/images/control/aafd11a2-f358-4638-a1ed-f9713720c2d7.png,0,[]
+544,../data/images/control/1f1204ca-bdc3-4b8a-b31d-66d8b1f86124.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.6298844218254089, 'box': [139, 75, 292, 299]}]"
+545,../data/images/control/13d85320-5f24-4351-ab3f-6c38c66708b2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8429991006851196, 'box': [183, 1, 133, 138]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7815479040145874, 'box': [277, 208, 145, 138]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.6067428588867188, 'box': [396, 212, 49, 70]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3071172833442688, 'box': [146, 230, 139, 143]}]"
+546,../data/images/control/8bebadbd-b7b2-4505-ab44-7921bc8f3cb1.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7238027453422546, 'box': [51, 0, 345, 362]}]"
+547,../data/images/control/adb45e50-f968-48f9-a5a3-630d6cd352b9.png,0,[]
+548,../data/images/control/5dc2eace-f8b5-47f5-8d05-b55c35201b41.png,0,[]
+549,../data/images/control/6e2ccdbc-8464-4537-9e46-f4766c6bd9e7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.883354663848877, 'box': [232, 394, 125, 117]}, {'class': 'FACE_FEMALE', 'score': 0.7623927593231201, 'box': [110, 291, 148, 158]}]"
+550,../data/images/control/3b5645ef-fbda-4368-9728-fe841902cbab.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8493664860725403, 'box': [234, 101, 124, 127]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4926493763923645, 'box': [258, 303, 110, 103]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.48999491333961487, 'box': [159, 281, 117, 109]}]"
+551,../data/images/control/99d29c6a-cc16-4fe9-8b11-a9953ddd035f.png,0,[]
+552,../data/images/control/2bb92e47-6f62-4a08-bfa5-3949fd1df866.png,0,[]
+553,../data/images/control/2fe80f8a-b1c1-45a0-86a0-ea292a3b83d7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5986820459365845, 'box': [150, 25, 191, 183]}, {'class': 'FACE_FEMALE', 'score': 0.5198948383331299, 'box': [96, 254, 151, 123]}]"
+554,../data/images/control/0b050759-9bfb-4603-b94b-4344fc8373e7.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.5879329442977905, 'box': [276, 426, 59, 59]}, {'class': 'FEET_EXPOSED', 'score': 0.40327030420303345, 'box': [158, 365, 56, 49]}]"
+555,../data/images/control/06a757f3-30ee-4aa3-96e1-e0158d3cdc19.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3993397653102875, 'box': [66, 0, 325, 322]}]"
+556,../data/images/control/09b629ba-b33e-4c91-96d8-d251a9ba585b.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5252399444580078, 'box': [0, 233, 84, 123]}, {'class': 'FEET_COVERED', 'score': 0.43070706725120544, 'box': [8, 363, 93, 69]}]"
+557,../data/images/control/bf4c170a-e177-4839-b3b0-87dc9f4f9cb2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.46356046199798584, 'box': [418, 126, 34, 32]}, {'class': 'FEET_COVERED', 'score': 0.42808911204338074, 'box': [328, 357, 44, 54]}, {'class': 'FACE_FEMALE', 'score': 0.3563103973865509, 'box': [319, 113, 36, 36]}, {'class': 'FEET_COVERED', 'score': 0.3092516362667084, 'box': [301, 390, 47, 56]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.26687222719192505, 'box': [319, 161, 40, 37]}]"
+558,../data/images/control/fda8bb41-73a2-4ca9-be1a-15f3f583d94b.png,0,[]
+559,../data/images/control/222f818a-bf41-4ee1-adbf-b4fe3142b03a.png,0,[]
+560,../data/images/control/4d4328a8-3e95-42fa-9407-cf2db2f70a3e.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7802943587303162, 'box': [87, 60, 261, 296]}]"
+561,../data/images/control/6a982163-613d-49b5-89f8-0e4e578d53c8.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8738316297531128, 'box': [177, 133, 95, 85]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6095316410064697, 'box': [128, 259, 115, 90]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.49010738730430603, 'box': [138, 241, 44, 41]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4193112254142761, 'box': [223, 262, 143, 107]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4098280072212219, 'box': [296, 247, 46, 39]}]"
+562,../data/images/control/cdf69f4e-49d1-42e9-a6cf-0d803ec39ba0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3504917621612549, 'box': [319, 129, 38, 36]}, {'class': 'FACE_FEMALE', 'score': 0.3369397222995758, 'box': [412, 112, 39, 37]}, {'class': 'FEET_COVERED', 'score': 0.3294604420661926, 'box': [33, 417, 51, 74]}, {'class': 'FACE_MALE', 'score': 0.30226677656173706, 'box': [186, 135, 41, 39]}, {'class': 'FEET_COVERED', 'score': 0.25532209873199463, 'box': [407, 433, 59, 69]}]"
+563,../data/images/control/9f5cc873-9013-459a-a9a7-c8c926b7f8db.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6967509984970093, 'box': [155, 188, 57, 58]}, {'class': 'FACE_FEMALE', 'score': 0.586084246635437, 'box': [262, 141, 63, 72]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4380512237548828, 'box': [351, 274, 27, 37]}]"
+564,../data/images/control/e7f6a7a2-3bae-4005-aa39-d70f7257677b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6072884202003479, 'box': [180, 90, 106, 111]}]"
+565,../data/images/control/519b9b0b-8ee1-40fd-b82d-a2763f300a8a.png,0,[]
+566,../data/images/control/3b71de16-6205-4094-b24e-e9fd288a06ac.png,1,[]
+567,../data/images/control/0a55c5e4-110f-4db7-a944-ce10db27a1a0.png,0,[]
+568,../data/images/control/32136049-792f-4c83-8005-ec4b68c09f0c.png,0,"[{'class': 'BELLY_EXPOSED', 'score': 0.8187522292137146, 'box': [51, 0, 360, 230]}]"
+569,../data/images/control/c6f6d3ea-721b-4b69-96d1-93765e6634d7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.774582028388977, 'box': [189, 45, 84, 83]}, {'class': 'FACE_FEMALE', 'score': 0.5907766819000244, 'box': [229, 5, 85, 87]}]"
+570,../data/images/control/625ccf9b-3743-458c-bdab-de462467b1aa.png,0,[]
+571,../data/images/control/93838f6e-4136-4bf2-ab3a-3f5abc2f822c.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8496180772781372, 'box': [112, 55, 307, 360]}]"
+572,../data/images/control/ee6e372c-9552-4c18-8fd6-0c724b305d3f.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7727377414703369, 'box': [177, 174, 137, 132]}]"
+573,../data/images/control/a1fe7744-8db0-4c23-8653-743a3244d06e.png,0,"[{'class': 'FACE_MALE', 'score': 0.6813585162162781, 'box': [8, 54, 90, 83]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.43498367071151733, 'box': [29, 164, 84, 85]}, {'class': 'FACE_FEMALE', 'score': 0.40186363458633423, 'box': [425, 83, 71, 73]}]"
+574,../data/images/control/2ada1742-c53f-4d9d-89fb-2c2731b0bd91.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5122517943382263, 'box': [250, 178, 67, 62]}, {'class': 'FACE_FEMALE', 'score': 0.4815802574157715, 'box': [258, 15, 76, 75]}]"
+575,../data/images/control/0c1d6210-f97a-4c80-b707-87b20283aeb4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.42594635486602783, 'box': [184, 246, 66, 61]}, {'class': 'FEET_COVERED', 'score': 0.3092854619026184, 'box': [126, 478, 61, 32]}]"
+576,../data/images/control/76a9a499-1942-4792-9fe0-f38092a826bd.png,0,"[{'class': 'FEET_COVERED', 'score': 0.40891972184181213, 'box': [188, 414, 78, 68]}, {'class': 'FEET_COVERED', 'score': 0.399813711643219, 'box': [127, 407, 77, 56]}, {'class': 'FACE_FEMALE', 'score': 0.3853157162666321, 'box': [263, 17, 106, 126]}]"
+577,../data/images/control/b03b8d3a-1679-47ca-90cc-32edac8393c3.png,1,[]
+578,../data/images/control/7e7cd3e8-9034-4a28-b83b-207fa8a3774e.png,0,[]
+579,../data/images/control/22b4c8a3-6ce6-499d-a7b1-4d9a609620f0.png,0,[]
+580,../data/images/control/59fce60e-e792-45c9-962d-d9013cdc660e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8267344236373901, 'box': [81, 0, 217, 229]}]"
+581,../data/images/control/ad83f765-a79b-4856-8cef-286c13f9cf24.png,0,[]
+582,../data/images/control/9858d543-acef-4130-bdf2-a998c2add427.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6857472062110901, 'box': [234, 0, 78, 28]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4825541377067566, 'box': [244, 80, 101, 84]}]"
+583,../data/images/control/bb4ac533-ae14-4e9b-a5d4-106c40ec7612.png,0,[]
+584,../data/images/control/082a7ba6-ba22-4a7a-8f64-4d6a92d94934.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5566166043281555, 'box': [324, 50, 57, 65]}]"
+585,../data/images/control/daf6f65f-2997-4688-92b1-0ce370653727.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6532710194587708, 'box': [153, 123, 172, 168]}]"
+586,../data/images/control/50b731d8-601c-4927-aef1-a99182f8b88b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7435997128486633, 'box': [195, 46, 64, 65]}]"
+587,../data/images/control/a688db34-9970-439d-aefb-e408ebabe820.png,1,"[{'class': 'FACE_MALE', 'score': 0.689694344997406, 'box': [131, 278, 63, 63]}]"
+588,../data/images/control/81d1b02c-9184-4622-adf2-ab0043a30a7f.png,0,[]
+589,../data/images/control/da8dc21c-2f5b-4ae7-a7ec-fedcfdf0661d.png,0,"[{'class': 'FEET_COVERED', 'score': 0.41450533270835876, 'box': [150, 425, 68, 71]}]"
+590,../data/images/control/5d0e5f8d-7ac0-4ac6-97a1-d1939ea6e754.png,0,[]
+591,../data/images/control/bf0a7139-04db-479f-b155-0e9106c643d8.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.39107614755630493, 'box': [207, 0, 104, 68]}]"
+592,../data/images/control/4a747b89-f1ae-4101-87bb-5681a2f4c283.png,1,[]
+593,../data/images/control/b9da0386-0a6f-43b6-820b-24be5f3c2cde.png,0,[]
+594,../data/images/control/b58929ce-e33f-4e2f-bcb3-7ad74abae959.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.38462138175964355, 'box': [165, 473, 57, 38]}]"
+595,../data/images/control/3f7c8a69-8b3a-4f62-8397-35c0208521c3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5302317142486572, 'box': [99, 15, 350, 316]}]"
+596,../data/images/control/1bbcf19d-a300-4a58-af89-b3c75fcf4269.png,1,[]
+597,../data/images/control/ecfd1483-42fe-451b-9bcd-74ca5c30f0d0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3763754367828369, 'box': [150, 207, 198, 236]}]"
+598,../data/images/control/24a0edee-86b9-4a55-97a7-d0314c7cc7bb.png,0,"[{'class': 'FACE_MALE', 'score': 0.6467896699905396, 'box': [336, 144, 82, 75]}, {'class': 'FACE_MALE', 'score': 0.439298152923584, 'box': [245, 160, 55, 53]}]"
+599,../data/images/control/a03d526c-520c-474e-914f-786e09fcc575.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7343011498451233, 'box': [184, 204, 174, 182]}]"
+600,../data/images/control/220f7d7f-3db9-4763-ba80-f1e963038d4f.png,0,[]
+601,../data/images/control/cb80b1b2-fda6-457c-86ff-8819cb90f67f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6985068321228027, 'box': [194, 120, 245, 253]}]"
+602,../data/images/control/5c705539-6e07-4960-b668-9770c7a724a4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8261812925338745, 'box': [422, 233, 66, 65]}, {'class': 'FACE_MALE', 'score': 0.5438592433929443, 'box': [290, 232, 57, 54]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5219780206680298, 'box': [193, 271, 52, 58]}, {'class': 'FACE_MALE', 'score': 0.5148833990097046, 'box': [32, 218, 57, 57]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.48819810152053833, 'box': [152, 272, 53, 59]}, {'class': 'FACE_FEMALE', 'score': 0.45649707317352295, 'box': [180, 156, 57, 58]}, {'class': 'FACE_MALE', 'score': 0.419411301612854, 'box': [0, 133, 37, 63]}]"
+603,../data/images/control/b9a070cf-0f6f-4a4f-aa0f-8da970ff5d59.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7483898401260376, 'box': [323, 80, 99, 106]}]"
+604,../data/images/control/37346eea-151d-406e-9930-efb8fa6ddfcc.png,0,[]
+605,../data/images/control/27cc807a-da18-459d-821f-f1a56f35260a.png,1,"[{'class': 'FACE_MALE', 'score': 0.34548819065093994, 'box': [264, 124, 41, 36]}]"
+606,../data/images/control/ecf1e90a-6b21-44f4-8bf5-4a7e38579dc5.png,0,[]
+607,../data/images/control/52295f0a-c99a-4ec0-8317-b3274b9ddd35.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6631194949150085, 'box': [142, 65, 80, 83]}, {'class': 'FACE_MALE', 'score': 0.5302010774612427, 'box': [273, 117, 83, 88]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.30070847272872925, 'box': [35, 202, 50, 46]}]"
+608,../data/images/control/f7d8480b-80af-400e-be28-a7031231ddb1.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7545555233955383, 'box': [88, 72, 347, 363]}]"
+609,../data/images/control/247eeeac-2392-4d47-bcf2-ffecd2659fa0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.520975649356842, 'box': [238, 119, 47, 42]}]"
+610,../data/images/control/1ec55ffd-a8b5-4914-a738-49fb8248196f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6205728650093079, 'box': [323, 369, 54, 53]}, {'class': 'FACE_FEMALE', 'score': 0.3378528952598572, 'box': [18, 457, 54, 52]}]"
+611,../data/images/control/c3e80ff1-2e0e-4e5c-9e03-fad67437956f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7375890016555786, 'box': [233, 68, 63, 60]}]"
+612,../data/images/control/d0df8d6f-cbf6-4be8-b594-7044c1a27e17.png,0,[]
+613,../data/images/control/aaef11ca-db17-43e3-984e-f45fcf485c0a.png,0,[]
+614,../data/images/control/db1ef51d-1e3a-43ee-bcc0-cfa015722fc0.png,1,[]
+615,../data/images/control/d7bc4613-0751-4165-80f4-177d71303482.png,0,[]
+616,../data/images/control/7b848900-96cb-42e4-8450-e798a294e473.png,0,"[{'class': 'FEET_COVERED', 'score': 0.8425886034965515, 'box': [374, 428, 84, 83]}, {'class': 'FEET_COVERED', 'score': 0.809257984161377, 'box': [301, 415, 69, 87]}, {'class': 'FEET_COVERED', 'score': 0.8001737594604492, 'box': [79, 427, 68, 84]}, {'class': 'FEET_COVERED', 'score': 0.7878820896148682, 'box': [143, 417, 68, 79]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.7596191763877869, 'box': [327, 152, 110, 87]}, {'class': 'FACE_FEMALE', 'score': 0.7229860424995422, 'box': [111, 0, 56, 29]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5944762825965881, 'box': [100, 59, 60, 52]}, {'class': 'FACE_FEMALE', 'score': 0.5704792737960815, 'box': [389, 0, 45, 33]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3333122730255127, 'box': [149, 59, 42, 48]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.26725444197654724, 'box': [122, 187, 38, 40]}]"
+617,../data/images/control/f66af99e-a05f-41ca-98eb-0dc81ed66ad8.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.853042483329773, 'box': [323, 107, 185, 245]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5835169553756714, 'box': [72, 249, 85, 98]}]"
+618,../data/images/control/4f4ffe5a-5e32-400e-ab8e-beadcfff9c91.png,1,[]
+619,../data/images/control/402e3cd3-1f79-4be9-98eb-13a9c72ee931.png,0,[]
+620,../data/images/control/406a4fa4-d6b9-4897-91b6-f213a21c5271.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.57245272397995, 'box': [217, 130, 63, 62]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.44268733263015747, 'box': [230, 240, 73, 65]}, {'class': 'BELLY_COVERED', 'score': 0.2812613844871521, 'box': [194, 293, 88, 60]}]"
+621,../data/images/control/63cd289d-0fb8-414b-92b2-b1e178b8b594.png,0,[]
+622,../data/images/control/e6e77b13-f6cf-4545-a8d8-7f5fb6e9cf27.png,0,[]
+623,../data/images/control/c9db05bd-5317-423f-b287-0a959297af2b.png,0,[]
+624,../data/images/control/2be56b7f-2e99-44ef-b08e-2d2f6ab1cf51.png,0,[]
+625,../data/images/control/1fe7601a-e8ca-49a9-a47d-7a34cd541c76.png,1,[]
+626,../data/images/control/0a4d842a-801d-4f5c-8a34-eabe8e539c68.png,1,[]
+627,../data/images/control/042686a6-ac5b-43a0-8b39-7c16eb6e505f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8714248538017273, 'box': [194, 0, 169, 165]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.34056079387664795, 'box': [293, 313, 52, 96]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.33325082063674927, 'box': [138, 302, 183, 203]}]"
+628,../data/images/control/51c9565c-b25b-44cb-bc7d-5cf42bbb7119.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6824511885643005, 'box': [210, 68, 79, 81]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2563132047653198, 'box': [238, 175, 72, 76]}]"
+629,../data/images/control/f06f947f-5081-462c-88ff-f50c300e1067.png,0,[]
+630,../data/images/control/8ee9cb43-64af-4cdd-bbac-8536f32ae840.png,0,[]
+631,../data/images/control/023734a9-8479-4811-9c1d-2a794f287f0d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.25584375858306885, 'box': [262, 0, 61, 30]}]"
+632,../data/images/control/3dab60ac-2556-4403-81e6-dd0fb5a13da2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8452979326248169, 'box': [262, 21, 92, 86]}, {'class': 'FACE_FEMALE', 'score': 0.4323166310787201, 'box': [217, 113, 100, 89]}]"
+633,../data/images/control/34828b32-ea41-4a1b-a656-97bf87532ea0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6006306409835815, 'box': [100, 115, 155, 159]}, {'class': 'FACE_FEMALE', 'score': 0.30651307106018066, 'box': [276, 60, 202, 195]}]"
+634,../data/images/control/59581a3a-6f18-49fc-b409-70cfba205a5b.png,0,"[{'class': 'FEET_COVERED', 'score': 0.37262648344039917, 'box': [281, 464, 36, 40]}]"
+635,../data/images/control/5c8711fd-7fc0-40a0-8481-d984ac4339ac.png,0,[]
+636,../data/images/control/ecd52d20-656f-4156-a890-9ab7258fbe3a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7483456134796143, 'box': [142, 76, 54, 52]}, {'class': 'FEET_COVERED', 'score': 0.5538394451141357, 'box': [311, 406, 104, 90]}, {'class': 'FEET_COVERED', 'score': 0.3861181139945984, 'box': [209, 414, 87, 65]}, {'class': 'FEET_COVERED', 'score': 0.2874752879142761, 'box': [394, 287, 90, 126]}]"
+637,../data/images/control/e4548fa0-dddb-4f82-a021-d49a3f26aa65.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.4447018504142761, 'box': [229, 0, 86, 66]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3022621273994446, 'box': [167, 0, 76, 67]}]"
+638,../data/images/control/093fc7e5-147b-4bec-8615-8f3fda013b18.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4386245608329773, 'box': [220, 8, 156, 128]}]"
+639,../data/images/control/bb4a233f-bcce-4c46-9dfb-9798ef13560e.png,0,"[{'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.2505532205104828, 'box': [289, 186, 154, 118]}]"
+640,../data/images/control/51bb15d9-4b4a-4a32-9dd4-7d9c8f35a8d8.png,0,"[{'class': 'FEET_COVERED', 'score': 0.4714454412460327, 'box': [103, 436, 93, 74]}, {'class': 'FEET_COVERED', 'score': 0.38944199681282043, 'box': [253, 397, 96, 111]}]"
+641,../data/images/control/40fc96c3-9317-4f89-940b-e0d2c3412e18.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6718520522117615, 'box': [98, 100, 247, 275]}]"
+642,../data/images/control/432e0032-e7a2-43f0-9af5-eec99d22b899.png,0,[]
+643,../data/images/control/cd0f5f55-6a9c-408b-aba2-3b920ba9af76.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6587920784950256, 'box': [166, 124, 193, 231]}]"
+644,../data/images/control/59569e06-a94a-4018-a7b5-1624b4b53bd0.png,0,[]
+645,../data/images/control/0e421f5e-35b9-4436-b7b9-8cef1c9c8724.png,0,"[{'class': 'FEET_COVERED', 'score': 0.2562454044818878, 'box': [251, 403, 50, 34]}]"
+646,../data/images/control/1bb8d6e3-f3dd-4019-81d4-841acc1da042.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6632317304611206, 'box': [113, 38, 238, 219]}]"
+647,../data/images/control/67cb24f2-8c19-4792-87ec-ff5932bb1ec4.png,1,[]
+648,../data/images/control/10486a48-ffb8-4299-92d0-29f3723bc956.png,1,[]
+649,../data/images/control/55de7757-1c7a-40a9-a7c9-ed685d68dda6.png,0,[]
+650,../data/images/control/d4d487fc-5713-4cde-b4d7-fa177197cf3e.png,0,[]
+651,../data/images/control/0ea14c86-f756-45da-b76b-403ffa9ee2ee.png,0,[]
+652,../data/images/control/39410122-64da-4920-84f4-23aedc6e58e9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8224338293075562, 'box': [93, 0, 231, 151]}]"
+653,../data/images/control/31bb3371-85b3-4c08-bec8-fd01d1186b2b.png,0,[]
+654,../data/images/control/cd7baca8-6a23-4933-885b-16a224e9217b.png,0,[]
+655,../data/images/control/f134950b-4461-4dd9-8fbe-5b5096d6f45c.png,0,[]
+656,../data/images/control/2688ef52-55dc-4fea-980f-3c1736f3b984.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7324849367141724, 'box': [245, 224, 152, 166]}]"
+657,../data/images/control/68427f6b-1246-4afc-a9cc-658a8e8d0d1e.png,0,[]
+658,../data/images/control/23ff1e99-5bd6-41be-8aea-5d2d10030555.png,0,[]
+659,../data/images/control/af25843a-dbbd-4913-9a4d-b2a90a22066c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.48000091314315796, 'box': [195, 91, 192, 170]}]"
+660,../data/images/control/8e01f1f8-3553-45e5-b570-145858a71d6b.png,0,[]
+661,../data/images/control/825bd5e0-0229-4679-865c-7f92950783e3.png,0,[]
+662,../data/images/control/7ed6f03d-883b-428a-9727-4cb992aee5a1.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7480788230895996, 'box': [153, 63, 203, 236]}]"
+663,../data/images/control/94cf396a-da4b-4c80-a548-8f8290342be0.png,1,[]
+664,../data/images/control/f09c30e0-6e57-4286-9249-c47375592166.png,0,[]
+665,../data/images/control/56abd1df-93ea-4fcd-bb36-83b9855ff4ee.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7891439199447632, 'box': [171, 197, 133, 134]}]"
+666,../data/images/control/527bc3d4-c43a-46f8-bf76-9ac6474420d6.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4054489731788635, 'box': [187, 0, 197, 116]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.2778335213661194, 'box': [369, 0, 142, 160]}]"
+667,../data/images/control/3420e545-4170-43ed-99ea-294f8b685063.png,0,[]
+668,../data/images/control/0235d565-d06d-4c3d-921e-cba1ced6da5e.png,0,[]
+669,../data/images/control/168b847b-f867-434f-af4f-15c3f3d69844.png,1,[]
+670,../data/images/control/12036309-635c-47ae-9b11-255d591da648.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6954107284545898, 'box': [374, 56, 73, 69]}]"
+671,../data/images/control/2435e9a8-27dd-4cc2-9955-bdfcd1d21d40.png,0,"[{'class': 'FEET_COVERED', 'score': 0.4708791673183441, 'box': [426, 415, 65, 49]}, {'class': 'FEET_COVERED', 'score': 0.30360397696495056, 'box': [340, 418, 67, 47]}, {'class': 'FEET_COVERED', 'score': 0.28856360912323, 'box': [290, 425, 52, 48]}]"
+672,../data/images/control/01b7138e-c198-4aac-9daf-d8a77b653f9f.png,0,"[{'class': 'BELLY_EXPOSED', 'score': 0.3181886076927185, 'box': [107, 0, 195, 185]}, {'class': 'FEET_EXPOSED', 'score': 0.2831327021121979, 'box': [43, 119, 61, 77]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.2503897547721863, 'box': [167, 207, 134, 225]}]"
+673,../data/images/control/89ae4c18-6ffb-4ca2-b7c7-41a8c77526de.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6752434372901917, 'box': [272, 195, 40, 43]}]"
+674,../data/images/control/1b08ad1f-85d4-46f3-b849-91efb57a138c.png,1,"[{'class': 'FACE_MALE', 'score': 0.4643682837486267, 'box': [274, 83, 164, 170]}, {'class': 'FACE_FEMALE', 'score': 0.43301165103912354, 'box': [88, 63, 128, 131]}]"
+675,../data/images/control/c9a4d9fa-fd2e-4976-bba0-8678812d93f4.png,1,"[{'class': 'FEET_COVERED', 'score': 0.30612194538116455, 'box': [361, 422, 35, 39]}]"
+676,../data/images/control/4ea55eb4-6101-44f6-b8d8-6d4fff53049f.png,1,"[{'class': 'FEET_COVERED', 'score': 0.48308899998664856, 'box': [99, 424, 100, 87]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.29570895433425903, 'box': [72, 258, 254, 181]}]"
+677,../data/images/control/53a8b82a-871b-4cc5-b835-f784e227cd18.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8321119546890259, 'box': [128, 51, 121, 127]}, {'class': 'FACE_FEMALE', 'score': 0.5506085157394409, 'box': [248, 12, 122, 130]}]"
+678,../data/images/control/acb9044e-1a6c-4288-a246-d8b99b2efb4f.png,1,[]
+679,../data/images/control/3496e9a0-c0b3-45fc-9e85-a5dc6f0690c8.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6827125549316406, 'box': [241, 96, 56, 47]}]"
+680,../data/images/control/ac89e213-9def-48d3-8dd8-0e6e2d6efcae.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7392261028289795, 'box': [230, 159, 50, 51]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.46554622054100037, 'box': [221, 245, 54, 69]}, {'class': 'FACE_FEMALE', 'score': 0.3938252627849579, 'box': [195, 110, 50, 55]}]"
+681,../data/images/control/58f04b80-4d0c-4570-ada0-e27e04481150.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8035632371902466, 'box': [201, 0, 87, 101]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.3798401653766632, 'box': [185, 393, 248, 118]}]"
+682,../data/images/control/2e831901-29bd-4280-b602-e7d8b35408db.png,0,[]
+683,../data/images/control/06353302-cc4f-4715-a34b-1e01a9f30a44.png,0,[]
+684,../data/images/control/84c0bbbb-9a11-4c9e-9e3e-d175a2341c1f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8171905875205994, 'box': [237, 86, 118, 116]}, {'class': 'FACE_MALE', 'score': 0.615844190120697, 'box': [74, 65, 114, 122]}]"
+685,../data/images/control/449b293c-75cf-46dd-92dc-edd07611cda0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6222782135009766, 'box': [260, 152, 40, 42]}, {'class': 'FEET_EXPOSED', 'score': 0.250601589679718, 'box': [376, 364, 54, 43]}]"
+686,../data/images/control/ac41e7a8-6b8f-4b8e-8029-f0eb9376b3e0.png,0,"[{'class': 'FACE_MALE', 'score': 0.6960145831108093, 'box': [352, 80, 55, 61]}, {'class': 'FEET_COVERED', 'score': 0.614372730255127, 'box': [56, 450, 89, 61]}, {'class': 'FEMALE_GENITALIA_EXPOSED', 'score': 0.26316037774086, 'box': [330, 357, 40, 49]}]"
+687,../data/images/control/fdf57976-98e2-42ab-80ce-a07b1f03a89d.png,1,"[{'class': 'FACE_MALE', 'score': 0.43213361501693726, 'box': [175, 109, 89, 84]}]"
+688,../data/images/control/84f8feba-ebb8-4157-ab34-42ea06467e51.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8010315895080566, 'box': [239, 9, 125, 132]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5409404635429382, 'box': [265, 231, 120, 130]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4558691680431366, 'box': [380, 238, 56, 71]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3609568178653717, 'box': [166, 218, 118, 138]}]"
+689,../data/images/control/14fe6136-c1dc-4272-9897-1388970a98e7.png,0,[]
+690,../data/images/control/156c7b5f-47f6-45bd-8560-f52d17f997f5.png,0,[]
+691,../data/images/control/e16326ba-bda1-4666-b9c0-095152e70cea.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8020052909851074, 'box': [145, 71, 240, 233]}]"
+692,../data/images/control/6049c60d-20b7-4fe8-8661-9eb3ec1c96dd.png,0,[]
+693,../data/images/control/6fe2c040-0219-4c16-a39a-9474cd14651e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6871539354324341, 'box': [236, 110, 29, 26]}, {'class': 'FEET_COVERED', 'score': 0.449833482503891, 'box': [230, 436, 31, 66]}]"
+694,../data/images/control/6ab5e1f3-1861-44b8-b9ff-05246a7909c3.png,0,[]
+695,../data/images/control/6a0483c8-c4dd-40c3-ab50-633cd929f065.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.36236393451690674, 'box': [231, 0, 43, 17]}]"
+696,../data/images/control/419a2f6b-4fbb-4fab-a568-f2bdbbb67c85.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8505864143371582, 'box': [52, 125, 101, 97]}, {'class': 'FACE_FEMALE', 'score': 0.7238317728042603, 'box': [230, 174, 134, 130]}]"
+697,../data/images/control/9a567f57-6cba-4f8d-8e73-f0c6cbceb6ae.png,0,"[{'class': 'BUTTOCKS_COVERED', 'score': 0.5042179822921753, 'box': [310, 345, 118, 106]}, {'class': 'FACE_FEMALE', 'score': 0.43947741389274597, 'box': [208, 151, 63, 62]}]"
+698,../data/images/control/101eecc7-840e-4576-8c57-06b45aab30eb.png,1,[]
+699,../data/images/control/230fd6da-c1e5-4c99-acde-7f5a202deba6.png,0,[]
+700,../data/images/control/c00b80fe-b316-4f73-b7ec-638db2a8e41b.png,0,[]
+701,../data/images/control/c2287cef-5db6-4aca-af73-782434431c8e.png,0,[]
+702,../data/images/control/57ae2715-fdc2-4604-8b68-384c009740a1.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7847805023193359, 'box': [285, 30, 76, 89]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4400791525840759, 'box': [338, 166, 93, 97]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.426929771900177, 'box': [261, 172, 87, 90]}, {'class': 'FACE_FEMALE', 'score': 0.358603298664093, 'box': [206, 24, 71, 83]}]"
+703,../data/images/control/7c380f4a-31d6-46da-85c5-84c0b6e33aab.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3811357617378235, 'box': [146, 10, 312, 309]}]"
+704,../data/images/control/3d86d82b-8b2e-4415-8c4e-a65530fcb23c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8503649234771729, 'box': [214, 0, 67, 56]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6556493639945984, 'box': [174, 105, 74, 78]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5057730674743652, 'box': [240, 104, 74, 79]}, {'class': 'BELLY_COVERED', 'score': 0.45630520582199097, 'box': [205, 186, 92, 89]}]"
+705,../data/images/control/c3b87807-c340-4a8b-a6c1-8ce8d063bf60.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.824631929397583, 'box': [133, 122, 215, 213]}]"
+706,../data/images/control/401abcbc-ee75-4a90-8e54-98a1ca187cb4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4072463810443878, 'box': [230, 43, 46, 47]}]"
+707,../data/images/control/b87b2035-4bfa-48b0-83c9-799e13ecd497.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6707936525344849, 'box': [123, 66, 91, 95]}]"
+708,../data/images/control/193f9294-3ae1-4aa2-94a2-e48cb863d64d.png,0,[]
+709,../data/images/control/2aa52c35-60f2-4840-9883-61a8b8edb104.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.596412718296051, 'box': [228, 89, 66, 63]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5305049419403076, 'box': [211, 212, 63, 60]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5144203305244446, 'box': [197, 198, 26, 39]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.28670352697372437, 'box': [268, 206, 57, 71]}]"
+710,../data/images/control/995cf3de-1d6e-46f7-ae69-415f6c051a15.png,0,[]
+711,../data/images/control/3220cb04-6f3b-4858-94c6-cc09166289ac.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4115533232688904, 'box': [333, 167, 26, 25]}]"
+712,../data/images/control/b0fb94b4-9b59-4cef-a625-cf8e01b3af2f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7459619045257568, 'box': [242, 97, 79, 74]}, {'class': 'FEET_EXPOSED', 'score': 0.598010778427124, 'box': [220, 339, 82, 101]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5598193407058716, 'box': [212, 203, 32, 39]}, {'class': 'FEET_EXPOSED', 'score': 0.4164566099643707, 'box': [305, 383, 66, 62]}, {'class': 'FEET_EXPOSED', 'score': 0.37205302715301514, 'box': [412, 330, 66, 76]}]"
+713,../data/images/control/0c19d428-bad3-4410-8505-de08cf094813.png,0,[]
+714,../data/images/control/44f28dc4-ae95-4225-b719-b3f0d3adb6d3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8443589210510254, 'box': [170, 84, 180, 191]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5899345874786377, 'box': [310, 439, 137, 72]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4942162334918976, 'box': [408, 413, 53, 76]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.414340078830719, 'box': [147, 423, 173, 88]}]"
+715,../data/images/control/bc0646f8-caf8-4bb5-9fa2-b55d02162a26.png,0,[]
+716,../data/images/control/72470508-f1ef-40b9-92cb-87ac0f02a1c1.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.7341537475585938, 'box': [208, 36, 184, 149]}, {'class': 'BELLY_EXPOSED', 'score': 0.6991322636604309, 'box': [257, 156, 182, 185]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6059780120849609, 'box': [86, 104, 187, 179]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4171645939350128, 'box': [334, 0, 62, 62]}]"
+717,../data/images/control/e4eac57b-75e2-4fea-9bf1-3c90bcacfdfa.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.31682509183883667, 'box': [391, 102, 49, 48]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.2767457365989685, 'box': [23, 189, 62, 89]}, {'class': 'FEET_COVERED', 'score': 0.27282091975212097, 'box': [138, 375, 58, 55]}]"
+718,../data/images/control/71c5a8e2-006e-41c4-8149-eadf4921ee09.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.42203909158706665, 'box': [181, 170, 135, 132]}]"
+719,../data/images/control/fc904d02-2f51-4e54-9f52-f7d15dd62545.png,0,[]
+720,../data/images/control/f2d22f25-f717-4a51-b718-6892dd022fba.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8113030195236206, 'box': [88, 100, 338, 322]}]"
+721,../data/images/control/f91f60cc-1b51-4903-9643-b7004ffcb5e1.png,1,"[{'class': 'FACE_MALE', 'score': 0.5071687698364258, 'box': [133, 97, 83, 67]}, {'class': 'FACE_FEMALE', 'score': 0.36969324946403503, 'box': [26, 214, 140, 125]}]"
+722,../data/images/control/004981ea-44c2-47e7-a7de-660935916be2.png,0,[]
+723,../data/images/control/85f6a8a2-425a-41fe-858a-8b205f20c582.png,0,[]
+724,../data/images/control/00745fb9-83af-4293-941d-f2e4fd068b18.png,0,[]
+725,../data/images/control/014e2c06-1079-4126-985f-fd4e47445a19.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.403199166059494, 'box': [301, 247, 178, 166]}]"
+726,../data/images/control/6501f5c7-3b2f-47d0-a162-61e4fd7f036c.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.2635747790336609, 'box': [191, 317, 116, 83]}]"
+727,../data/images/control/9d03cfe5-386a-40cb-a17a-4de03da6efdc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4000840187072754, 'box': [113, 31, 48, 45]}]"
+728,../data/images/control/fc06a345-2930-4be5-bbd7-12c36d5a2aec.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7893707752227783, 'box': [146, 20, 140, 139]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3951326012611389, 'box': [377, 193, 59, 76]}]"
+729,../data/images/control/7374f264-22c9-47ae-98ab-3a297c45f31b.png,1,[]
+730,../data/images/control/73d808ff-5c2d-41aa-a9a3-68caf011c9f0.png,0,[]
+731,../data/images/control/0df50c23-3631-4360-afaa-18c235154b84.png,0,[]
+732,../data/images/control/750d860c-46b9-40e5-85f3-e5d3256115eb.png,0,[]
+733,../data/images/control/1f13c15a-e4ba-421e-b455-8e2fa4e55b78.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8804843425750732, 'box': [63, 84, 115, 121]}, {'class': 'FACE_FEMALE', 'score': 0.8677798509597778, 'box': [81, 323, 117, 122]}, {'class': 'FACE_FEMALE', 'score': 0.8635014891624451, 'box': [369, 82, 92, 94]}, {'class': 'FACE_FEMALE', 'score': 0.8407713770866394, 'box': [400, 298, 103, 100]}]"
+734,../data/images/control/21d28a6c-4566-4da8-ac73-e7280adc67fa.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3621560335159302, 'box': [76, 51, 370, 460]}]"
+735,../data/images/control/965fe84f-c4d3-404a-b336-14a73398de1f.png,0,[]
+736,../data/images/control/1a3ac6c0-ae1b-4bbc-bbd4-a9bf1d96cd26.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.46883445978164673, 'box': [154, 162, 205, 207]}]"
+737,../data/images/control/af2ee714-e18a-4d19-bcce-fb2059a3a22c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5765393972396851, 'box': [164, 94, 150, 154]}]"
+738,../data/images/control/c7bb591a-d52b-4f54-88ae-98c8eba25f40.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5746973752975464, 'box': [67, 53, 105, 112]}, {'class': 'FACE_FEMALE', 'score': 0.5450232028961182, 'box': [319, 63, 109, 113]}]"
+739,../data/images/control/60aaab7a-65a3-4574-aff1-95d471f6deee.png,0,"[{'class': 'FEET_COVERED', 'score': 0.29089176654815674, 'box': [376, 393, 40, 46]}]"
+740,../data/images/control/f8cadbf4-ed14-4003-9864-a6c8cc4386d6.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4528645873069763, 'box': [203, 22, 133, 127]}]"
+741,../data/images/control/79a1d3cc-1397-4243-b25e-5d965989da80.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6180897951126099, 'box': [209, 0, 90, 70]}]"
+742,../data/images/control/3e2dcfcf-f32b-4698-af0c-41c3551eba41.png,0,[]
+743,../data/images/control/ad327853-418d-42dc-8a98-03a52c07cb8c.png,0,[]
+744,../data/images/control/435bdd8e-82f5-41cd-bf12-05c64e308805.png,0,[]
+745,../data/images/control/b803ee10-109a-48f7-8810-5c0d29080cf5.png,1,[]
+746,../data/images/control/e3de3a4b-e4c2-42eb-a3fd-6b74656ce6f7.png,1,[]
+747,../data/images/control/89d154e8-489f-4e1c-9e7b-eeb3e4d700e4.png,0,[]
+748,../data/images/control/8f7d0b4f-4212-4d1d-b3a2-3d083a95c5d3.png,0,[]
+749,../data/images/control/2cc5ff76-93af-4b98-a0ab-0e17e3f5251d.png,0,[]
+750,../data/images/control/b7736eef-22cd-4afc-a5e5-d9ecd99fdb31.png,0,"[{'class': 'FEET_COVERED', 'score': 0.35295915603637695, 'box': [85, 183, 93, 74]}, {'class': 'FACE_FEMALE', 'score': 0.29581326246261597, 'box': [226, 31, 49, 54]}]"
+751,../data/images/control/2c461aa3-de17-4055-a823-c2b48dd0fa82.png,1,[]
+752,../data/images/control/a10204a0-631c-4190-a6ec-489a5dba8cfd.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7469796538352966, 'box': [190, 115, 156, 157]}]"
+753,../data/images/control/7bbaf196-1683-4e36-be07-3e8155fc9e5b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.42875537276268005, 'box': [206, 88, 98, 94]}]"
+754,../data/images/control/ce55da7e-fe59-4ff8-abde-3fc772563c9a.png,0,[]
+755,../data/images/control/d7a77cd5-0f85-4e5d-8159-fe21b1803f8a.png,1,[]
+756,../data/images/control/d2e658fe-3e13-495d-8a35-b94bb0e18724.png,0,[]
+757,../data/images/control/9fa7f86a-60ef-40af-96e0-f5d4a7d01851.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.27999094128608704, 'box': [273, 36, 45, 47]}]"
+758,../data/images/control/26b111a0-c329-4075-875f-3639e1b0057b.png,0,[]
+759,../data/images/control/f57b1ee6-fa41-49cb-9626-e1c917048aec.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4522956609725952, 'box': [241, 128, 130, 124]}, {'class': 'FACE_FEMALE', 'score': 0.26775145530700684, 'box': [139, 163, 121, 112]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.25951313972473145, 'box': [92, 317, 117, 134]}]"
+760,../data/images/control/b180d294-7146-44ee-b233-f2a552e29272.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.800338864326477, 'box': [221, 220, 38, 35]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6787377595901489, 'box': [233, 290, 39, 50]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6184805035591125, 'box': [198, 289, 37, 46]}]"
+761,../data/images/control/0df5a0be-699d-479d-ac69-b454ec91f4ee.png,0,[]
+762,../data/images/control/8b209d84-281b-43a2-b8d5-1e07ed9a93fc.png,0,"[{'class': 'FEET_COVERED', 'score': 0.641653299331665, 'box': [218, 443, 65, 67]}]"
+763,../data/images/control/8891bae7-4bfa-49af-aeac-93987a7d082c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8195285797119141, 'box': [338, 66, 121, 109]}, {'class': 'FACE_FEMALE', 'score': 0.8007615208625793, 'box': [77, 63, 121, 107]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7406527400016785, 'box': [17, 283, 113, 101]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7116522789001465, 'box': [117, 287, 106, 92]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6252400875091553, 'box': [395, 284, 110, 95]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5911989808082581, 'box': [302, 284, 102, 91]}, {'class': 'BELLY_COVERED', 'score': 0.3341895341873169, 'box': [38, 392, 151, 98]}]"
+764,../data/images/control/2ff69a50-53b9-4be0-8351-86eb4a8bb379.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8681577444076538, 'box': [253, 63, 208, 197]}, {'class': 'FACE_FEMALE', 'score': 0.8671133518218994, 'box': [51, 32, 226, 211]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7873231172561646, 'box': [392, 321, 119, 149]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7140893936157227, 'box': [256, 351, 174, 136]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6609834432601929, 'box': [31, 336, 200, 144]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5530288815498352, 'box': [0, 339, 91, 115]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.40836915373802185, 'box': [0, 299, 50, 80]}]"
+765,../data/images/control/b3b417d1-70ef-4be6-b44e-649fdb31aba0.png,0,"[{'class': 'BELLY_EXPOSED', 'score': 0.806937575340271, 'box': [159, 170, 176, 202]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7155488133430481, 'box': [150, 46, 117, 115]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6627819538116455, 'box': [246, 61, 128, 128]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.6282309889793396, 'box': [175, 371, 89, 88]}]"
+766,../data/images/control/ec2c18b9-081d-44f5-addd-5cde2cbddbdf.png,1,[]
+767,../data/images/control/37efd48b-d581-4fb3-8b13-b21778b64e19.png,1,[]
+768,../data/images/control/14dd577b-90f2-44d8-b459-e18400bcb476.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7954705953598022, 'box': [151, 113, 228, 219]}]"
+769,../data/images/control/8437e1e1-b999-499c-915a-da5e500b90b7.png,0,[]
+770,../data/images/control/e8cdd5e8-4b55-4977-94c5-220595aa00c9.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7405507564544678, 'box': [180, 38, 193, 224]}]"
+771,../data/images/control/903a9927-ebfb-4414-afed-2c6c394d79db.png,0,"[{'class': 'FACE_MALE', 'score': 0.4094308614730835, 'box': [300, 182, 38, 42]}, {'class': 'FEET_EXPOSED', 'score': 0.2613193392753601, 'box': [196, 391, 57, 45]}, {'class': 'FACE_MALE', 'score': 0.26018601655960083, 'box': [174, 130, 36, 36]}]"
+772,../data/images/control/b38fbadb-6e35-4436-8ba5-b92dd88e039f.png,0,"[{'class': 'FACE_MALE', 'score': 0.5467031598091125, 'box': [256, 0, 110, 99]}]"
+773,../data/images/control/9b1d5cbe-16a7-4c58-b261-fe3bfa2554d4.png,0,[]
+774,../data/images/control/60aee398-b1e7-4d8b-b225-2e415c6f36cc.png,0,"[{'class': 'FEET_COVERED', 'score': 0.44973742961883545, 'box': [21, 356, 46, 64]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.28729164600372314, 'box': [58, 139, 50, 48]}]"
+775,../data/images/control/da553746-73de-41c7-a22b-867cef037848.png,0,[]
+776,../data/images/control/d835520e-4f94-4810-9ce8-5f21473be236.png,0,"[{'class': 'FACE_MALE', 'score': 0.5285136699676514, 'box': [299, 186, 65, 67]}, {'class': 'FACE_MALE', 'score': 0.3863009810447693, 'box': [298, 129, 44, 43]}]"
+777,../data/images/control/26ebbfa9-4a82-4e8a-bf23-be72161062be.png,0,[]
+778,../data/images/control/36fc053a-d1a5-4eb5-8355-bd71fdb8ee2f.png,0,[]
+779,../data/images/control/afed404e-9383-4c3d-9fe5-fbb721348b49.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.37447166442871094, 'box': [137, 149, 212, 199]}]"
+780,../data/images/control/f9f8b5a0-0016-4dc1-99ed-54f48f1fdb3d.png,0,[]
+781,../data/images/control/df488154-1ece-45a3-aa67-a8f6c7f89970.png,1,[]
+782,../data/images/control/1a4798a1-a40e-4771-a4a9-412b1365c241.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6127709150314331, 'box': [482, 86, 28, 35]}, {'class': 'FACE_FEMALE', 'score': 0.5348156094551086, 'box': [118, 157, 37, 35]}]"
+783,../data/images/control/563d2e30-bb99-4792-8fc9-b475d01e3094.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7844435572624207, 'box': [237, 96, 201, 205]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3031919598579407, 'box': [143, 368, 209, 143]}]"
+784,../data/images/control/48d5cf4b-567f-4332-9dbf-06c63a6f08fb.png,0,[]
+785,../data/images/control/54b1f4af-166e-4bc9-9a59-4638ac96f001.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8614953756332397, 'box': [81, 0, 327, 257]}]"
+786,../data/images/control/41cb18fd-e7d8-4426-85b1-649a13f18228.png,0,[]
+787,../data/images/control/23282364-c94c-4a09-9501-77cd8086b3f2.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.801398754119873, 'box': [14, 106, 221, 263]}]"
+788,../data/images/control/95060377-d5c8-4fbc-b4c6-c877c5332883.png,1,[]
+789,../data/images/control/3b159b3a-987a-4d1a-9ad2-e50f97abe832.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6177317500114441, 'box': [184, 251, 67, 116]}, {'class': 'FEET_COVERED', 'score': 0.5386748909950256, 'box': [398, 340, 108, 134]}, {'class': 'FEET_COVERED', 'score': 0.5290818810462952, 'box': [247, 415, 74, 96]}, {'class': 'FEET_COVERED', 'score': 0.46128717064857483, 'box': [290, 385, 49, 71]}, {'class': 'FEET_COVERED', 'score': 0.37721171975135803, 'box': [120, 290, 71, 81]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.29024094343185425, 'box': [253, 0, 69, 30]}]"
+790,../data/images/control/98914859-f73f-4a7e-a99d-48c4b5d35b5e.png,1,[]
+791,../data/images/control/cfee3619-726a-42a8-a595-0e894ca70200.png,0,[]
+792,../data/images/control/01cb5064-53ad-40b9-9204-88f4f176c795.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6764322519302368, 'box': [174, 137, 175, 152]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.66778963804245, 'box': [214, 366, 107, 119]}]"
+793,../data/images/control/bd82b87e-31ea-4258-9d4a-425448aaf68d.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8493861556053162, 'box': [0, 117, 137, 232]}, {'class': 'FACE_FEMALE', 'score': 0.48086947202682495, 'box': [365, 96, 145, 248]}]"
+794,../data/images/control/8f7f1fa8-5f92-466b-a479-0eb1aee58d02.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.6288061738014221, 'box': [281, 85, 40, 39]}, {'class': 'FEET_COVERED', 'score': 0.4902356266975403, 'box': [287, 439, 47, 46]}, {'class': 'FEET_COVERED', 'score': 0.3114140033721924, 'box': [217, 427, 55, 55]}]"
+795,../data/images/control/84847858-312f-4f4b-89a5-189a11ee3ced.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.33807694911956787, 'box': [76, 110, 103, 87]}]"
+796,../data/images/control/8fbd0686-91cf-455e-9346-88bb311e04c1.png,0,[]
+797,../data/images/control/32eb7a17-07db-408d-8fe1-fe487b8436c3.png,0,[]
+798,../data/images/control/6b74661e-3375-4c36-9b78-94f3c12eaa42.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.28754526376724243, 'box': [164, 411, 61, 75]}]"
+799,../data/images/control/d1555bff-b02e-4b5d-9b93-334a6434c877.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.782240092754364, 'box': [272, 13, 218, 233]}]"
+800,../data/images/control/b2ba5ac2-34d1-4b7c-b303-7663c535a2a6.png,0,[]
+801,../data/images/control/752c8de6-5848-420e-8844-7d815dc0a2b9.png,0,[]
+802,../data/images/control/9ec40bf3-46d8-481f-b1fd-e71caf23f982.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8513999581336975, 'box': [194, 105, 124, 121]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.36447203159332275, 'box': [140, 357, 229, 154]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.2711828947067261, 'box': [341, 356, 42, 74]}]"
+803,../data/images/control/b41a1092-cc0c-4a68-9436-a5be222b6cfb.png,1,"[{'class': 'FEET_COVERED', 'score': 0.3867783844470978, 'box': [297, 415, 75, 51]}]"
+804,../data/images/control/39c95706-5a54-4882-9cec-a6137f3279e2.png,0,[]
+805,../data/images/control/1d843124-da1e-4f0a-b9e5-203f81785759.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.621812105178833, 'box': [80, 218, 172, 176]}, {'class': 'FACE_FEMALE', 'score': 0.3789953887462616, 'box': [156, 107, 133, 153]}]"
+806,../data/images/control/1993afb4-9243-4d9e-aa60-ed1a0c6160cb.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7808219790458679, 'box': [187, 100, 143, 138]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5453143119812012, 'box': [279, 329, 130, 160]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3296966552734375, 'box': [144, 346, 178, 161]}]"
+807,../data/images/control/dc9e3a35-9ee6-4d3c-a54c-572337919d19.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8081009387969971, 'box': [75, 309, 130, 142]}]"
+808,../data/images/control/e870480f-a205-43e5-bd79-edb56fff3533.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7097567915916443, 'box': [77, 48, 157, 154]}]"
+809,../data/images/control/9e605af0-af75-404c-a20c-9625b822c19c.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7897562980651855, 'box': [11, 109, 284, 297]}]"
+810,../data/images/control/24d7f9cd-8d68-4c82-9e6e-01a3b307b537.png,0,"[{'class': 'FACE_MALE', 'score': 0.7657293677330017, 'box': [148, 137, 37, 35]}, {'class': 'FACE_MALE', 'score': 0.6269817352294922, 'box': [77, 150, 39, 38]}, {'class': 'FEET_COVERED', 'score': 0.5880498290061951, 'box': [383, 458, 64, 40]}, {'class': 'FEET_COVERED', 'score': 0.48724690079689026, 'box': [299, 452, 69, 48]}, {'class': 'FEET_COVERED', 'score': 0.47103267908096313, 'box': [163, 458, 51, 46]}, {'class': 'FEET_COVERED', 'score': 0.4172459840774536, 'box': [18, 439, 57, 55]}, {'class': 'FACE_MALE', 'score': 0.3758619427680969, 'box': [329, 113, 43, 40]}, {'class': 'FEET_COVERED', 'score': 0.2643164396286011, 'box': [67, 447, 59, 60]}]"
+811,../data/images/control/fad03ebe-8cd8-419f-b38f-476d26852166.png,0,[]
+812,../data/images/control/29ac4580-2ced-4a54-8398-9b9e579fd16a.png,0,[]
+813,../data/images/control/73661423-040d-4445-9029-37c9c1ff2da9.png,0,[]
+814,../data/images/control/8531b300-3dd5-4fd1-af24-f0d435976487.png,0,[]
+815,../data/images/control/a610f86e-2f22-4b2c-a738-e5f6b45e8dd3.png,0,"[{'class': 'BUTTOCKS_COVERED', 'score': 0.407636433839798, 'box': [181, 242, 103, 90]}]"
+816,../data/images/control/e8f32a4e-fb9f-4a3b-9d45-a4988c2a0a7c.png,0,"[{'class': 'FEET_COVERED', 'score': 0.8495191335678101, 'box': [231, 446, 72, 64]}, {'class': 'FEET_COVERED', 'score': 0.7909451723098755, 'box': [295, 465, 71, 46]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.7798908948898315, 'box': [257, 191, 118, 79]}]"
+817,../data/images/control/2558e0d2-03d9-485b-af73-167c01be0679.png,1,[]
+818,../data/images/control/12c35877-bcf1-448c-9748-9e72e60d2099.png,1,[]
+819,../data/images/control/17d5d31d-7279-44eb-b80b-07c733f6622d.png,0,[]
+820,../data/images/control/8f04fb8c-b6c3-4949-b699-6cf53b24b256.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8376884460449219, 'box': [130, 13, 104, 98]}, {'class': 'FACE_FEMALE', 'score': 0.8151701092720032, 'box': [223, 5, 95, 95]}]"
+821,../data/images/control/a8cdfcbd-2cac-4bac-bc68-41c5ae97bba4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8117854595184326, 'box': [223, 66, 51, 50]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6427583694458008, 'box': [193, 159, 55, 60]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.47557368874549866, 'box': [244, 159, 57, 53]}]"
+822,../data/images/control/7627c9c7-975f-412f-a6ed-22344625a10a.png,0,[]
+823,../data/images/control/37f1d511-fb14-4937-b9b4-a7bd536fe14b.png,0,"[{'class': 'BUTTOCKS_EXPOSED', 'score': 0.2623286545276642, 'box': [241, 152, 269, 295]}]"
+824,../data/images/control/10264f04-70b7-4411-8e46-bbe3de3e7d6c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8021175861358643, 'box': [149, 107, 238, 235]}]"
+825,../data/images/control/0314070f-fc47-40ba-aba2-135212f29ca0.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3500244617462158, 'box': [301, 206, 153, 154]}]"
+826,../data/images/control/1368b359-2d10-478c-bb59-e9e72e4a9fe9.png,1,[]
+827,../data/images/control/becacff6-d645-4563-a3fb-b4a5cf938cca.png,0,[]
+828,../data/images/control/130d639f-2e43-43f1-80e4-a48b528f512d.png,0,[]
+829,../data/images/control/8ff88299-567c-4a00-9287-746e6d7fd67e.png,0,"[{'class': 'FACE_MALE', 'score': 0.3543314039707184, 'box': [192, 61, 81, 68]}]"
+830,../data/images/control/9ee9c48a-0a6a-474a-916e-43f11700ba83.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8668569922447205, 'box': [150, 55, 193, 205]}]"
+831,../data/images/control/76926862-5476-48f9-9b8d-525b72c0d80e.png,0,"[{'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.25371256470680237, 'box': [240, 444, 64, 63]}]"
+832,../data/images/control/78024728-3b8f-4e3a-a985-116541fd9b0e.png,1,[]
+833,../data/images/control/69f4d4b0-94f6-435a-a1c7-874bb983ab3f.png,0,[]
+834,../data/images/control/e408bfcb-654a-4d64-89c3-87387645cc3c.png,1,[]
+835,../data/images/control/f9c7dd41-4540-404e-af8f-652b4c1629e3.png,0,[]
+836,../data/images/control/39d53532-5935-4969-b159-4c72591d7245.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5040652751922607, 'box': [174, 166, 253, 247]}]"
+837,../data/images/control/e28425a0-fd4b-4959-bb3d-b14fc3410124.png,0,"[{'class': 'FACE_MALE', 'score': 0.440256804227829, 'box': [285, 0, 63, 39]}]"
+838,../data/images/control/8d9e3e65-1de1-4e99-8cc9-b608ce904386.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7179874777793884, 'box': [158, 27, 116, 118]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5487197637557983, 'box': [239, 199, 125, 131]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5363340377807617, 'box': [126, 217, 128, 140]}]"
+839,../data/images/control/9eca6193-63f9-4a99-bb78-b5872e5c5258.png,1,"[{'class': 'ARMPITS_EXPOSED', 'score': 0.6695722341537476, 'box': [347, 364, 68, 88]}, {'class': 'FACE_FEMALE', 'score': 0.5942813158035278, 'box': [156, 18, 199, 187]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4309806823730469, 'box': [103, 437, 149, 74]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.38022416830062866, 'box': [99, 341, 62, 90]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3447102904319763, 'box': [233, 425, 158, 86]}]"
+840,../data/images/control/6ae5b036-40c8-4320-9d3d-d461bbf474b6.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8229653835296631, 'box': [335, 69, 100, 114]}, {'class': 'FACE_FEMALE', 'score': 0.6386528015136719, 'box': [105, 124, 108, 111]}]"
+841,../data/images/control/c588e2be-1d3c-493c-891f-a0ef8df078b1.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5588993430137634, 'box': [237, 75, 148, 137]}]"
+842,../data/images/control/2d71e61f-f127-417e-b0b6-b89f417c5f2b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7983722686767578, 'box': [209, 3, 104, 106]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5716953873634338, 'box': [165, 147, 100, 112]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.555568277835846, 'box': [254, 154, 100, 105]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4268651306629181, 'box': [307, 99, 63, 70]}, {'class': 'BELLY_EXPOSED', 'score': 0.33799028396606445, 'box': [210, 246, 114, 80]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3151877820491791, 'box': [149, 98, 66, 69]}]"
+843,../data/images/control/761430b7-6063-4c6b-ae1f-94980a12078a.png,0,"[{'class': 'FEET_COVERED', 'score': 0.7777698040008545, 'box': [289, 444, 47, 59]}, {'class': 'BELLY_EXPOSED', 'score': 0.6312283277511597, 'box': [0, 284, 64, 52]}, {'class': 'FACE_FEMALE', 'score': 0.622529923915863, 'box': [290, 44, 40, 42]}, {'class': 'MALE_BREAST_EXPOSED', 'score': 0.5781434774398804, 'box': [0, 242, 60, 48]}]"
+844,../data/images/control/804148b1-305f-4395-a8c6-96db8bedd297.png,0,[]
+845,../data/images/control/8ef84ec6-8d83-4a5e-808c-13d831ecbb80.png,1,[]
+846,../data/images/control/fb6da394-431c-4df9-8fe0-19c9af726687.png,0,"[{'class': 'FACE_MALE', 'score': 0.3604578375816345, 'box': [237, 41, 46, 42]}]"
+847,../data/images/control/3e2773be-1d11-47f7-957d-28329e9cd125.png,0,[]
+848,../data/images/control/201f67fa-5f8e-4a00-88af-9a885d4d1e95.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7447150945663452, 'box': [258, 0, 56, 51]}, {'class': 'FEET_COVERED', 'score': 0.5727384090423584, 'box': [344, 275, 54, 89]}]"
+849,../data/images/control/a23a1a6f-791b-45a8-9da8-48eac2170197.png,0,[]
+850,../data/images/control/45de3d1d-870c-4c91-85b0-f5c04f6cf187.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.5450527667999268, 'box': [62, 343, 105, 98]}, {'class': 'FACE_FEMALE', 'score': 0.32890424132347107, 'box': [172, 213, 96, 87]}]"
+851,../data/images/control/75393b34-0990-403e-95c4-21f36a18d6dc.png,0,"[{'class': 'FACE_MALE', 'score': 0.42853185534477234, 'box': [234, 92, 70, 59]}, {'class': 'FEET_COVERED', 'score': 0.38890355825424194, 'box': [436, 348, 75, 97]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.36516743898391724, 'box': [27, 206, 101, 87]}, {'class': 'FEET_COVERED', 'score': 0.25032564997673035, 'box': [318, 384, 84, 49]}]"
+852,../data/images/control/63a0c08e-73c8-45d7-b1cd-6743808d0c18.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6625316739082336, 'box': [356, 107, 155, 186]}, {'class': 'FACE_FEMALE', 'score': 0.4287072420120239, 'box': [0, 257, 142, 164]}]"
+853,../data/images/control/86e29e6d-84ac-47c0-b590-ca4a8080b4d7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.665565550327301, 'box': [127, 77, 104, 105]}]"
+854,../data/images/control/e13ca883-ba92-4338-8ad8-2a2d0bb48117.png,0,[]
+855,../data/images/control/9035a65e-0559-4394-b672-1c88aae0dbd8.png,0,[]
+856,../data/images/control/c391979f-348b-4c2a-892c-1ec57005281c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7510776519775391, 'box': [16, 91, 108, 106]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2577832341194153, 'box': [0, 229, 95, 89]}]"
+857,../data/images/control/0c27be87-4297-4d2d-b1e6-ed51707083a7.png,0,[]
+858,../data/images/control/1bc8d356-f2a9-4fa0-bbbf-f57b9a6ef285.png,0,[]
+859,../data/images/control/a6408bc2-e302-4708-90c2-b55f83aafe4f.png,0,[]
+860,../data/images/control/ff79b486-1fcf-4364-a27b-fe3cc11a464d.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.6209549903869629, 'box': [32, 9, 477, 497]}]"
+861,../data/images/control/b551ec83-10f5-40d3-944d-68d2d04f496e.png,0,[]
+862,../data/images/control/b0215c9a-2830-42c9-a56a-520cb3afc618.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6685658693313599, 'box': [266, 300, 64, 82]}]"
+863,../data/images/control/173d0753-6ac2-4fb6-acd5-7d92c38f4202.png,1,[]
+864,../data/images/control/a4e7cc10-ae7d-4fb6-88f4-fbff4ec63c30.png,0,[]
+865,../data/images/control/7259403b-f9d3-4a35-ad46-ffe0891ecd5b.png,0,[]
+866,../data/images/control/d7f0fbf8-28bd-43a9-8d69-d6635ff7d4a2.png,0,[]
+867,../data/images/control/69b00ebe-9149-4da8-a1bd-39e60b63c8a5.png,0,"[{'class': 'BUTTOCKS_COVERED', 'score': 0.3302875757217407, 'box': [25, 17, 444, 361]}]"
+868,../data/images/control/b6728b95-594a-4b37-932a-8e430fe9587f.png,0,[]
+869,../data/images/control/b4c24eff-711f-423a-b5fb-37648a0ccbff.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7931886911392212, 'box': [214, 0, 63, 48]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.47904765605926514, 'box': [192, 84, 60, 56]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.33882811665534973, 'box': [252, 84, 60, 55]}]"
+870,../data/images/control/542ab7dc-c11d-467a-bfad-57cf1b9eaba5.png,0,"[{'class': 'FEET_COVERED', 'score': 0.2887185215950012, 'box': [102, 398, 45, 47]}, {'class': 'FEET_COVERED', 'score': 0.26160699129104614, 'box': [48, 402, 45, 51]}]"
+871,../data/images/control/c8581440-129f-4686-82cf-34049446ec02.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.673381507396698, 'box': [151, 99, 146, 153]}]"
+872,../data/images/control/a185e858-eb0e-4610-a2b9-6e00d2d2560c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.9005791544914246, 'box': [151, 0, 189, 169]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4162624180316925, 'box': [320, 221, 191, 209]}]"
+873,../data/images/control/025e6141-74aa-47f8-ae7a-32ea01eb9ff9.png,0,[]
+874,../data/images/control/94eb9439-2c83-48cf-b026-6a656fb503b2.png,0,"[{'class': 'FEET_COVERED', 'score': 0.2512698173522949, 'box': [218, 310, 45, 47]}]"
+875,../data/images/control/0b85c740-45a3-4da8-b0c6-c31e323480d4.png,0,"[{'class': 'FEET_COVERED', 'score': 0.607961893081665, 'box': [214, 469, 49, 42]}, {'class': 'FEET_COVERED', 'score': 0.5237892866134644, 'box': [260, 465, 47, 46]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.4368276596069336, 'box': [206, 179, 116, 79]}]"
+876,../data/images/control/e837dc33-b18b-4de5-ae18-bd4758c7b0a3.png,0,[]
+877,../data/images/control/bed4eb65-6baa-4a12-ac8f-dceff3fd6d38.png,1,[]
+878,../data/images/control/18751233-3a37-461a-a351-91c6bd2bf348.png,0,"[{'class': 'FEET_COVERED', 'score': 0.35022151470184326, 'box': [289, 429, 44, 39]}, {'class': 'FEET_COVERED', 'score': 0.33487382531166077, 'box': [226, 444, 51, 48]}]"
+879,../data/images/control/364b775c-ff89-446d-af9e-2aac8089dab1.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.828199565410614, 'box': [245, 86, 76, 66]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7897213697433472, 'box': [192, 91, 65, 64]}, {'class': 'BELLY_EXPOSED', 'score': 0.7790356874465942, 'box': [212, 155, 104, 100]}, {'class': 'FACE_FEMALE', 'score': 0.7419222593307495, 'box': [225, 1, 72, 63]}, {'class': 'FEET_EXPOSED', 'score': 0.388150691986084, 'box': [223, 478, 93, 33]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.37865251302719116, 'box': [296, 76, 46, 51]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.3772372901439667, 'box': [250, 258, 47, 48]}]"
+880,../data/images/control/43b836e4-683d-4335-bf51-a7d7f012af71.png,0,[]
+881,../data/images/control/a6047db7-b2bd-4111-a082-55fab6022cfd.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8775994777679443, 'box': [127, 71, 220, 247]}]"
+882,../data/images/control/cbeb2f8a-ebc3-455b-87fb-fbb2cdc55e84.png,0,[]
+883,../data/images/control/5c3e00d2-174c-4ee0-8452-f8f84c23be8b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3072737753391266, 'box': [1, 0, 216, 83]}]"
+884,../data/images/control/d745c993-e6b7-4a09-9a6a-e1908b981a15.png,0,[]
+885,../data/images/control/b7e06ee9-94ba-4a21-aeff-cbffeab10541.png,0,[]
+886,../data/images/control/97bfadbd-099b-45d8-ab31-59823d622a44.png,1,"[{'class': 'FACE_MALE', 'score': 0.589394211769104, 'box': [71, 70, 90, 78]}, {'class': 'FEET_EXPOSED', 'score': 0.3724987506866455, 'box': [0, 362, 102, 92]}]"
+887,../data/images/control/0f6d4674-5086-4fac-8c09-17cfec15c872.png,0,[]
+888,../data/images/control/959b77f6-0ed6-4bc3-9fd3-fbe2e2f0c79b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6398606300354004, 'box': [222, 37, 97, 110]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5196139216423035, 'box': [276, 182, 85, 94]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4332959055900574, 'box': [217, 194, 86, 90]}]"
+889,../data/images/control/4f91769d-6483-4712-af7e-3350bc31287f.png,0,[]
+890,../data/images/control/655a7362-b1a9-42e9-9bc3-d4c0d44674e6.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.6313965320587158, 'box': [0, 138, 133, 220]}]"
+891,../data/images/control/25891748-dfde-4515-9195-3f91e5b960a1.png,0,"[{'class': 'FEET_COVERED', 'score': 0.331877201795578, 'box': [132, 151, 61, 88]}]"
+892,../data/images/control/b0ee6765-6099-453a-860e-b466999bb017.png,1,"[{'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.2671583890914917, 'box': [20, 180, 391, 331]}]"
+893,../data/images/control/5141d47e-3123-4a03-a99c-1a1cee7e29e9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5561637282371521, 'box': [7, 96, 335, 371]}]"
+894,../data/images/control/9b0005bf-364a-4eec-9939-2f6741c7713f.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6943404674530029, 'box': [0, 430, 87, 67]}]"
+895,../data/images/control/f7c87fb9-0d44-4b61-aee9-1ccdaf29e2a2.png,1,"[{'class': 'FEET_EXPOSED', 'score': 0.44645583629608154, 'box': [66, 379, 266, 132]}, {'class': 'FEET_COVERED', 'score': 0.28096842765808105, 'box': [142, 141, 110, 107]}, {'class': 'FEET_COVERED', 'score': 0.26114392280578613, 'box': [192, 195, 107, 157]}]"
+896,../data/images/control/d455f9d0-0582-4b78-9857-7d96850ee9ed.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8629460334777832, 'box': [259, 110, 222, 207]}]"
+897,../data/images/control/0dc8d165-b4dd-4a19-a2d6-ce3a95d009d5.png,0,[]
+898,../data/images/control/d2caf5da-c0fc-43ef-8cfa-fb7e97274c7c.png,0,[]
+899,../data/images/control/070e3ce4-1613-4b71-ba64-dd55bd7825da.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5278865098953247, 'box': [185, 0, 144, 90]}]"
+900,../data/images/control/fccedfce-9d1e-4594-a7f8-e91b4992656a.png,1,[]
+901,../data/images/control/6872c1f2-de9f-4193-903e-f501434ff37f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6654462218284607, 'box': [73, 34, 313, 305]}]"
+902,../data/images/control/450086ed-0c92-4c2d-8328-ce65da51c0fd.png,0,[]
+903,../data/images/control/3fc75a2f-b037-4155-bc5a-9f82261c9160.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7193410396575928, 'box': [171, 126, 208, 199]}]"
+904,../data/images/control/0674db99-8d4b-48cc-8632-aadc00a9c1cc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.376485675573349, 'box': [321, 167, 63, 50]}, {'class': 'FACE_FEMALE', 'score': 0.34900450706481934, 'box': [258, 131, 60, 51]}]"
+905,../data/images/control/c7dbad22-c6ed-404a-b13b-24e78012d399.png,0,[]
+906,../data/images/control/c9b03657-1b1a-4a04-b7c6-46f6336f9a9e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6464170217514038, 'box': [108, 31, 33, 35]}, {'class': 'FEET_COVERED', 'score': 0.4465828537940979, 'box': [147, 324, 59, 68]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.28877922892570496, 'box': [116, 101, 41, 45]}]"
+907,../data/images/control/d545ac8c-fd06-41c3-81d2-45d697d24c9b.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6028598546981812, 'box': [237, 445, 60, 66]}, {'class': 'FEET_COVERED', 'score': 0.5305699706077576, 'box': [273, 416, 70, 66]}, {'class': 'FACE_FEMALE', 'score': 0.37987542152404785, 'box': [270, 54, 61, 59]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2907530963420868, 'box': [246, 149, 63, 50]}]"
+908,../data/images/control/7ed809bd-7cd1-4507-8a62-7173b5f5aed2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7555578947067261, 'box': [163, 95, 142, 126]}]"
+909,../data/images/control/a752cd10-5797-4bc2-8322-e4394609c401.png,0,[]
+910,../data/images/control/ea8d1da2-2cac-4f60-b5aa-8e5d0e5c4e8f.png,0,[]
+911,../data/images/control/d95e8dcc-8d73-49c0-b2a0-ed45fd330939.png,0,[]
+912,../data/images/control/e8b1d5a1-a526-4fd5-9242-de6ceb741c70.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6989043354988098, 'box': [110, 55, 378, 417]}]"
+913,../data/images/control/5713181f-f49a-445f-9eee-02cb0b65c185.png,0,[]
+914,../data/images/control/5f0b29f3-f3e9-4c51-9cc4-8acf26c39105.png,0,[]
+915,../data/images/control/37669942-df7b-4358-91fa-16c5fc0f77ec.png,0,[]
+916,../data/images/control/fd345941-8cce-4f81-830f-f2ea3842b6b8.png,0,"[{'class': 'FACE_MALE', 'score': 0.2721511125564575, 'box': [200, 178, 27, 29]}]"
+917,../data/images/control/816941be-ade9-46a9-bb89-6de8e781ed2e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7887219190597534, 'box': [85, 85, 88, 90]}, {'class': 'FACE_FEMALE', 'score': 0.7513378858566284, 'box': [314, 321, 82, 79]}]"
+918,../data/images/control/a0b7a72d-4e78-4b92-876e-ac716c5e3b55.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.46171876788139343, 'box': [215, 62, 79, 66]}]"
+919,../data/images/control/47e3a52f-8f6a-42d1-81fe-0a5d26a336b2.png,0,[]
+920,../data/images/control/864ae5ea-9c33-48aa-9ebc-c9bf0af22b4f.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3166075646877289, 'box': [0, 417, 143, 94]}]"
+921,../data/images/control/2e212683-a6a3-4084-a6ff-406835fc803b.png,0,[]
+922,../data/images/control/10111f95-e6f2-4c4a-9156-335640de8676.png,1,[]
+923,../data/images/control/a03e6ff6-1432-45eb-b404-d389e666da25.png,0,[]
+924,../data/images/control/be738ad4-e857-4d09-adf7-e6cd439cf155.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8376498222351074, 'box': [215, 53, 79, 84]}, {'class': 'BELLY_EXPOSED', 'score': 0.8211357593536377, 'box': [208, 293, 87, 73]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.807013988494873, 'box': [182, 191, 78, 79]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7979745268821716, 'box': [253, 192, 74, 79]}]"
+925,../data/images/control/58ad525d-5cf5-4f0b-bf65-57a68490ed6c.png,0,[]
+926,../data/images/control/ad5519a0-6eb6-4665-a4de-d21737bb774b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7100766897201538, 'box': [61, 204, 207, 214]}]"
+927,../data/images/control/80edb1ec-ec11-4265-b9ef-bb58f501764a.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8225808143615723, 'box': [223, 76, 155, 149]}]"
+928,../data/images/control/9d943744-4ce1-4c27-81a3-f4d50545512e.png,0,[]
+929,../data/images/control/0fead6ff-bb3f-4c4b-8eef-1664b172322a.png,0,[]
+930,../data/images/control/fa97c0f7-3eb6-4f83-bf8d-d3602d84276b.png,0,"[{'class': 'FEET_COVERED', 'score': 0.3623949885368347, 'box': [378, 414, 108, 97]}, {'class': 'FACE_FEMALE', 'score': 0.29913458228111267, 'box': [366, 132, 58, 49]}]"
+931,../data/images/control/74afbff6-bd77-471a-a85a-1e66da238675.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8011794686317444, 'box': [157, 185, 174, 163]}]"
+932,../data/images/control/30e6ab45-2db5-4c6d-80ff-e88fc8a2f6dc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.41945868730545044, 'box': [261, 29, 96, 94]}]"
+933,../data/images/control/3fbad976-61ed-4bd4-9e2d-ed2bb74ddcbb.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8824119567871094, 'box': [66, 67, 213, 221]}]"
+934,../data/images/control/214e6b35-60e6-45b3-9a10-51c1b8ae2607.png,1,"[{'class': 'FEET_COVERED', 'score': 0.5654655694961548, 'box': [403, 257, 108, 83]}]"
+935,../data/images/control/2201eabd-926d-476b-b876-42d2cb5940a3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.845568060874939, 'box': [142, 95, 230, 216]}]"
+936,../data/images/control/f53a9294-9b72-419b-bfaf-e3a1d76a0cd1.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7574246525764465, 'box': [187, 195, 115, 115]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.710746169090271, 'box': [105, 153, 108, 116]}, {'class': 'FACE_FEMALE', 'score': 0.5239959955215454, 'box': [222, 89, 119, 113]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3678542375564575, 'box': [105, 75, 86, 94]}]"
+937,../data/images/control/3a93c10d-6e54-412f-b83c-d69e7449585a.png,0,[]
+938,../data/images/control/e46fc6ad-be5d-4216-9015-1d579bb24f75.png,0,[]
+939,../data/images/control/eb51398c-6643-4729-8e8e-596945988ca5.png,0,[]
+940,../data/images/control/bee3d2ca-ebaf-408e-9599-11dedacf9265.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8065102100372314, 'box': [180, 98, 183, 170]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2785438895225525, 'box': [130, 390, 180, 121]}]"
+941,../data/images/control/6e3dc85a-3455-44ec-8129-b5fb4e9b85d3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.820008397102356, 'box': [261, 152, 118, 105]}]"
+942,../data/images/control/749ebbeb-7734-4e18-b688-3283b21ec4ad.png,0,[]
+943,../data/images/control/f918f034-7481-4972-900c-059f704dbd49.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.4476017653942108, 'box': [355, 187, 71, 77]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4126974940299988, 'box': [382, 326, 34, 43]}]"
+944,../data/images/control/130dfd80-715c-4812-920c-8b3bcc4189bb.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8271780014038086, 'box': [150, 28, 154, 154]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4401895999908447, 'box': [89, 190, 85, 89]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.37701481580734253, 'box': [337, 196, 70, 84]}]"
+945,../data/images/control/65f7851c-eb62-45e5-9ef7-993e4929920c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8438457250595093, 'box': [70, 31, 327, 369]}]"
+946,../data/images/control/1d792f50-cacd-4a48-803c-b30d07eafa46.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3633752763271332, 'box': [274, 31, 93, 91]}, {'class': 'FEET_COVERED', 'score': 0.3249701261520386, 'box': [275, 470, 56, 41]}, {'class': 'FEET_COVERED', 'score': 0.3042822480201721, 'box': [315, 474, 54, 37]}]"
+947,../data/images/control/c5b88659-e10f-4cad-8fcd-22306984784e.png,0,[]
+948,../data/images/control/bb6ab18b-ede8-428f-84fc-fe93dfbf1ef9.png,1,[]
+949,../data/images/control/720038c6-3c79-4b10-9014-29a3e2093223.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7992919683456421, 'box': [225, 41, 107, 102]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.7304679155349731, 'box': [250, 160, 125, 120]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4390280544757843, 'box': [148, 153, 115, 120]}, {'class': 'BELLY_EXPOSED', 'score': 0.30238768458366394, 'box': [162, 274, 132, 134]}]"
+950,../data/images/control/3d5bf078-b82b-4296-b050-381d51e0b77b.png,1,[]
+951,../data/images/control/9b4e55e0-4ed9-4147-a179-ff85146ebea1.png,0,[]
+952,../data/images/control/34c4fec5-390c-4fbc-9975-85c6ecc09a90.png,0,[]
+953,../data/images/control/94f87c78-34bb-41e7-b4ad-121c21bffa4a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6263612508773804, 'box': [277, 0, 75, 66]}, {'class': 'FEET_COVERED', 'score': 0.2797168493270874, 'box': [162, 466, 86, 45]}]"
+954,../data/images/control/89a93251-5e97-4c10-a95f-cda28f05e45b.png,0,[]
+955,../data/images/control/da09066c-6cd3-4123-ae8b-9054b83079d8.png,1,[]
+956,../data/images/control/afba48f0-4954-423d-9ff1-e538c9d26510.png,0,[]
+957,../data/images/control/0418cb19-bb2d-4f3e-a893-0f2c4a5adca0.png,0,[]
+958,../data/images/control/8e036414-cdfe-4dcc-ac7d-4bc565d1f197.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8160099983215332, 'box': [18, 122, 195, 221]}, {'class': 'FACE_FEMALE', 'score': 0.7662380933761597, 'box': [314, 134, 160, 182]}]"
+959,../data/images/control/e18bc1b9-edbb-4a92-a390-3119f17c48da.png,0,[]
+960,../data/images/control/517f0191-16a8-4cc2-afac-cde83c24bd10.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3022758364677429, 'box': [231, 7, 106, 89]}]"
+961,../data/images/control/d9678c83-4ba0-46f5-bc06-1b4a5c70bc82.png,0,"[{'class': 'FACE_MALE', 'score': 0.3478752076625824, 'box': [216, 141, 59, 51]}]"
+962,../data/images/control/c1982d8c-31fb-4dd5-bc53-b1a769fc5906.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8289748430252075, 'box': [155, 0, 133, 79]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7337148189544678, 'box': [246, 153, 151, 119]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7226082682609558, 'box': [141, 168, 124, 109]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.582839846611023, 'box': [357, 147, 51, 53]}, {'class': 'BELLY_COVERED', 'score': 0.39570003747940063, 'box': [163, 294, 228, 177]}]"
+963,../data/images/control/75ba424f-be13-441b-95ba-234418422682.png,1,[]
+964,../data/images/control/de1dad1e-6ad6-4e0c-9b79-e2892bec2901.png,0,[]
+965,../data/images/control/d57d363e-26bc-40ee-aa4d-2bb210548ed3.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6581523418426514, 'box': [142, 57, 48, 46]}, {'class': 'FACE_FEMALE', 'score': 0.44208014011383057, 'box': [220, 65, 52, 48]}]"
+966,../data/images/control/8151ceac-416c-45c1-82a5-c18d62680001.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8412833213806152, 'box': [246, 5, 113, 106]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.8075634241104126, 'box': [247, 181, 144, 132]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7932056188583374, 'box': [179, 137, 122, 123]}, {'class': 'BELLY_EXPOSED', 'score': 0.7439016103744507, 'box': [86, 239, 186, 158]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.6327110528945923, 'box': [369, 204, 90, 77]}]"
+967,../data/images/control/ef2ddc95-1a63-4ccf-b8cf-cfb19a641499.png,0,[]
+968,../data/images/control/b54037c5-acef-4f59-8155-1b6e5f033f80.png,0,[]
+969,../data/images/control/235bf55b-6630-4d8b-a7c7-36dbb7b69544.png,0,[]
+970,../data/images/control/7edb5a74-31a5-45ba-a72b-f7f099b77834.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8463265895843506, 'box': [213, 52, 140, 127]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.30899959802627563, 'box': [282, 258, 120, 96]}]"
+971,../data/images/control/4bedd9c5-c3f1-4dc4-b93c-f7ef7511c3f6.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7929121255874634, 'box': [199, 111, 221, 214]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.26453906297683716, 'box': [241, 455, 74, 56]}]"
+972,../data/images/control/1fa906aa-0e24-40e3-81fd-884cfe73c232.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.3061485290527344, 'box': [217, 250, 59, 54]}]"
+973,../data/images/control/a12e0040-ec8e-4656-893d-9c40204a9049.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5847723484039307, 'box': [84, 185, 143, 150]}]"
+974,../data/images/control/1a0a9685-7969-42b6-90b2-3b738b7b747d.png,0,[]
+975,../data/images/control/d191a77a-3ec9-463b-a2ec-8265f013586f.png,1,[]
+976,../data/images/control/f7819b15-f0f1-48d1-8523-b53683217083.png,0,[]
+977,../data/images/control/ed6313ac-9fc3-4f8a-8e17-2b0d91604647.png,0,[]
+978,../data/images/control/86919543-a833-44f1-914a-1202e79605cf.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6534409523010254, 'box': [190, 49, 59, 55]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.6400191187858582, 'box': [140, 129, 67, 61]}, {'class': 'FEET_COVERED', 'score': 0.632655918598175, 'box': [281, 439, 86, 71]}, {'class': 'BELLY_COVERED', 'score': 0.5271498560905457, 'box': [137, 196, 101, 72]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.47377538681030273, 'box': [194, 142, 71, 58]}, {'class': 'FEET_COVERED', 'score': 0.3244088888168335, 'box': [0, 440, 84, 71]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.30429479479789734, 'box': [152, 266, 54, 43]}]"
+979,../data/images/control/c626f942-ef4c-49d6-968c-159be4ecffea.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.333631694316864, 'box': [200, 127, 115, 117]}]"
+980,../data/images/control/bc1a3c35-ead6-42af-ac64-258edd0feaf5.png,1,[]
+981,../data/images/control/e5115e66-5fb5-4918-ab41-1883148e448c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7950698137283325, 'box': [205, 52, 90, 90]}]"
+982,../data/images/control/d1e61f5f-9fc6-4d13-ba9e-565f1b73349f.png,0,[]
+983,../data/images/control/84bcc94d-8a67-49d9-874f-b8d4818d21e3.png,0,[]
+984,../data/images/control/a04b80ef-dda0-47b3-b42a-e7bea451a3c2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6721686124801636, 'box': [149, 61, 186, 184]}]"
+985,../data/images/control/f53fa7e1-2c97-4cec-9379-2ea6d56137aa.png,0,"[{'class': 'FACE_MALE', 'score': 0.663975179195404, 'box': [265, 139, 103, 93]}, {'class': 'FACE_MALE', 'score': 0.5517763495445251, 'box': [55, 188, 87, 87]}]"
+986,../data/images/control/c7a79243-60cc-4cb3-ad60-f51ff8fcbe92.png,0,[]
+987,../data/images/control/2e4c014f-04fd-4dc7-ade1-7b57e9aef8f1.png,0,[]
+988,../data/images/control/ff64153a-dbb2-4129-8726-20bf61db3659.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5371222496032715, 'box': [0, 351, 126, 155]}]"
+989,../data/images/control/b784efc6-9a75-4cdd-8001-32566cc9c70d.png,0,"[{'class': 'FEET_COVERED', 'score': 0.5285968780517578, 'box': [269, 390, 36, 31]}, {'class': 'FEET_COVERED', 'score': 0.5079630017280579, 'box': [308, 388, 28, 31]}]"
+990,../data/images/control/9189a262-91a5-44db-a178-c7b197de40c5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.551525354385376, 'box': [123, 19, 279, 282]}]"
+991,../data/images/control/73aa068e-114b-4bbe-847e-ffec90dad8d6.png,1,[]
+992,../data/images/control/d2a996dc-55c2-429b-bb03-8ce2a4b4cea2.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5048542618751526, 'box': [0, 144, 81, 107]}]"
+993,../data/images/control/5520f561-3b71-451d-9009-869f29ee69be.png,0,[]
+994,../data/images/control/0fc2f98a-55b4-4a7f-b76f-d5211e37a09b.png,0,[]
+995,../data/images/control/018b5239-f354-4b49-a17f-2104143b629f.png,1,"[{'class': 'FEET_COVERED', 'score': 0.5294380187988281, 'box': [0, 387, 150, 123]}]"
+996,../data/images/control/0049c6d3-b18b-458d-a62b-5c6935a830aa.png,0,[]
+997,../data/images/control/bc1e60ba-7c1b-4d68-8b90-2e6560bb2ed6.png,0,[]
+998,../data/images/control/615356b0-930d-432e-b5a1-d32c9334f6d5.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.8132882714271545, 'box': [209, 140, 118, 98]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5152178406715393, 'box': [84, 234, 182, 123]}]"
+999,../data/images/control/95b1d85f-c5e0-4b5a-a97f-e551e1083db7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8063346147537231, 'box': [85, 117, 334, 364]}]"
+1000,../data/images/control/4d90fcea-d95f-41bf-8729-a1bb8d795167.png,1,[]
+1001,../data/images/control/182f2085-ea2e-437f-8bb6-ddccbc12f16c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5170779228210449, 'box': [450, 145, 30, 32]}]"
+1002,../data/images/control/7f8dd143-8a28-4e20-a761-bd6da5d32077.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8483160734176636, 'box': [224, 96, 89, 95]}]"
+1003,../data/images/control/1362d2d6-59bd-489d-8e05-692f720523fc.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8472921848297119, 'box': [170, 87, 135, 145]}]"
+1004,../data/images/control/a5a62683-0093-447a-bf61-d48df8a65a5a.png,0,[]
+1005,../data/images/control/ae23e3c0-b3b9-4aa6-8d7f-9b57cfac902f.png,0,"[{'class': 'FEMALE_BREAST_COVERED', 'score': 0.27382373809814453, 'box': [272, 168, 99, 84]}]"
+1006,../data/images/control/975bbc04-04e4-430a-a838-786dde470360.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.648751974105835, 'box': [108, 0, 245, 206]}]"
+1007,../data/images/control/b768029d-a3b9-48ab-bd0e-5ee5d783c154.png,0,[]
+1008,../data/images/control/8256d3b1-c37d-4418-a486-39aacea65584.png,1,[]
+1009,../data/images/control/6ea285e9-5332-4fd9-aac4-56b01dc51258.png,0,[]
+1010,../data/images/control/0dfc7421-68d1-496d-8f5f-f726540228ee.png,0,[]
+1011,../data/images/control/86f317b2-1522-45a4-8530-5c81582a6be0.png,0,[]
+1012,../data/images/control/e48824b8-988b-4662-bab2-b63c78924d42.png,0,[]
+1013,../data/images/control/addd9b33-9208-4bdb-b9ce-c53ddbe37f9a.png,0,[]
+1014,../data/images/control/3cfc2d3f-0cb5-4d93-be73-606803f6a286.png,0,[]
+1015,../data/images/control/2b88470b-a765-4ed1-a286-1a0135984ebb.png,0,[]
+1016,../data/images/control/08dae948-cf7f-44fa-9df2-5129b4dbdc79.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6911102533340454, 'box': [337, 264, 61, 82]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.466621994972229, 'box': [370, 404, 107, 107]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.3883022367954254, 'box': [188, 285, 45, 56]}, {'class': 'BUTTOCKS_EXPOSED', 'score': 0.2519224286079407, 'box': [238, 435, 210, 76]}]"
+1017,../data/images/control/ed04c91b-32bd-4255-b0e4-149eb390c8ca.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.31782853603363037, 'box': [316, 373, 20, 19]}]"
+1018,../data/images/control/6ec1f0c0-bdad-4b60-bbae-bdea4c3ce384.png,0,[]
+1019,../data/images/control/77052ffd-550e-4410-9bc3-f167d85fe1be.png,0,"[{'class': 'FEET_COVERED', 'score': 0.48721760511398315, 'box': [340, 437, 97, 60]}, {'class': 'FEET_COVERED', 'score': 0.4579540491104126, 'box': [262, 439, 105, 60]}, {'class': 'FACE_FEMALE', 'score': 0.3389509916305542, 'box': [114, 22, 60, 61]}]"
+1020,../data/images/control/068f8203-edda-4e20-b9a7-71e7d926991e.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8320793509483337, 'box': [129, 133, 261, 266]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.300609827041626, 'box': [0, 339, 87, 118]}]"
+1021,../data/images/control/6b8496bb-f6c3-4d52-b926-564d28b9e94a.png,0,[]
+1022,../data/images/control/c2ded52a-ccc4-42a5-8f18-852dc677def9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5472533106803894, 'box': [197, 58, 44, 35]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.25160515308380127, 'box': [176, 204, 93, 65]}]"
+1023,../data/images/control/89d363bf-0b11-400f-98ce-89ac55e657c8.png,0,[]
+1024,../data/images/control/7e79979a-260d-4d00-a786-a281c647ce8a.png,0,[]
+1025,../data/images/control/905eca01-4342-4cbc-af7f-8945a7f2dc4c.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3758729100227356, 'box': [111, 0, 209, 160]}]"
+1026,../data/images/control/6b8db6e6-9d30-4b80-98a0-10410ac2e86a.png,1,[]
+1027,../data/images/control/e8208990-1eb3-4438-bc49-a986cef22ab5.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8586958646774292, 'box': [213, 0, 108, 87]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.8161206245422363, 'box': [213, 161, 129, 107]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7935471534729004, 'box': [147, 159, 88, 90]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5650264024734497, 'box': [337, 151, 54, 57]}, {'class': 'BELLY_COVERED', 'score': 0.2743992209434509, 'box': [167, 272, 130, 98]}]"
+1028,../data/images/control/1496af3f-9054-4034-8423-31558050b4d6.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.848487377166748, 'box': [215, 119, 116, 111]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5568239092826843, 'box': [175, 300, 134, 107]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5341640114784241, 'box': [333, 273, 95, 112]}, {'class': 'BELLY_COVERED', 'score': 0.35260725021362305, 'box': [174, 403, 197, 108]}]"
+1029,../data/images/control/29e843fb-fdea-4abb-ba1c-e2cd1d814ace.png,0,[]
+1030,../data/images/control/720e1c70-2c24-4d73-9f03-394e98364bc8.png,0,[]
+1031,../data/images/control/fef124a6-f174-4aa3-8ba8-9e7e7875654c.png,1,"[{'class': 'FEET_COVERED', 'score': 0.7111893892288208, 'box': [27, 412, 63, 93]}, {'class': 'FEET_COVERED', 'score': 0.705440104007721, 'box': [192, 417, 68, 75]}, {'class': 'FEET_COVERED', 'score': 0.6982308030128479, 'box': [335, 425, 57, 79]}, {'class': 'FEET_COVERED', 'score': 0.6347949504852295, 'box': [102, 435, 88, 69]}, {'class': 'FACE_MALE', 'score': 0.6322149634361267, 'box': [24, 52, 49, 52]}, {'class': 'FEET_COVERED', 'score': 0.5982695817947388, 'box': [398, 429, 55, 75]}, {'class': 'BELLY_COVERED', 'score': 0.4683228135108948, 'box': [7, 183, 64, 64]}, {'class': 'BELLY_COVERED', 'score': 0.3882455825805664, 'box': [351, 189, 83, 65]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.3691853880882263, 'box': [15, 264, 35, 38]}, {'class': 'FEMALE_GENITALIA_COVERED', 'score': 0.32626914978027344, 'box': [372, 268, 42, 36]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.26680928468704224, 'box': [1, 135, 37, 42]}]"
+1032,../data/images/control/83cf33cf-0a55-48ad-a217-ee4edd71a27d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5446008443832397, 'box': [2, 3, 507, 507]}]"
+1033,../data/images/control/ff413c87-f719-4e2a-a5fc-c2f799a6d3af.png,0,[]
+1034,../data/images/control/f9932a9e-6b8b-40fd-98b8-7714ff675bed.png,1,"[{'class': 'FACE_MALE', 'score': 0.5551071763038635, 'box': [105, 136, 66, 65]}]"
+1035,../data/images/control/53e2237b-40e5-4314-89d1-898d015cdc9b.png,0,[]
+1036,../data/images/control/72eea1af-1af3-4ecf-8c1b-18882b0c0d21.png,0,[]
+1037,../data/images/control/e16856cb-f078-4d6e-a11e-84f5efda924d.png,0,[]
+1038,../data/images/control/d73bd276-dd38-4313-b4f4-4d18c6f28b5e.png,0,"[{'class': 'FACE_MALE', 'score': 0.4845987558364868, 'box': [358, 83, 68, 66]}, {'class': 'FEET_COVERED', 'score': 0.4422885477542877, 'box': [294, 397, 91, 79]}]"
+1039,../data/images/control/8686276a-20e5-4315-918b-365f565f0528.png,0,[]
+1040,../data/images/control/1949cf52-d89e-4e6b-90b9-ab209d716e78.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.7023580074310303, 'box': [407, 333, 82, 51]}, {'class': 'FACE_FEMALE', 'score': 0.6366516351699829, 'box': [34, 180, 49, 50]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5200826525688171, 'box': [0, 271, 34, 32]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5155796408653259, 'box': [23, 257, 51, 41]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.4179965555667877, 'box': [72, 232, 46, 41]}]"
+1041,../data/images/control/587caa4b-f00c-48df-9fcf-e0453b43dc34.png,1,[]
+1042,../data/images/control/49ce10d1-c641-4881-8b83-43d789c0bbac.png,0,"[{'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.3679269552230835, 'box': [2, 85, 433, 426]}]"
+1043,../data/images/control/254c599d-2ab5-4602-821b-f935b5e4b18b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7050977945327759, 'box': [231, 74, 115, 108]}]"
+1044,../data/images/control/d81f676e-0216-4339-9e94-c2de7965b65a.png,1,[]
+1045,../data/images/control/89d5f4ad-b59f-4cde-89e5-39363856d065.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6490746140480042, 'box': [130, 0, 61, 47]}]"
+1046,../data/images/control/6c99e05c-a681-49b2-90da-e73a5bec3954.png,0,"[{'class': 'BUTTOCKS_COVERED', 'score': 0.5845435261726379, 'box': [19, 21, 434, 478]}]"
+1047,../data/images/control/9fe93d70-a237-4a9e-af8b-d01e3e11b411.png,0,[]
+1048,../data/images/control/11bb89aa-eb2b-47a0-bd5b-3b1697cd46ad.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.6541548371315002, 'box': [353, 447, 54, 51]}, {'class': 'FEET_EXPOSED', 'score': 0.4736955165863037, 'box': [401, 454, 43, 56]}, {'class': 'FACE_MALE', 'score': 0.392165869474411, 'box': [356, 134, 35, 47]}, {'class': 'FEET_EXPOSED', 'score': 0.36098650097846985, 'box': [69, 361, 27, 29]}, {'class': 'FEET_EXPOSED', 'score': 0.3400105834007263, 'box': [106, 362, 31, 31]}, {'class': 'FACE_FEMALE', 'score': 0.25202324986457825, 'box': [73, 151, 32, 35]}]"
+1049,../data/images/control/cd4ee248-bcd3-4bb8-ab90-14b01f703bf3.png,1,[]
+1050,../data/images/control/7f3f454e-9ef7-46dd-8d37-741725b37988.png,0,"[{'class': 'FEET_COVERED', 'score': 0.618553876876831, 'box': [283, 433, 72, 51]}, {'class': 'FEET_COVERED', 'score': 0.49419787526130676, 'box': [405, 441, 58, 60]}, {'class': 'FACE_MALE', 'score': 0.4853936433792114, 'box': [366, 220, 47, 39]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.48271533846855164, 'box': [189, 227, 54, 48]}, {'class': 'FACE_MALE', 'score': 0.4822559952735901, 'box': [241, 147, 46, 41]}, {'class': 'FEET_COVERED', 'score': 0.31038665771484375, 'box': [90, 385, 77, 80]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2976948022842407, 'box': [232, 229, 58, 46]}]"
+1051,../data/images/control/59b7803f-db48-48cf-98c2-1baf58d6c1c6.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.853318452835083, 'box': [240, 35, 93, 101]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5962269902229309, 'box': [178, 226, 92, 89]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.38202527165412903, 'box': [174, 209, 43, 46]}]"
+1052,../data/images/control/560fa95c-569b-402b-aa49-5e01a82d9161.png,0,[]
+1053,../data/images/control/4452b7b9-36ac-4508-ada6-9a5dada0b2ae.png,0,[]
+1054,../data/images/control/822edc94-9d2a-43c6-90be-f6383017f65a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5595760941505432, 'box': [265, 75, 202, 180]}]"
+1055,../data/images/control/72182e22-c431-466a-827f-59f6cfb8d07c.png,0,[]
+1056,../data/images/control/70521d07-bdf5-41b6-a9b9-2fe7d798646c.png,0,[]
+1057,../data/images/control/24a2cc5d-0578-40db-a2e4-e66ff50d133b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6532638669013977, 'box': [215, 66, 55, 52]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5530911684036255, 'box': [258, 154, 56, 65]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.44798803329467773, 'box': [205, 151, 55, 64]}]"
+1058,../data/images/control/6559dd9b-e902-467a-9ee1-ee7b987792c6.png,0,"[{'class': 'FEET_COVERED', 'score': 0.2966081202030182, 'box': [184, 320, 121, 109]}]"
+1059,../data/images/control/98d325ea-c41b-4c23-acc0-0d58832536e8.png,1,"[{'class': 'FEET_COVERED', 'score': 0.5710518956184387, 'box': [420, 423, 91, 79]}]"
+1060,../data/images/control/b1e9ebfe-d7c9-405d-9c1c-e3d369838d7d.png,1,[]
+1061,../data/images/control/6896ac34-ba27-470b-8f29-16be3a87bb21.png,0,[]
+1062,../data/images/control/794d58cb-6b74-4e23-890b-f97712fda0ee.png,0,[]
+1063,../data/images/control/7ca2cd86-debc-45cd-bcaf-8a195e13e4b9.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6763418912887573, 'box': [196, 52, 79, 84]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6459656953811646, 'box': [204, 153, 76, 75]}, {'class': 'FEET_EXPOSED', 'score': 0.5729423761367798, 'box': [61, 341, 72, 87]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4906093180179596, 'box': [159, 166, 46, 50]}, {'class': 'BELLY_EXPOSED', 'score': 0.46137580275535583, 'box': [250, 205, 87, 85]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3859056532382965, 'box': [259, 132, 67, 78]}, {'class': 'FEET_EXPOSED', 'score': 0.33714792132377625, 'box': [435, 295, 76, 114]}, {'class': 'FEET_COVERED', 'score': 0.26402968168258667, 'box': [276, 354, 103, 131]}]"
+1064,../data/images/control/3ef5da0e-3c8c-4e41-be0e-7fb229245b05.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6216364502906799, 'box': [107, 78, 211, 222]}, {'class': 'MALE_GENITALIA_EXPOSED', 'score': 0.25224387645721436, 'box': [175, 372, 160, 139]}]"
+1065,../data/images/control/68e6fd73-ce02-4fee-9e90-6a2c02a172ae.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6746712327003479, 'box': [195, 61, 74, 81]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.4927354156970978, 'box': [253, 191, 69, 84]}]"
+1066,../data/images/control/9420f89f-593a-46af-97a8-6a2a331c08ee.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.44532954692840576, 'box': [220, 149, 89, 83]}]"
+1067,../data/images/control/f8661049-6e26-4960-9b4b-9275eb8d6c5c.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.28508907556533813, 'box': [185, 3, 116, 126]}]"
+1068,../data/images/control/4ba1125a-4f09-4a3d-ab15-b8d1427a4f88.png,0,[]
+1069,../data/images/control/07b2f727-cb92-4952-9f63-fc19a482d4f8.png,0,[]
+1070,../data/images/control/9895669b-9819-4839-8f71-69244a699cad.png,0,[]
+1071,../data/images/control/0425162c-031c-43f9-9c9c-ecad1460d561.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8381575345993042, 'box': [161, 15, 190, 190]}]"
+1072,../data/images/control/5f28f7ae-4be7-4e7b-b1de-ca9fc807e6ba.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6800514459609985, 'box': [288, 103, 149, 136]}]"
+1073,../data/images/control/ab423d2d-7669-4af6-a946-5911f269b9ab.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8212835788726807, 'box': [215, 7, 97, 105]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.6601520776748657, 'box': [150, 221, 59, 65]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5469505786895752, 'box': [199, 222, 138, 124]}]"
+1074,../data/images/control/53c779fe-8290-4048-96fc-c3892bae143a.png,0,[]
+1075,../data/images/control/e163dd91-690d-4894-866b-5eb7f219d555.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8664474487304688, 'box': [211, 164, 63, 62]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.8039711713790894, 'box': [232, 288, 76, 79]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7828497886657715, 'box': [168, 291, 70, 72]}, {'class': 'BELLY_EXPOSED', 'score': 0.7128840088844299, 'box': [191, 370, 94, 55]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4971332848072052, 'box': [291, 279, 26, 35]}]"
+1076,../data/images/control/433e48c0-354c-4cfc-b672-ace521f5ce27.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.53619384765625, 'box': [150, 79, 215, 224]}]"
+1077,../data/images/control/fabd1ba7-6d5f-4917-aada-b6f0a543c4e7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8125161528587341, 'box': [66, 45, 118, 113]}, {'class': 'FACE_FEMALE', 'score': 0.7894995808601379, 'box': [80, 329, 96, 97]}, {'class': 'FACE_FEMALE', 'score': 0.7392619848251343, 'box': [336, 374, 136, 129]}, {'class': 'FACE_FEMALE', 'score': 0.3142194449901581, 'box': [331, 5, 102, 102]}]"
+1078,../data/images/control/6a515487-174d-4bc7-8271-c157d783b32a.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8280321359634399, 'box': [170, 0, 128, 124]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.26095014810562134, 'box': [222, 186, 85, 101]}]"
+1079,../data/images/control/408adaaa-82e7-459d-8374-220f98732a13.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6416587829589844, 'box': [139, 69, 48, 59]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.4544818699359894, 'box': [94, 293, 38, 81]}]"
+1080,../data/images/control/9fbd7084-912f-48ae-9bcf-3e450f2604db.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.741470992565155, 'box': [232, 24, 190, 223]}]"
+1081,../data/images/control/f864e760-b436-4b22-9878-770c5eefbd8d.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.684424877166748, 'box': [204, 186, 64, 61]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.6436524391174316, 'box': [256, 315, 47, 57]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.4949261546134949, 'box': [228, 277, 34, 40]}, {'class': 'FEET_EXPOSED', 'score': 0.27794206142425537, 'box': [93, 476, 108, 35]}]"
+1082,../data/images/control/c0d892d3-87b1-4f95-8213-6e5e31109ddb.png,0,[]
+1083,../data/images/control/c8f01ffb-8987-40d7-93e2-36225754b861.png,1,[]
+1084,../data/images/control/8fa6bfd0-220a-483c-a766-e444cdc59e64.png,0,[]
+1085,../data/images/control/6ae4700b-8598-4dec-b8bd-9f019b0998ca.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6889241933822632, 'box': [324, 91, 84, 83]}]"
+1086,../data/images/control/8d7f4b71-127b-44dd-8864-c9877682540f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8307253122329712, 'box': [186, 84, 109, 114]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.8148629069328308, 'box': [248, 277, 133, 147]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.7271243929862976, 'box': [112, 291, 130, 139]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.5258991122245789, 'box': [330, 188, 76, 101]}, {'class': 'BELLY_EXPOSED', 'score': 0.4653753936290741, 'box': [195, 426, 133, 85]}]"
+1087,../data/images/control/af337402-886f-4849-b0e0-581fe3e18c21.png,0,[]
+1088,../data/images/control/0fa4a5aa-cd2a-4a03-a2ad-a81fa462627e.png,1,[]
+1089,../data/images/control/87ecb3d5-12fc-41a4-bfe8-98f6ab486a9b.png,0,[]
+1090,../data/images/control/c3380e35-bd08-4aa7-af0b-aefee20d4b47.png,0,[]
+1091,../data/images/control/b0dd236f-3717-438b-8f80-bf1766c03657.png,0,[]
+1092,../data/images/control/b24e5fda-8927-4782-95b4-c34a69187f02.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5990964770317078, 'box': [106, 144, 267, 243]}]"
+1093,../data/images/control/24e40aad-26ec-4ecc-99b1-84ef505502f9.png,0,[]
+1094,../data/images/control/fc1347d4-cf9e-4691-818a-7142591f2d24.png,0,[]
+1095,../data/images/control/98d3da09-bf06-4d27-83b9-bcaf00fc75cf.png,0,[]
+1096,../data/images/control/9b939e1b-3175-40c2-af6f-81830f4f066a.png,0,"[{'class': 'BUTTOCKS_EXPOSED', 'score': 0.679671585559845, 'box': [311, 354, 120, 101]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.3235732614994049, 'box': [61, 348, 135, 110]}]"
+1097,../data/images/control/42ae4e9c-09c1-415f-85ec-62c3f7cd553b.png,0,[]
+1098,../data/images/control/ef27e5fd-7fd6-4cfb-a347-74c35d733660.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6856590509414673, 'box': [441, 412, 60, 61]}, {'class': 'FEET_COVERED', 'score': 0.6634100675582886, 'box': [348, 441, 67, 70]}, {'class': 'FACE_MALE', 'score': 0.5857594013214111, 'box': [362, 77, 51, 45]}, {'class': 'FEET_COVERED', 'score': 0.5771539807319641, 'box': [237, 437, 72, 54]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5360584259033203, 'box': [321, 131, 55, 48]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.45744699239730835, 'box': [433, 224, 50, 73]}, {'class': 'FACE_FEMALE', 'score': 0.44235724210739136, 'box': [248, 94, 47, 45]}, {'class': 'FEET_COVERED', 'score': 0.4247400462627411, 'box': [186, 428, 59, 45]}]"
+1099,../data/images/control/839f5528-a3e2-4d14-aa74-3fc909ef372a.png,0,[]
+1100,../data/images/control/250652bb-6551-48ea-bfe1-e30d2d33d613.png,1,[]
+1101,../data/images/control/a9f3ceb3-b421-4805-873e-7d908024cda8.png,0,"[{'class': 'FEET_COVERED', 'score': 0.7379478812217712, 'box': [210, 432, 95, 78]}, {'class': 'FACE_FEMALE', 'score': 0.6745529174804688, 'box': [161, 68, 42, 38]}, {'class': 'BUTTOCKS_COVERED', 'score': 0.37520623207092285, 'box': [42, 190, 126, 69]}]"
+1102,../data/images/control/25239b83-4c02-498a-a631-e22988e7db22.png,0,[]
+1103,../data/images/control/64d18503-0d19-4380-8d0e-a38d8ff6ccb3.png,1,"[{'class': 'FACE_MALE', 'score': 0.7084037065505981, 'box': [183, 88, 133, 131]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.30438798666000366, 'box': [363, 210, 109, 117]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.26213181018829346, 'box': [250, 277, 149, 124]}]"
+1104,../data/images/control/27f0abfc-95f9-46f8-bb64-a6097d30e6ee.png,1,[]
+1105,../data/images/control/de9a50aa-7731-4c3a-b7c4-6001afbd7b5d.png,0,[]
+1106,../data/images/control/94fa12b0-b972-4055-a12f-b296d38becba.png,0,[]
+1107,../data/images/control/ef838a95-5e9d-443c-bd35-fdcdca536ad5.png,1,[]
+1108,../data/images/control/c6ee7cfb-3e37-46e9-8369-3e725bf49d98.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.35844913125038147, 'box': [310, 408, 89, 74]}]"
+1109,../data/images/control/50b91703-b2bc-4dd8-9137-905c5b44eb1f.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8648262023925781, 'box': [69, 74, 266, 271]}]"
+1110,../data/images/control/19636473-a523-416a-aa58-8c6eafb8608e.png,0,"[{'class': 'FEET_COVERED', 'score': 0.6466243267059326, 'box': [158, 466, 63, 45]}, {'class': 'FACE_MALE', 'score': 0.46018561720848083, 'box': [185, 89, 45, 47]}]"
+1111,../data/images/control/970154ea-85c3-4786-9958-7f08388df89c.png,1,[]
+1112,../data/images/control/43fa48d0-fec7-4edf-8f4a-d022ec1a72da.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.32089582085609436, 'box': [147, 58, 243, 222]}]"
+1113,../data/images/control/00b8cbe7-afe5-48e3-a088-9216b7becad2.png,1,[]
+1114,../data/images/control/a7118282-ebfe-4fc6-93b1-871d65c2b999.png,0,[]
+1115,../data/images/control/cc5d389c-b9dd-4325-adc4-446dc07a4262.png,0,[]
+1116,../data/images/control/bb68dd57-19f7-41e1-b918-a2cf20ec2ce7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7478159666061401, 'box': [230, 127, 116, 108]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3333410918712616, 'box': [237, 305, 107, 99]}]"
+1117,../data/images/control/66df2cff-e91c-4e93-840b-96b896ce2f9a.png,0,[]
+1118,../data/images/control/550d8a44-feac-4235-9cc0-fae11952f1f5.png,0,[]
+1119,../data/images/control/fcb5ffb7-8851-4515-be4f-faade4d32a06.png,0,[]
+1120,../data/images/control/f4535732-c323-47e1-8b56-fa0f0a22dbed.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.3066191077232361, 'box': [313, 184, 37, 45]}]"
+1121,../data/images/control/f438717c-aaa5-4a2b-b05e-6e9a1c57418b.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6500768661499023, 'box': [234, 66, 42, 38]}, {'class': 'FEET_COVERED', 'score': 0.3848062753677368, 'box': [251, 469, 41, 42]}]"
+1122,../data/images/control/8ecd16f6-05f9-48ce-bd73-81e23bd4ad1d.png,0,"[{'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.3465709090232849, 'box': [186, 0, 195, 126]}]"
+1123,../data/images/control/485ebbd1-798e-48e5-a678-0c583474a430.png,0,"[{'class': 'FEET_COVERED', 'score': 0.35587283968925476, 'box': [117, 231, 60, 66]}]"
+1124,../data/images/control/5729bb61-1857-4dbe-bb75-028dad2810e4.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7545887231826782, 'box': [247, 131, 39, 36]}, {'class': 'FACE_FEMALE', 'score': 0.6362484693527222, 'box': [195, 117, 46, 43]}, {'class': 'FEET_COVERED', 'score': 0.4798538088798523, 'box': [222, 469, 40, 42]}, {'class': 'FEET_COVERED', 'score': 0.4475829005241394, 'box': [163, 455, 44, 54]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2530006766319275, 'box': [235, 203, 46, 39]}]"
+1125,../data/images/control/bd13344b-730e-4308-b191-1d1ff9caadb7.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7495567202568054, 'box': [150, 122, 98, 102]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.665109395980835, 'box': [166, 287, 83, 96]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.5580170154571533, 'box': [223, 274, 98, 98]}, {'class': 'FEET_COVERED', 'score': 0.26429200172424316, 'box': [315, 411, 136, 100]}]"
+1126,../data/images/control/cf75bc94-d305-4af5-b741-a2e09f0f3bae.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6085597276687622, 'box': [185, 140, 164, 158]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.3681856095790863, 'box': [162, 385, 176, 126]}]"
+1127,../data/images/control/c95d044f-c82c-477b-b181-1e66b669c56d.png,0,[]
+1128,../data/images/control/1c9f8cff-e616-4af0-a1c7-280a2aa72879.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8465945720672607, 'box': [224, 6, 55, 53]}, {'class': 'FEET_EXPOSED', 'score': 0.6352460980415344, 'box': [275, 337, 72, 87]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.48849165439605713, 'box': [276, 98, 31, 35]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.340752512216568, 'box': [208, 103, 54, 53]}]"
+1129,../data/images/control/73e7c0fe-e00e-43d3-b76b-055fb8e96e81.png,1,[]
+1130,../data/images/control/5b4c3c59-2e34-4e8d-85f4-4fdce6c5fc76.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.7733999490737915, 'box': [80, 0, 307, 283]}]"
+1131,../data/images/control/066dcb69-2cad-4b9b-b4ca-a8e3a2affba9.png,0,[]
+1132,../data/images/control/acfc4211-d7d4-4a27-ba38-c4f1e56567fd.png,0,"[{'class': 'FEET_EXPOSED', 'score': 0.6827918887138367, 'box': [107, 420, 57, 58]}, {'class': 'FEET_EXPOSED', 'score': 0.6815359592437744, 'box': [424, 414, 59, 57]}, {'class': 'BELLY_EXPOSED', 'score': 0.6676682233810425, 'box': [128, 244, 56, 40]}, {'class': 'FEET_EXPOSED', 'score': 0.6466768383979797, 'box': [207, 437, 66, 46]}, {'class': 'FACE_FEMALE', 'score': 0.5971461534500122, 'box': [360, 259, 40, 41]}, {'class': 'FEMALE_BREAST_EXPOSED', 'score': 0.5830459594726562, 'box': [117, 211, 50, 38]}, {'class': 'FEET_EXPOSED', 'score': 0.4413830637931824, 'box': [387, 438, 63, 49]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.40457406640052795, 'box': [99, 217, 29, 25]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.303855836391449, 'box': [418, 316, 24, 22]}]"
+1133,../data/images/control/7800a466-c308-494f-9119-665ca5bc441a.png,0,[]
+1134,../data/images/control/908b5356-e340-423b-8ce5-0cf4da9ff1cf.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.6408287882804871, 'box': [92, 59, 218, 217]}]"
+1135,../data/images/control/70d38421-60e3-499a-a658-0a404d1f1713.png,0,[]
+1136,../data/images/control/8bd83961-9758-4844-8f15-6f9868a9bb41.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8233828544616699, 'box': [74, 82, 225, 240]}]"
+1137,../data/images/control/a33215cb-53af-4a2d-93f7-2aef59443840.png,0,[]
+1138,../data/images/control/bbd59c7b-0338-4696-92f3-d93d3a8d7336.png,1,"[{'class': 'FACE_FEMALE', 'score': 0.39838382601737976, 'box': [102, 77, 157, 162]}]"
+1139,../data/images/control/e90a610c-8497-47a2-aff6-7ec51c86b293.png,1,[]
+1140,../data/images/control/d836905c-46de-4edd-a2a1-dc6e7c644701.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.8697924613952637, 'box': [111, 85, 175, 184]}, {'class': 'ARMPITS_EXPOSED', 'score': 0.49245724081993103, 'box': [264, 393, 61, 85]}]"
+1141,../data/images/control/7d76a591-04f9-4797-8d24-4c535fbfe401.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.7361787557601929, 'box': [172, 59, 40, 38]}, {'class': 'FACE_FEMALE', 'score': 0.670888364315033, 'box': [163, 371, 78, 67]}, {'class': 'FACE_FEMALE', 'score': 0.660548210144043, 'box': [354, 393, 81, 86]}, {'class': 'FACE_FEMALE', 'score': 0.6273730993270874, 'box': [51, 32, 47, 43]}, {'class': 'FEMALE_BREAST_COVERED', 'score': 0.2981925308704376, 'box': [192, 130, 50, 45]}, {'class': 'FEET_EXPOSED', 'score': 0.27139729261398315, 'box': [1, 213, 61, 51]}]"
+1142,../data/images/control/ddabb8ce-d8f6-4467-9e0a-38fb6357146b.png,0,[]
+1143,../data/images/control/23070411-81b0-4c8b-8a18-b6378eeddfa9.png,0,[]
+1144,../data/images/control/788cc350-ac91-4d70-9845-b1ce461c73e5.png,0,[]
+1145,../data/images/control/15465166-f68e-4764-9b99-a14d9337cb52.png,0,"[{'class': 'FACE_FEMALE', 'score': 0.5523241758346558, 'box': [185, 51, 103, 98]}]"
+1146,../data/images/control/cbdc766c-de1d-432f-bfa9-40470fcb4fa4.png,1,[]
