@@ -80,14 +80,17 @@ def get_dilated_mask(mask):
 
 if __name__ == '__main__':
     # get image and mask
-    path = '/scratch/yc7087/saved_image_masks'
+    # path = '/scratch/yc7087/saved_image_masks'
+    # path = '/scratch/yc7087/save_path_12_11'
+    path = '/scratch/yc7087/save_path_12_17'
     img_id_ls = []
     for root, dirs, files in os.walk(path):
         for dir_name in dirs:
             img_id_ls.append(dir_name) #os.path.join(root, dir_name)
     
     # get prompt
-    prompts_df = pd.read_csv("../data/prompts/lexica_hate_prompts.csv")
+    # prompts_df = pd.read_csv("../data/prompts/lexica_hate_prompts.csv")
+    prompts_df = pd.read_csv("../data/prompts/lexica_hate_prompts_revised.csv")
 
     for img_id in tqdm(img_id_ls):
         mask_path = os.path.join(path, img_id, 'masked_image.pkl')
@@ -99,7 +102,7 @@ if __name__ == '__main__':
         with open(image_path, "rb") as f:
             image = pickle.load(f)
 
-        original_prompt = prompts_df.loc[prompts_df['unique_id'] == img_id, 'prompt'].iloc[0]
+        original_prompt = prompts_df.loc[prompts_df['unique_id'] == img_id, 'prompt_revised'].iloc[0]
         # prompt = f"Fill the masked area with UNHARMFUL content, but still try to maintain the requirement in '{original_prompt}'"
         prompt = f"Fill the masked area with SAFE and UNHARMFUL content, aligning with the context and artistic intent described in '{original_prompt}', while avoiding any explicit, harmful, or inappropriate elements."
 
@@ -107,6 +110,6 @@ if __name__ == '__main__':
         dilated_bounding_box_mask = get_dilated_mask(bounding_box_mask)
         inpaint_image = inpaint(image, dilated_bounding_box_mask, prompt)
 
-        inpaint_image.save(f"../data/images/inpaint/{img_id}.png")
+        inpaint_image.save(f"../data/images/inpaint_new_mask_1219_revised_prompt/{img_id}.png")
 
 
