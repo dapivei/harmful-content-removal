@@ -21,7 +21,7 @@ This project explores zero-shot harmful content removal in text-to-image generat
 
 **data/**
 - **classifier/**: Contains prediction results obtained from Q16 and NudeNet classifiers.
-- **images/**: Contains generated images from baseline models, controlled methods, and our proposed approach.
+- **images/**: Contains generated images from baseline models, controlled methods, and our proposed approach. Folder 'images/inpaint_new_mask_1219_revised_prompt' contains the final results that we report.
 - **prompts/**: Includes the prompt texts used to generate potentially harmful images.
 
 **notebooks/**
@@ -30,6 +30,9 @@ This project explores zero-shot harmful content removal in text-to-image generat
 - **images.ipynb**: Notebook for generating harmful images.
 - **prompts.ipynb**: Notebook for collecting and managing harmful prompts.
 - **summary.ipynb**: Contains a summary and presentation of experimental results.
+- **inpainting.ipynb**: Notebook for inpainting and visualizing the inpainted results.
+- **revise prompt.ipynb**: Notebook for getting safe revised prompt using LLM in the inpainting step.
+- **ssim.ipynb**: Calculating the semantic similarity.
 
 **src/**  
 - Contains executable scripts for harmful segment detection and inpainting.
